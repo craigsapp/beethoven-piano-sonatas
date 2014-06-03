@@ -52,7 +52,7 @@ processing commands.  Type ```make``` when in the same directory as the
 makefile to list commands that can be run with the makefile.
 
 If the command ```which make``` reports that the make command cannot
-be found, then you must install it.  In linux, this comamnd might
+be found, then you must install it.  In linux, this command might
 install it:
 ```bash
    sudo apt-get install build-essential
