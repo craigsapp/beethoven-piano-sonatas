@@ -380,10 +380,12 @@
 .	32gg\	.
 .	32ff\	.
 .	32ee\JJJ)	.
-.	32g'\ (32gg'\LLL	.
-.	32en'\ 32een'\	.
-.	32d-'\ 32dd-'\	.
-.	32c'\ 32cc'\JJJ)	.
+*	*8va	*
+.	32gg'\ (32ggg'\LLL	.
+.	32een'\ 32eeen'\	.
+.	32dd-'\ 32ddd-'\	.
+.	32cc'\ 32ccc'\JJJ)	.
+*	*X8va	*
 =31	=31	=31
 32En\ 32G\LLL	8cc\ (8ccc\L	.
 32c\	.	.
@@ -557,3 +559,4 @@ BB-q/	.	.
 *-	*-	*-
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/10/28/
+!!!EEV: 2014/07/13/ (added ottavas)

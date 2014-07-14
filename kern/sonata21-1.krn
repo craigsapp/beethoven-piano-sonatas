@@ -3138,101 +3138,103 @@
 8C'/	.	8g'\ 8gg'\	.
 8GG'/J	.	8e'\ 8ee'\J	.
 =231	=231	=231	=231
+*	*	*8va	*
 8G'\L	.	16r	.
-.	.	16cc\LL	.
-8E'\	.	16ee\	.
-.	.	16cc\JJ	.
-8c'\	.	16gg\LL	.
-.	.	16ee\	.
-8G'\J	.	16gg\	.
-.	.	16ee\JJ	.
+.	.	16ccc\LL	.
+8E'\	.	16eee\	.
+.	.	16ccc\JJ	.
+8c'\	.	16ggg\LL	.
+.	.	16eee\	.
+8G'\J	.	16ggg\	.
+.	.	16eee\JJ	.
 *clefG2	*clefG2	*	*
-8e'/L	.	16gg\LL	.
-.	.	16ee\	.
-8c'/	.	16gg\	.
-.	.	16ee\JJ	.
-8g'/	.	16gg\LL	.
-.	.	16ee\	.
-8e'/J	.	16gg\	.
-.	.	16ee\JJ	.
+8e'/L	.	16ggg\LL	.
+.	.	16eee\	.
+8c'/	.	16ggg\	.
+.	.	16eee\JJ	.
+8g'/	.	16ggg\LL	.
+.	.	16eee\	.
+8e'/J	.	16ggg\	.
+.	.	16eee\JJ	.
 =232	=232	=232	=232
-8cc'\L	.	16gg\LL	.
-.	.	16ee\	.
-8g'\	.	16gg\	.
-.	.	16ee\JJ	.
-8ee'\	.	16gg\LL	.
-.	.	16ee\	.
-8cc'\J	.	16gg\	.
-.	.	16ee\JJ	.
-8gg'\L	.	16gg\LL	.
-.	.	16ee\	.
-8ee'\	.	16gg\	.
-.	.	16ee\JJ	.
-8ccc'\	.	16gg\LL	.
-.	.	16ee\	.
-8gg'\J	.	16gg\	.
-.	.	16ee\JJ	.
+8cc'\L	.	16ggg\LL	.
+.	.	16eee\	.
+8g'\	.	16ggg\	.
+.	.	16eee\JJ	.
+8ee'\	.	16ggg\LL	.
+.	.	16eee\	.
+8cc'\J	.	16ggg\	.
+.	.	16eee\JJ	.
+8gg'\L	.	16ggg\LL	.
+.	.	16eee\	.
+8ee'\	.	16ggg\	.
+.	.	16eee\JJ	.
+8ccc'\	.	16ggg\LL	.
+.	.	16eee\	.
+8gg'\J	.	16ggg\	.
+.	.	16eee\JJ	.
 =233	=233	=233	=233
 8bb'\L	.	16r	.
-.	.	16ff\LL	.
-8gg'\	.	16gg\	.
-.	.	16ff\JJ	.
-8bb'\	.	16aa-\LL	.
-.	.	16ff\	.
-8gg'\J	.	16gg\	.
-.	.	16ff\JJ	.
-8bb'\L	.	16aa-\LL	.
-.	.	16ff\	.
-8gg'\	.	16gg\	.
-.	.	16ff\JJ	.
-8bb'\	.	16aa-\LL	.
-.	.	16ff\	.
-8gg'\J	.	16gg\	.
-.	.	16ff\JJ	.
+.	.	16fff\LL	.
+8gg'\	.	16ggg\	.
+.	.	16fff\JJ	.
+8bb'\	.	16aaa-\LL	.
+.	.	16fff\	.
+8gg'\J	.	16ggg\	.
+.	.	16fff\JJ	.
+8bb'\L	.	16aaa-\LL	.
+.	.	16fff\	.
+8gg'\	.	16ggg\	.
+.	.	16fff\JJ	.
+8bb'\	.	16aaa-\LL	.
+.	.	16fff\	.
+8gg'\J	.	16ggg\	.
+.	.	16fff\JJ	.
 =234	=234	=234	=234
-8bb'\L	.	16aa-\LL	pp
-.	.	16ff\	.
-8gg'\	.	16gg\	.
-.	.	16ff\JJ	.
-8bb'\	.	16aa-\LL	.
-.	.	16ff\	.
-8gg'\J	.	16gg\	.
-.	.	16ff\JJ	.
-8bb'\L	.	16aa-\LL	.
-.	.	16ff\	.
-8gg'\	.	16gg\	.
-.	.	16ff\JJ	.
-8bb'\	.	16aa-\LL	.
-.	.	16ff\	.
-8gg'\J	.	16gg\	.
-.	.	16ff\JJ	.
+8bb'\L	.	16aaa-\LL	pp
+.	.	16fff\	.
+8gg'\	.	16ggg\	.
+.	.	16fff\JJ	.
+8bb'\	.	16aaa-\LL	.
+.	.	16fff\	.
+8gg'\J	.	16ggg\	.
+.	.	16fff\JJ	.
+8bb'\L	.	16aaa-\LL	.
+.	.	16fff\	.
+8gg'\	.	16ggg\	.
+.	.	16fff\JJ	.
+8bb'\	.	16aaa-\LL	.
+.	.	16fff\	.
+8gg'\J	.	16ggg\	.
+.	.	16fff\JJ	.
 =235	=235	=235	=235
-[1bb	.	16aa\LL	.
-.	.	16ff\	.
-.	.	16gg\	.
-.	.	16ff\JJ	.
-.	.	16aa\LL	.
-.	.	16ff\	.
-.	.	16gg\	.
-.	.	16ff\JJ	.
-.	.	16aa\LL	.
-.	.	16ff\	.
-.	.	16gg\	.
-.	.	16ff\JJ	.
-.	.	16aa\LL	.
-.	.	16ff\	.
-.	.	16gg\	.
-.	.	16ff\JJ	.
+[1bb	.	16aaa\LL	.
+.	.	16fff\	.
+.	.	16ggg\	.
+.	.	16fff\JJ	.
+.	.	16aaa\LL	.
+.	.	16fff\	.
+.	.	16ggg\	.
+.	.	16fff\JJ	.
+.	.	16aaa\LL	.
+.	.	16fff\	.
+.	.	16ggg\	.
+.	.	16fff\JJ	.
+.	.	16aaa\LL	.
+.	.	16fff\	.
+.	.	16ggg\	.
+.	.	16fff\JJ	.
 =236	=236	=236	=236
-1bb]	.	8aa\L	.
-.	.	8ff\ 8gg\	.
-.	.	8ff\ 8gg\	.
-.	.	8ff\ 8gg\J	.
-.	.	8ff\ 8gg\L	.
-.	.	8ff\ 8gg\	.
-.	.	8ff\ 8gg\	.
-.	.	8ff\ 8gg\J	.
+1bb]	.	8aaa\L	.
+.	.	8fff\ 8ggg\	.
+.	.	8fff\ 8ggg\	.
+.	.	8fff\ 8ggg\J	.
+.	.	8fff\ 8ggg\L	.
+.	.	8fff\ 8ggg\	.
+.	.	8fff\ 8ggg\	.
+.	.	8fff\ 8ggg\J	.
 =237	=237	=237	=237
+*	*	*X8va	*
 *^	*	*	*
 (2cc/	[1c	.	2.ccc\	.
 2e/ 2g/ 2b-/	.	.	.	.
@@ -3990,3 +3992,4 @@
 !!!END: 2004/04/04/
 !!!ONB: Not proof-read; some note/rest encoding errors from SharpEye
 !!!ONB: Grace notes not encoded (but present in original MusicXML file).
+!!!EEV: 2014/07/13/ (added ottavas)

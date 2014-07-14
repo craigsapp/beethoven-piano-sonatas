@@ -190,6 +190,7 @@
 =26	=26	=26
 (16ddd##\LL	8r	.
 16eee#\JJ)	.	.
+*	*8va	*
 8r	16fff##\LL	p
 .	16ggg#\JJ	.
 (16bb\LL	8r	.
@@ -201,6 +202,7 @@
 16gg#\JJ)	.	.
 8r	16bb#\LL	.
 .	16ccc#\JJ	.
+*	*X8va	*
 (16dd##\LL	8r	.
 16ee#\JJ)	.	.
 8r	(16ff##\LL	.
@@ -622,6 +624,7 @@
 =79	=79	=79
 (16ccc#\LL	8r	.
 16dddn\JJ)	.	.
+*	*8va	*
 8r	16eeen\LL	>
 .	16fffn\JJ	.
 (16bb\LL	8r	.
@@ -637,6 +640,7 @@
 16ddd\JJ)	.	.
 8r	16dddn\LL	.
 .	16fff\JJ	.
+*	*X8va	*
 =81	=81	=81
 (16ccc#\LL	8r	.
 16dddn\JJ)	.	.
@@ -1439,3 +1443,4 @@
 *-	*-	*-
 !!!ENC: Craig Stuart Sapp
 !!!END: 2005/08/24/
+!!!EEV: 2014/07/13/ (added ottavas)

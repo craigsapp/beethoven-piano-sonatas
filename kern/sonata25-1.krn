@@ -1201,70 +1201,72 @@
 .	8gg\	.
 .	8ff#\J)	.
 =159	=159	=159
-2.d/ 2.f#/ 2.a/ 2.ccn/	8a\L	.
-.	8ccn\	.
-.	8ff#\	.
-.	8cc\	.
-.	8aa\	.
-.	8ff#\J	.
+*	*8va	*
+2.d/ 2.f#/ 2.a/ 2.ccn/	8aa\L	.
+.	8cccn\	.
+.	8fff#\	.
+.	8ccc\	.
+.	8aaa\	.
+.	8fff#\J	.
 =160	=160	=160
-2.e-/ 2.f#/ 2.a/ 2.cc/	8aa\L	.
-.	8ff#\	.
-.	8aa\	.
-.	8ff#\	.
-.	8aa\	.
-.	8ff#\J	.
+2.e-/ 2.f#/ 2.a/ 2.cc/	8aaa\L	.
+.	8fff#\	.
+.	8aaa\	.
+.	8fff#\	.
+.	8aaa\	.
+.	8fff#\J	.
 =161	=161	=161
-2d/ 2f#/ 2a/ 2cc/	8aa\L	.
-.	8ff#\	.
-.	8dd\	.
-.	8ee\	.
-4c/ 4f#/ 4a/	8ff#\	.
-.	8dd\J	.
+2d/ 2f#/ 2a/ 2cc/	8aaa\L	.
+.	8fff#\	.
+.	8ddd\	.
+.	8eee\	.
+4c/ 4f#/ 4a/	8fff#\	.
+.	8ddd\J	.
 =162	=162	=162
-2B/ 2d/ 2g/	8gg\L	>
-.	8dd\	.
-.	8gg\	.
-.	8dd\	.
-4G/ 4d/ 4g/	8b\	.
-.	8g\J	.
+2B/ 2d/ 2g/	8ggg\L	>
+.	8ddd\	.
+.	8ggg\	.
+.	8ddd\	.
+4G/ 4d/ 4g/	8bb\	.
+.	8gg\J	.
 =163	=163	=163
-2.d/ 2.f#/ 2.a/ 2.cc/	8a\L	.
-.	8cc\	.
-.	8ff#\	.
-.	8cc\	.
-.	8aa\	.
-.	8ff#\J	.
+2.d/ 2.f#/ 2.a/ 2.cc/	8aa\L	.
+.	8ccc\	.
+.	8fff#\	.
+.	8ccc\	.
+.	8aaa\	.
+.	8fff#\J	.
 =164	=164	=164
-2.e-/ 2.f#/ 2.a/ 2.cc/	8aa\L	.
-.	8ff#\	.
-.	8aa\	.
-.	8ff#\	.
-.	8aa\	.
-.	8ff#\J	.
+2.e-/ 2.f#/ 2.a/ 2.cc/	8aaa\L	.
+.	8fff#\	.
+.	8aaa\	.
+.	8fff#\	.
+.	8aaa\	.
+.	8fff#\J	.
 =165	=165	=165
-2d/ 2f#/ 2a/ 2cc/	8aa\L	.
-.	8ff#\	.
-.	8dd\	.
-.	8ee\	.
-4c/ 4f#/ 4a/	8ff#\	.
-.	8dd\J	.
+2d/ 2f#/ 2a/ 2cc/	8aaa\L	.
+.	8fff#\	.
+.	8ddd\	.
+.	8eee\	.
+4c/ 4f#/ 4a/	8fff#\	.
+.	8ddd\J	.
 =166	=166	=166
-2B/ 2d/ 2g/	8gg\L	>
-.	8dd\	.
-.	8gg\	.
-.	8dd\	.
-4G/ 4d/ 4g/	8b\	.
-.	8g\J	.
+2B/ 2d/ 2g/	8ggg\L	>
+.	8ddd\	.
+.	8ggg\	.
+.	8ddd\	.
+4G/ 4d/ 4g/	8bb\	.
+.	8gg\J	.
 =167	=167	=167
-4c/ 4e/ 4g/	8ee\L	p
-.	8cc\	.
-4r	8ee\	.
-.	8cc\	.
-4c/ 4e/ 4a/	8g\	.
-.	8e\J	.
+4c/ 4e/ 4g/	8eee\L	p
+.	8ccc\	.
+4r	8eee\	.
+.	8ccc\	.
+4c/ 4e/ 4a/	8gg\	.
+.	8ee\J	.
 =168	=168	=168
-4d/ 4g/ 4b/	2d/	.
+4d/ 4g/ 4b/	2dd/	.
+*	*X8va	*
 4r	.	.
 4d/ 4f#/ 4cc/	4aa\	.
 *clefF4	*	*
@@ -1526,3 +1528,4 @@
 *-	*-	*-
 !!!ENC: Craig Stuart Sapp
 !!!END: 2005/08/23/
+!!!EEV: 2014/07/13/ (added ottavas)

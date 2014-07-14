@@ -903,48 +903,50 @@
 16r	32bb-\	.
 .	32aa-\JJJ	.
 =82	=82	=82
-8r	32ee-\LLL	<
-.	32cc\	.
-.	32dd-\	.
-.	32cc\JJJ	.
-4g-\ 4cc\ 4ee-\	32ee-\LLL	.
-.	32cc\	.
-.	32dd-\	.
-.	32cc\JJJ	.
-.	32aa-\LLL	.
-.	32cc\	.
-.	32dd-\	.
-.	32cc\JJJ	.
-[8ee-\ 8gg-\ (8aa-\	32aa-\LLL	.
-.	32cc\	.
-.	32dd-\	.
-.	32cc\JJJ	.
+*	*8va	*
+8r	32eee-\LLL	<
+.	32ccc\	.
+.	32ddd-\	.
+.	32ccc\JJJ	.
+4g-\ 4cc\ 4ee-\	32eee-\LLL	.
+.	32ccc\	.
+.	32ddd-\	.
+.	32ccc\JJJ	.
+.	32aaa-\LLL	.
+.	32ccc\	.
+.	32ddd-\	.
+.	32ccc\JJJ	.
+[8ee-\ 8gg-\ (8aa-\	32aaa-\LLL	.
+.	32ccc\	.
+.	32ddd-\	.
+.	32ccc\JJJ	.
 =83	=83	=83
-8ee-\L])	32aa-\LLL	.
-.	32cc\	.
-.	32dd-\	.
-.	32cc\JJJ	.
-16dd-\ 16ff\ 16aa-\Jk	32aa-\LLL	.
-.	32dd-\	.
-16r	32ee-\	.
-.	32dd-\JJJ	.
-16g-\ 16cc\ 16ee-\ 16gg-\	32aa-\LLL	.
-.	32ee-\	.
-16r	32ff\	.
-.	32ee-\JJJ	.
-16f\ 16a-\ 16dd-\ 16ff\	32aa-\LLL	.
-.	32ff\	.
-16r	32gg-\	.
-.	32ff\JJJ	.
+8ee-\L])	32aaa-\LLL	.
+.	32ccc\	.
+.	32ddd-\	.
+.	32ccc\JJJ	.
+16dd-\ 16ff\ 16aa-\Jk	32aaa-\LLL	.
+.	32ddd-\	.
+16r	32eee-\	.
+.	32ddd-\JJJ	.
+16g-\ 16cc\ 16ee-\ 16gg-\	32aaa-\LLL	.
+.	32eee-\	.
+16r	32fff\	.
+.	32eee-\JJJ	.
+16f\ 16a-\ 16dd-\ 16ff\	32aaa-\LLL	.
+.	32fff\	.
+16r	32ggg-\	.
+.	32fff\JJJ	.
 =84	=84	=84
-8r	32bb-\LLL	ff
-.	32gg-\	.
-.	32bb-\	.
-.	32aa-\JJJ	.
-16e-/ 16g-/ 16b-/ 16dd-/	32gg-\LLL	.
-.	32ff\	.
-16r	32ee-\	.
-.	32dd-\JJJ	.
+8r	32bbb-\LLL	ff
+.	32ggg-\	.
+.	32bbb-\	.
+.	32aaa-\JJJ	.
+16e-/ 16g-/ 16b-/ 16dd-/	32ggg-\LLL	.
+.	32fff\	.
+16r	32eee-\	.
+.	32ddd-\JJJ	.
+*	*X8va	*
 8r	32ccc\LLL	.
 .	32bb-\	.
 .	32aa-\	.
@@ -1072,3 +1074,4 @@
 *-	*-	*-
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/02/19/
+!!!EEV: 2014/07/13/ (added ottavas)

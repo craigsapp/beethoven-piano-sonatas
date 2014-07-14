@@ -2026,48 +2026,49 @@
 16FF/	.	.
 16AA-/JJ	.	.
 =205	=205	=205
+*	*8va	*
 *	*^	*
-16AAA-/LL	4.gg-/	2.g-\ 2.ccn\	.
+16AAA-/LL	4.ggg-/	2.gg-\ 2.cccn\	.
 16AA-/	.	.	.
 16EE-/	.	.	.
 16AA-/	.	.	.
 16GG-/	.	.	.
 16AA-/JJ	.	.	.
-16AAA-/LL	4ff/	.	.
+16AAA-/LL	4fff/	.	.
 16AA-/	.	.	.
 16EE-/	.	.	.
 16AA-/	.	.	.
-16GG-/	8ee-/	.	.
+16GG-/	8eee-/	.	.
 16AA-/JJ	.	.	.
 =206	=206	=206	=206
-16AAA-/LL	2.ff/	4.f\ 4.dd-\	.
+16AAA-/LL	2.fff/	4.ff\ 4.ddd-\	.
 16AA-/	.	.	.
 16DD-/	.	.	.
 16AA-/	.	.	.
 16FF/	.	.	.
 16AA-/JJ	.	.	.
-16AAA-/LL	.	4.f\ 4.ddn\	.
+16AAA-/LL	.	4.ff\ 4.dddn\	.
 16AA-/	.	.	.
 16DDn/	.	.	.
 16AA-/	.	.	.
 16FF/	.	.	.
 16AA-/JJ	.	.	.
 =207	=207	=207	=207
-16AAA-/LL	4.aa-/	2.cc-\ 2.ddn\	.
+16AAA-/LL	4.aaa-/	2.ccc-\ 2.dddn\	.
 16AA-/	.	.	.
 16DDn/	.	.	.
 16AA-/	.	.	.
 16FF/	.	.	.
 16AA-/JJ	.	.	.
-16AAA-/LL	4gg-/	.	.
+16AAA-/LL	4ggg-/	.	.
 16AA-/	.	.	.
 16DD/	.	.	.
 16AA-/	.	.	.
-16FF/	8ff/	.	.
+16FF/	8fff/	.	.
 16AA-/JJ	.	.	.
 *	*v	*v	*
 =208	=208	=208
-16AAA-/LL	2.b-\ 2.dd-\ 2.ff-\ 2.ggn\	.
+16AAA-/LL	2.bb-\ 2.ddd-\ 2.fff-\ 2.gggn\	.
 16GGn/	.	.
 16BBB-/	.	.
 16GG/	.	.
@@ -2081,32 +2082,33 @@
 16GG/JJ	.	.
 =209	=209	=209
 *	*^	*
-16AAA-/LL	4.gg/ 4.bb-/	2.dd-\ 2.ff-\	.
+16AAA-/LL	4.ggg/ 4.bbb-/	2.ddd-\ 2.fff-\	.
 16GG/	.	.	.
 16BBB-/	.	.	.
 16GG/	.	.	.
 16DD-/	.	.	.
 16GG/JJ	.	.	.
-16FF-/LL	4aa-/	.	.
+16FF-/LL	4aaa-/	.	.
 16GG/	.	.	.
 16DD-/	.	.	.
 16GG/	.	.	.
-16BBB-/	8gg/	.	.
+16BBB-/	8ggg/	.	.
 16GG/JJ	.	.	.
 *	*v	*v	*
 =210	=210	=210
-4AAA-/ 4CC/ 4EE-/ 4AA-/	16cc\ 16ee-\ 16aa-\ 16ccc\LL	ff
+4AAA-/ 4CC/ 4EE-/ 4AA-/	16ccc\ 16eee-\ 16aaa-\ 16cccc\LL	ff
+.	16aaa-\	.
+.	16eee-\	.
+.	16aaa-\	.
+8r	16eee-\	.
+.	16ccc\JJ	.
+4r	16eee-\LL	.
+.	16ccc\	.
 .	16aa-\	.
-.	16ee-\	.
-.	16aa-\	.
-8r	16ee-\	.
-.	16cc\JJ	.
-4r	16ee-\LL	.
-.	16cc\	.
-.	16a-\	.
-.	16cc\	.
-8r	16a-\	.
-.	16e-\JJ	.
+.	16ccc\	.
+8r	16aa-\	.
+.	16ee-\JJ	.
+*	*X8va	*
 =211	=211	=211
 *^	*^	*
 4.r	4.r	4r	16cc\LL	.
@@ -2160,3 +2162,4 @@
 *-	*-	*-
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/10/28/
+!!!EEV: 2014/07/13/ (added ottavas)
