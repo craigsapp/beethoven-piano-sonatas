@@ -1,9 +1,10 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 8 in C minor ("Path&eacute;tique")
+!!!OTL: Piano Sonata no. 8 in C minor
+!!!OTP: path&eacute;tique
 !!!OMD: Adagio cantabile
-!!!OMV: No. 2
-!!!OPS: Op. 13
+!!!OPS: 13
+!!!OMV: 2
 **kern	**dynam	**kern	**dynam
 *staff2	*staff2	*staff1	*staff1
 *Ipiano	*Ipiano	*Ipiano	*Ipiano

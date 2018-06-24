@@ -1,9 +1,9 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
 !!!OTL: Piano Sonata no. 11 in B-flat major
-!!!OMV: No. 1
+!!!OPS: 22
+!!!OMV: 1
 !!!OMD: Allegro con brio
-!!!OPS: Op. 22
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *>[A,A,B]	*>[A,A,B]	*>[A,A,B]

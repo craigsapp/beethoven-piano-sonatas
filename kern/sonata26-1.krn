@@ -1,11 +1,12 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 26 in E-flat major ("Les Adieux")
-!!!ODT: 1809///-1810///
+!!!OTL: Piano Sonata no. 26 in E-flat major
+!!!OTP: les adieux
 !!!ODE: &agrave; l'Archiduc Rodolphe
+!!!ODT: 1809///-1810///
+!!!OPS: 81a
+!!!OMV: 1
 !!!OMD: Les Adieux: Adagio---Allegro
-!!!OPS: Op. 81a
-!!!OMV: Mvmt. 1
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]

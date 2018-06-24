@@ -1,9 +1,10 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 24 in F-sharp major ("&Agrave; Th&eacute;r&egrave;se")
+!!!OTL: Piano Sonata no. 24 in F-sharp major
+!!!OTP:	&agrave; Th&eacute;r&egrave;se
+!!!OPS: 78
+!!!OMV: 2
 !!!OMD: Allegro vivace
-!!!OMV: mvmt. 2
-!!!OPS: Op. 78
 **kern	**kern	**dynam
 *Ipiano	*Ipiano	*Ipiano
 *staff2	*staff1	*staff1/2

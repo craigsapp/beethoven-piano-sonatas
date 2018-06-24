@@ -1,12 +1,12 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 3 in C major, mvmt. 3
+!!!OTL: Piano Sonata no. 3 in C major
 !!!ODT: 1794///-1795///
 !!!ODE: Joseph Haydn
 !!!OMD: Scherzo: Allegro
-!!!OPS: Op. 2
-!!!ONM: No. 3
-!!!OMV: No. 3
+!!!OPS: 2
+!!!ONM: 3
+!!!OMV: 3
 **kern	**kern	**dynam
 *Ipiano	*Ipiano	*Ipiano
 *>[A,A,B,B1,B,B2,C,C1,C,C2,D,A,B,B2,E]	*>[A,A,B,B1,B,B2,C,C1,C,C2,D,A,B,B2,E]	*>[A,A,B,B1,B,B2,C,C1,C,C2,D,A,B,B2,E]

@@ -1,9 +1,10 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 29 in B-flat major ("Hammerklavier")
-!!!OPS: Op. 106
+!!!OTL: Piano Sonata no. 29 in B-flat major
+!!!OTP: hammerklavier
+!!!OPS: 106
+!!!OMV: 3
 !!!OMD: Adagio sostenuto
-!!!OMV: No. 3
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *clefF4	*clefG2	*clefG2

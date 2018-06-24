@@ -1,11 +1,11 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 1, mvmt. 3
-!!!OMD: Minuet: Allegretto
-!!!OPS: Op. 2
-!!!ONM: No. 1
-!!!OMV: No. 3
+!!!OTL: Piano Sonata no. 1 in F minor
+!!!OPS: 2
+!!!ONM: 1
+!!!OMV: 3
 !!!AGN: Minuet and Trio
+!!!OMD: Allegretto
 **kern	**dynam	**kern	**dynam
 *Ipiano	*Ipiano	*Ipiano	*Ipiano
 *>[A,A,B,B,C,C,D,D,A,B]	*>[A,A,B,B,C,C,D,D,A,B]	*>[A,A,B,B,C,C,D,D,A,B]	*>[A,A,B,B,C,C,D,D,A,B]
@@ -34,7 +34,7 @@
 *	*	*^	*
 2F\ 2A-\	.	(4b-/	2c\	.
 .	.	4a-/)	.	.
-4r	.	4e-/ 4cc/	4r	.
+4r	.	4e-/ 4cc/	4ryy	.
 *	*	*v	*v	*
 =5	=5	=5	=5
 4r	.	(4f/ 4dd-/	.
@@ -51,8 +51,8 @@
 =8	=8	=8	=8
 *	*	*^	*
 2A-\ 2c\	.	(4dd-/	2e-\	.
-.	.	4cc/)	.	f
-4c\ (4e-\	.	4ee-/	(4a-\	.
+.	.	4cc/)	.	.
+4c\ (4e-\	.	4ee-/	(4a-\	f
 =9	=9	=9	=9	=9
 4B-\ 4d-\	.	4ee-/	4g\	.
 4A-\ 4c\	.	4ee-/	4a-\	.
@@ -60,20 +60,20 @@
 =10	=10	=10	=10	=10
 2A-\	.	2ee-/	(4dd-\	.
 .	.	.	4cc\)	.
-4D-\ 4B-\	.	4ry	4ff\	p
+4D-\ 4B-\	.	4ryy	4ff\	p
 *	*	*v	*v	*
 =11	=11	=11	=11
 2E-\ 2c\	.	(2a-/	.
-.	.	ccQ/	.
-4E-\ 4d-\	.	4g/) 4b-/	.
+.	.	ccq/	.
+4E-\ 4d-\	.	4g/ 4b-/)	.
 =12	=12	=12	=12
 4A-\ 4c\	.	4a-/	.
 4r	.	4r	.
-4r	.	(8gg\L	.
+4r	.	(8ggz\L	.
 .	.	8ff\J)	.
 =13	=13	=13	=13
 2E-\ 2c\	.	(2a-/	.
-.	.	ccQ/	.
+.	.	ccq/	.
 4E-\ 4d-\	.	4g/) 4b-/	.
 =14	=14	=14	=14
 4A-\ 4c\	.	4a-/	.
@@ -99,16 +99,16 @@
 4d-\ 4f\)	.	4r	.
 =19	=19	=19	=19
 2F\ (2d-\	.	(2f/ 2b-/	p
-.	.	dd-Q/	.
+.	.	dd-q/	.
 4F\ 4e-\	.	4a/) 4cc/	.
 =20	=20	=20	=20
 4B-\ 4d-\)	.	4b-\	.
 4r	.	4r	.
-4r	.	(8gg-\L	.
+4r	.	(8gg-z\L	.
 .	.	8ff\J)	.
 =21	=21	=21	=21
 2F\ (2d-\	.	2b-\	pp
-.	.	(dd-Q/	.
+.	.	(dd-q/	.
 4F\ 4e-\	.	4a\) 4cc\	.
 =22	=22	=22	=22
 4B-\ 4d-\)	.	4b-\	.
@@ -147,48 +147,48 @@
 8A-\	.	8a-/	.
 8BB\J)	.	8B/J)	.
 =28	=28	=28	=28
-4C'\	.	4c'/	f
+4C'\	.	4c'/	.
 4c\	.	4r	.
 *clefG2	*clefG2	*	*
-4c/ 4a-/	.	4r	.
+4c/ 4a-/	.	4r	f
 =29	=29	=29	=29
 (4d-/ 4b-/	.	4r	.
 4B-/) 4g/	.	4r	.
-4B-/ 4g/	.	4ee\	.
+4B-/ 4g/	.	4eenX\	sf
 =30	=30	=30	=30
 (4c/ 4a-/	.	(4ff\	.
 4A-/) 4f/	.	4aa-\)	.
 *clefF4	*clefF4	*	*
 4F\ 4A-\	.	4ccct\	.
-.	.	16bb-QL	.
-.	.	16cccQJ	.
+.	.	16bb-qL/	.
+.	.	16cccqJ/	.
 =31	=31	=31	=31
-4E\ (4G\	.	(4ddd-\	.
+4E\ (4G\	.	(4ddd-\	sf
 4G\ 4B-\)	.	4bb-\)	.
 4G\ 4B-\	.	4bb-T\	.
-.	.	16aa-QL	.
-.	.	16bb-QJ	.
+.	.	16aa-qL/	.
+.	.	16bb-qJ/	.
 =32	=32	=32	=32
-4F\ (4A-\	.	(4ccc\	.
+4F\ (4A-\	.	(4ccc\	sf
 4A-\ 4c\)	.	4aa-\)	.
 4A-\ 4c\ 4f\	.	4aa-T\	.
-.	.	16ggQL	.
-.	.	16aa-QJ	.
+.	.	16ggqL/	.
+.	.	16aa-qJ/	.
 =33	=33	=33	=33
 4G\ 4B-\ 4e\	.	(4bb-\	f
 4B-\ 4d-\ 4e\	.	4gg\)	.
 4B-\ 4d-\ 4e\	.	4ggT\	.
-.	.	16ffQL	.
-.	.	16ggQJ	.
+.	.	16ffqL/	.
+.	.	16ggqJ/	.
 *clefG2	*clefG2	*	*
 =34	=34	=34	=34
 *^	*	*	*
 (4f/	2B\ 2d\	.	(4aa-\	.
 4a-/)	.	.	4ff\)	.
-4a-/	4B\ 4d\	.	4ff'\	.
+4a-/	4B\ 4d\	.	4ff'\	sf
 =35	=35	=35	=35	=35
 2a-/	2c\	.	(2ff\	p
-.	.	.	aa-Q/	.
+.	.	.	aa-q/	.
 4b-/	4c\	.	4ee\ 4gg\)	.
 =36	=36	=36	=36	=36
 4a-/	4f\	.	4ff\	.
@@ -199,16 +199,17 @@
 *clefF4	*clefF4	*	*
 =37	=37	=37	=37
 2C\ 2A-\	.	(2f/	.
-.	.	a-Q/	.
+.	.	a-q/	.
 4C\ 4B-\	.	4e/) 4g/	.
 =38	=38	=38	=38
 4F\ 4A-\	.	4f/	.
 4r	.	4r	.
 4r	.	4r	.
 =39	=39	=39	=39
-(2.CC\ 2.C\	pp	(2.E/ 2.G/ 2.c/	.
+!LO:S:b	!	!LO:S:a	!
+(2.CC\ 2.C\	.	(2.E/j 2.G/j 2.c/j	pp
 =40	=40	=40	=40
-4FF\)	.	4F/)	p
+4FF\)	.	4F/j)	.
 4r	.	4r	.
 =:|!	=:|!	=:|!	=:|!
 *>C	*>C	*>C	*>C
@@ -216,6 +217,7 @@
 *M3/4	*M3/4	*M3/4	*M3/4
 4r	.	4c/	p
 =41	=41	=41	=41
+!	!	!LO:S:a	!
 (4F\	.	(8a/L	.
 .	.	8g/	.
 4A\	.	8a/	.
@@ -245,8 +247,8 @@
 .	.	8f/J)	.
 =45	=45	=45	=45
 *	*	*^	*
-8AA/L	.	(4a/	2.a\	.
-(8GG#/	.	.	.	.
+(8AA/L	.	(4a/	2.a\	.
+8GG#/	.	.	.	.
 8AA/	.	4cc/	.	.
 8FF/	.	.	.	.
 8GG/	.	4ff/)	.	.
@@ -311,9 +313,9 @@
 =54	=54	=54	=54	=54
 4A/)	4C\]	.	(8a\L	.
 .	.	.	8f\	.
-4r	4r	.	8a\	.
+4r	4ryy	.	8a\	.
 .	.	.	8cc\	.
-4r	4r	.	8ff\	.
+4r	4ryy	.	8ff\	.
 .	.	.	8aa\J)	.
 *v	*v	*	*	*
 *clefG2	*clefG2	*	*
@@ -347,20 +349,20 @@
 8a/J)	.	8cc\J)	.
 =59	=59	=59	=59
 *	*	*^	*
-(8b-/L	.	(4r	(8dd\L	.
-8a/	.	.	8cc\	.
-8b-/	.	8r	8dd\	.
-8g/	.	8ee/L	8b-\	.
-8a/	.	8ff/	8cc\	.
-8b-/J)	.	8gg/J)	8dd\J	.
+(8b-/L	.	(4r	8dd\L	<
+8a/	.	.	8cc\	(
+8b-/	.	8r	8dd\	(
+8g/	.	8ee/L	8b-\	(
+8a/	.	8ff/	8cc\	(
+8b-/J)	.	8gg/J)	8dd\J	(
 *	*	*v	*v	*
 =60	=60	=60	=60
-(8cc\L	.	8ee\ (8aa\L	.
-8b-\	.	8dd\ 8gg\	.
-8cc\	.	8ee\ 8aa\	.
-8a\	.	8cc\ 8ff\	.
-8b-\	.	8dd\ 8gg\	.
-8cc\J)	.	8ee\ 8aa\J)	.
+(8cc\L	.	8ee\ (8aa\L	(
+8b-\	.	8dd\ 8gg\	(
+8cc\	.	8ee\ 8aa\	(
+8a\	.	8cc\ 8ff\	(
+8b-\	.	8dd\ 8gg\	(
+8cc\J)	.	8ee\ 8aa\J)	[
 =61	=61	=61	=61
 (8dd\L	.	8ff\ (8bb-\L	ff
 8cc\	.	8ee\ 8aa\	.
@@ -434,9 +436,10 @@
 =73	=73	=73	=73
 4FF/)	.	4f/)	.
 4F\	.	4r	.
-==:|!	==:|!	==:|!	==:|!
+=:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/04/06/
 !!!ONB: preliminary proof reading done on 2008/10/20/
+!!!EED: Craig Stuart Sapp
 !!!hum2abc: --spacing 1.85

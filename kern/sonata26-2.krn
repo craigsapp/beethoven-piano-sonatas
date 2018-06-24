@@ -1,11 +1,12 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 26 in E-flat major ("Les Adieux")
+!!!OTL: Piano Sonata no. 26 in E-flat major
+!!!OTP: les adieux
 !!!ODT: 1809///-1810///
 !!!ODE: &agrave; l'Archiduc Rodolphe
+!!!OPS: 81a
+!!!OMV: 2
 !!!OMD: L'Absence: Andante espressivo
-!!!OPS: Op. 81a
-!!!OMV: Mvmt. 2
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *clefF4	*clefG2	*clefG2
@@ -15,25 +16,28 @@
 *MM54	*MM54	*MM54
 =1-	=1-	=1-
 *^	*	*
-8e-\L	2C/ 2e-/	(16.g/LL	.
-.	.	32f#/JJk	.
-8F#\	.	4.an/)	.
-8An\	.	.	.
-8F#\J	.	.	.
+*	*^	*	*
+8e-\L	2e-/	2C\	(16.g/LL	.
+.	.	.	32f#/JJk	.
+8F#\	.	.	4.an/)	.
+8An\	.	.	.	.
+8F#\J	.	.	.	.
+*	*v	*v	*	*
 =2	=2	=2	=2
-8e-\L	2C/ 2e-/	(16.g/LL	.
-.	.	32f#/JJk	.
-8F#\	.	4an/)	.
-8An\	.	.	.
-8F#\J	.	(16.a\LL	.
-.	.	32ee-\JJk)	.
-*v	*v	*	*
+*	*^	*	*
+8e-\L	2e-/	2C\	(16.g/LL	.
+.	.	.	32f#/JJk	.
+8F#\	.	.	4an/)	.
+8An\	.	.	.	.
+8F#\J	.	.	(16.a\LL	.
+.	.	.	32ee-\JJk)	.
+*v	*v	*v	*	*
 =3	=3	=3
 *	*^	*
 8r	(8ee-/L	8r	.
 8BBn\ 8G\	16.dd/L	8d\	.
-.	32g/JJk	.	.
-8r	(8g/L)	8r	.
+.	32g/JJk)	.	.
+8r	(8g/L	8r	.
 8D\ 8An\	16.f#/L	8c\	.
 .	32an/JJk)	.	.
 =4	=4	=4	=4
@@ -41,24 +45,24 @@
 .	[8.bn/J)	.	.
 8GG\ 8G\L	.	8Bn\ 8d\L	.
 8GG\ 8G\J	8b/]	8d\J	.
-.	.	(ccQ/LLL	.
-.	.	bQ/	.
-.	.	aQ/JJJ	.
-8r	8r	(16b\LL)	.
+.	.	(cc32q/LLL	.
+.	.	b32q/	.
+.	.	a32q/JJJ	.
+8r	8ryy	(16b\LL)	.
 .	.	16cc\JJ)	.
 =5	=5	=5	=5
 *^	*	*	*
-8a-/L	2F\	(16.ee-/LL	2a-\	.
+8a-Xjj/L	2F\	(16.ee-/LL	2a-X/	.
 .	.	32dd/JJk	.	.
 8Bn/	.	4.ff/)	.	.
 8d/	.	.	.	.
 8B/J	.	.	.	.
 *	*	*v	*v	*
 =6	=6	=6	=6
-.	.	ddQ/LL	.
-.	.	ffQ/JJ	.
+.	.	(dd16q/LL	.
+.	.	ff16q/JJ	.
 *	*	*^	*
-8a-/L	2F\	(16.ee-/LL	2a-\	.
+8a-jj/L	2F\	(16.ee-/LL)	2a-/	.
 .	.	32dd/JJk	.	.
 8Bn/	.	4ff/)	.	.
 8d/	.	.	.	.
@@ -68,26 +72,27 @@
 =7	=7	=7	=7
 8r	(8aa-/L	8r	.
 8E-\ 8c\	16.gg/L	8g\	.
-.	32cc/JJk	.	.
-8r	(8cc/L)	8r	.
+.	32cc/JJk)	.	.
+8r	(8cc/L	8r	.
 8G\ 8d\	16.bn/L	8f\	.
 .	32dd/JJk)	.	.
 =8	=8	=8	=8
 8r	(16dd/LK	8r	.
 .	[8.ee-/J)	.	.
 8C\ 8c\L	.	8e-\L	.
-16C\ 16c\Jk	16ee-/]	16e-\Jk	<
+16C\ 16c\Jk	16ee-/]	16e-\Jk	.
+!	!LO:TX:t=cresc.	!	!
 16c\ 16e-\LL	(16a-/LL	8.r	.
 16B-\ 16d-\ 16e-\	16g/	.	.
 16A-\ 16c\ 16e-\JJ	16a-/JJ)	.	.
 *	*v	*v	*
 =9	=9	=9
 8G\ 8B-\ 8e-\L	8cc\L	.
-.	b-Q/LLL	.
-.	ccQ/	.
-.	b-Q/	.
-.	anQ/JJJ	.
-[8G\ [8B-\ [8en\J	16.b-\L	.
+.	(b-32q/LLL	.
+.	cc32q/	.
+.	b-32q/	.
+.	an32q/JJJ	.
+[8G\ [8B-\ [8en\J	16.b-\L)	.
 .	32cc\JJk	.
 16G\] 16B-\] 16e\LL]	([8dd-\L	.
 16F\ 16A-\ 16d-\	.	.
@@ -96,7 +101,8 @@
 16E\ 16G\ 16c\JJ	32bb-\	.
 .	32gg\JJJ)	.
 =10	=10	=10
-8En\ 8G\ 8c\L	(8.gg\L	>
+!	!LO:TX:t=dim.	!
+8En\ 8G\ 8c\L	(8.gg\L	.
 8F\ 8A-\ 8c\J	.	.
 .	32bb-\LL	.
 .	32aa-\JJJ)	.
@@ -105,24 +111,25 @@
 .	16g/JJ)	.
 =11	=11	=11
 *^	*^	*
-8E-/L	4.DD\	(16.g/LL	4.An\ 4.c\	<
+8E-X/L	4.DD\	(16.g/LL	4.An\ 4.c\	.
+!	!	!LO:TX:t=cresc.	!	!
 .	.	32f#/JJk	.	.
 8FF#/	.	4an/)	.	.
 8AAn/J	.	.	.	.
-8r	8BB-\ 8D\ 8B-\	(16.a/LL	8d\	.
+8ryy	8BB-\ 8D\ 8B-\	(16.a/LL	8d\	sfp
 .	.	32g/JJk)	.	.
 *v	*v	*	*	*
 =12	=12	=12	=12
-8AAn\ 8D\ 8An\L	(16.g/LL	8c\ 8d\L	.
+8AAn\ 8D\ 8An\L	(16.g/LL	8c\ 8d\L	sfp
 .	32f#/JJk)	.	.
-8GG\ 8D\ 8G\	(16.an/LL	8B-\ 8d\	.
-.	32g/JJk	.	.
-8FF#\ 8D\ 8F#\J	(16.b-/LL)	8An\ 8d\J	.
-.	32a/JJk	.	p
-8r	(32f#/LLL)	8r	>
-.	32a/	.	.
-.	32cc/	.	.
-.	32ee-/JJJ	.	.
+8GG\ 8D\ 8G\	(16.an/LL	8B-\ 8d\	sf
+.	32g/JJk)	.	.
+8FF#\ 8D\ 8F#\J	(16.b-/LL	8An\ 8d\J	>
+.	32a/JJk)	.	]
+8r	(32f#/LLL	8ryy	p
+.	32a/	.	>
+.	32cc/	.	)
+.	32ee-/JJJ	.	]
 *	*v	*v	*
 =13	=13	=13
 2r	32dd\LLL	.
@@ -154,16 +161,18 @@
 .	32aa\	.
 .	32gg\	.
 .	32ff#\JJJ)	.
-.	(32aa'\LLL	<
+!	!LO:TX:t=cresc.	!
+.	(32aa'\LLL	.
 .	32ff#'\	.
 .	32ee-'\	.
 .	32dd'\JJJ)	.
 =15	=15	=15
+!	!LO:TX:a:t=cantabile	!
 32F#\ 32An\LLL	(8dd\L	>
-32d\	.	.
-32F#\ 32A\	.	.
-32d\JJJ	.	.
-32F#\ 32A\LLL	[8an\J)	.
+32d\	.	)
+32F#\ 32A\	.	)
+32d\JJJ	.	)
+32F#\ 32A\LLL	[8an\J)	]
 32d\	.	.
 32F#\ 32A\	.	.
 32d\JJJ	.	.
@@ -180,15 +189,16 @@
 32d\	.	.
 32A\ 32c\	.	.
 32d\JJJ	.	.
-.	f#Q/LLL	.
-.	gQ/	.
-.	f#Q/	.
-.	enQ/JJJ	.
+.	f#32q/LLL	.
+.	g32q/	.
+.	f#32q/	.
+.	en32q/JJJ	.
 32A\ 32c\LLL	16f#/L	.
 32d\	.	.
 32A\ 32c\	16g/JJ)	.
 32d\JJJ	.	.
-32A\ 32c\LLL	(16a-'/LL	<
+!	!LO:TX:t=cresc.	!
+32A\ 32c\LLL	(16a-'/LL	.
 32d\	.	.
 32G\ 32Bn\	16bn'/JJ)	.
 32d\JJJ	.	.
@@ -197,11 +207,11 @@
 32F#\ 32A\	(32cc#\	.
 32d\JJJ	32dd\JJJ)	.
 =17	=17	=17
-32F#\ 32An\LLL	(32cc#\LLL	.
-32d\	32dd\	.
-32F#\ 32A\	32een\	.
-32d\JJJ	32dd'\JJJ)	.
-32F#\ 32A\LLL	[8an/	.
+32F#\ 32An\LLL	(32cc#\LLL	p
+32d\	32dd\	>
+32F#\ 32A\	32een\	)
+32d\JJJ	32dd'\JJJ)	)
+32F#\ 32A\LLL	[8an/	]
 32d\	.	.
 32F#\ 32A\	.	.
 32d\JJJ	.	.
@@ -212,12 +222,14 @@
 .	64a\)	.
 32d\JJJ	(64ccn\	.
 .	64b\JJJJ)	.
-32G\ 32B-\LLL	64cc\LLLL	.
+32G\ 32Bn\LLL	64cc\LLLL	.
 .	64b\	.
 32d\	(64dd\	.
 .	(64cc#\JJJJ)	.
-32G\ 32B-\	64dd\LLLL	.
-.	64een\J	.
+32G\ 32B-\	128dd\LLLLL	.
+.	128cc#\	.
+.	128een\	.
+.	128dd\JJ	.
 32d\JJJ	32g\JJJ)	.
 =18	=18	=18
 32An\ 32c\LLL	(8g/L	.
@@ -226,11 +238,12 @@
 32d\JJJ	.	.
 32A\ 32c\LLL	16f#/L	.
 32d\	.	.
-.	e-Q/LLLL	.
-.	f#Q/JJJJ	.
+.	e-16q/LL	.
+.	f#16q/JJ	.
 32A\ 32c\	16g/JJ)	.
 32d\JJJ	.	.
-32A\ 32c\LLL	(16an'/LL	<
+!	!LO:TX:t=cresc.	!
+32A\ 32c\LLL	(16an'/LL	.
 32d\	.	.
 32G\ 32B-\	16b-'/JJ)	.
 32d\JJJ	.	.
@@ -308,10 +321,10 @@
 *	*v	*v	*
 =25	=25	=25
 8c/ 8e-/ 8a-/L	8ee-\L	.
-.	(ee-Q/LL	.
-.	ffQ/	.
-.	ee-Q/	.
-.	ddnQ/JJ	.
+.	(ee-q/LL	.
+.	ffq/	.
+.	ee-q/	.
+.	ddnq/JJ	.
 [8c/ [8e-/ [8an/J	16.ee-\L)	.
 .	32ff\JJk	.
 16c/] 16e-/] 16a/LL]	([8gg-\	.
@@ -408,10 +421,10 @@
 32c\	.	.
 32G\ 32B-\	.	.
 32c\JJJ	.	.
-.	eenQ/LLL	.
-.	ffQ/	.
-.	eeQ/	.
-.	ddnQ/JJJ	.
+.	eenq/LLL	.
+.	ffq/	.
+.	eeq/	.
+.	ddnq/JJJ	.
 32G\ 32B-\LLL	16en\ 16ee\L	.
 32c\	.	.
 32G\ 32B-\	16f\ 16ff\JJ)	.
@@ -453,10 +466,10 @@
 32c\	.	.
 32G\ 32B-\	.	.
 32c\JJJ	.	.
-.	eenQ/LLL	.
-.	ffQ/	.
-.	eeQ/	.
-.	ddnQ/JJJ	.
+.	eenq/LLL	.
+.	ffq/	.
+.	eeq/	.
+.	ddnq/JJJ	.
 32G\ 32B-\LLL	16en\ 16ee\L	.
 32c\	.	.
 32G\ 32B-\	16f\ 16ff\JJ)	.

@@ -1,10 +1,10 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 30, mvmt. 2
+!!!OTL: Piano Sonata no. 30
 !!!ODT: 1820///
+!!!OPS: 109
+!!!OMV: 3
 !!!OMD: Andante
-!!!OMV: Mvmt. 3
-!!!OPS: Op. 109
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *>[TA,TA,TB,TB,1A,1A1,1A,1A2,1B,1B1,1B2,Var2,Var3,4I,4A,4A1,4A,4A2,4B,4B1,4B,4B2,Var5,Var6,Theme]	*>[TA,TA,TB,TB,1A,1A1,1A,1A2,1B,1B1,1B2,Var2,Var3,4I,4A,4A1,4A,4A2,4B,4B1,4B,4B2,Var5,Var6,Theme]	*>[TA,TA,TB,TB,1A,1A1,1A,1A2,1B,1B1,1B2,Var2,Var3,4I,4A,4A1,4A,4A2,4B,4B1,4B,4B2,Var5,Var6,Theme]
@@ -40,9 +40,9 @@
 8AAn/J	.	.
 =5	=5	=5
 *^	*	*
-.	.	(BQ/LLL	.
-.	.	eQ/	.
-.	.	g#Q/JJJ)	.
+.	.	(Bq/LLL	.
+.	.	eq/	.
+.	.	g#q/JJJ)	.
 *	*	*^	*
 4GG#/	(2GG#\	(4b/	4r	.
 4G#/	.	4.e/	4B\	.
@@ -54,10 +54,10 @@
 =6	=6	=6
 4BB\ 4F#\	4d#/	.
 4C#\ 4E\	4B/	.
-.	AQ/LLL	.
-.	BQ/	.
-.	AQ/	.
-.	G#Q/JJJ	.
+.	A32q/LLL	.
+.	B32q/	.
+.	A32q/	.
+.	G#32q/JJJ	.
 4D#\) 4F#\	4A/	.
 =7	=7	=7
 *^	*	*
@@ -97,18 +97,18 @@
 4D#\ 4A#\	4c#/ 4f##/	>
 4GG#\ 4G#\	4B/ 4g#/)	.
 =13	=13	=13
-.	(Anq/LLL	.
-.	c#q/	.
-.	f#q/JJJ)	.
+.	(An32q/LLL	.
+.	c#32q/	.
+.	f#32q/JJJ)	.
 4FF#\ 4F#\	4a/	<
 4F#\ 4A\	(4.a/	.
 4E\ 4F#\ 4A\	.	.
 .	8cc#\)	.
 =14	=14	=14
-D#q/LLL	d#q/LLL	.
-F#q/	f#q/	.
-Aq/	aq/JJJ	.
-Bq/JJJ	.	.
+D#32q/LLL	d#32q/LLL	.
+F#32q/	f#32q/	.
+A32q/	a32q/JJJ	.
+B32q/JJJ	.	.
 [2D#\ [2F#\ [2A\ [2B\	(4.cc#/	.
 .	8b/)	>
 8D#\] 8F#\] 8A\] 8B\L]	(8f#'/ 8a'/L	p

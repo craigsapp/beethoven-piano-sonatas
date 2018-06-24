@@ -2,9 +2,9 @@
 !!!CDT: 1770///-1827///
 !!!OTL: Piano Sonata no. 31 in A-flat major
 !!!ODT: 1821///-1822///
+!!!OPS: 110
+!!!OMV: 3
 !!!OMD: Adagio ma non troppo
-!!!OMV: mvmt. 3
-!!!OPS: Op. 110
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1
 *clefF4	*clefG2	*clefG2
@@ -960,8 +960,8 @@
 *	*v	*v	*
 =111	=111	=111
 4.E-\ 4.e-\	4.g/ 4.b-/	.
-.	(anQ/LL	.
-.	b-Q/JJ	.
+.	(anq/LL	.
+.	b-q/JJ	.
 4EE-/ 4E-/	8g/) 8b-/ 8dd-/L	ff
 .	8b-/	.
 8r	8g/J	.

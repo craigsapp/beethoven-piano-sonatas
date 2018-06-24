@@ -1,9 +1,10 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 8 in C minor ("Path&eacute;tique")
-!!!OMV: Mvmt. 1
-!!!OMD: Grave---Allegro molto e con brio
-!!!OPS: Op. 13
+!!!OTL: Piano Sonata no. 8 in C minor
+!!!OTP: path&eacute;tique
+!!!OPS: 13
+!!!OMV: 1
+!!!OMD: Grave
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1
 *Ipiano	*Ipiano	*Ipiano

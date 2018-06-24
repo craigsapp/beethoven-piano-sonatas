@@ -1,10 +1,10 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 7 in D major, mvmt. 3
+!!!OTL: Piano Sonata no. 7 in D major
+!!!OPS: 10
+!!!ONM: 3
+!!!OMV: 3
 !!!OMD: Minuetto: Allegro
-!!!OMV: mvmt. 3
-!!!OPS: Op. 10
-!!!ONM: No. 3
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
@@ -80,12 +80,12 @@
 *^	*	*
 *	*^	*	*
 2.G/	2DD/	2.DD\	2.c#/ (2.e/	.
-*	*v	*v	*	*
-.	4AA/	.	.
+.	4AA/	.	.	.
+*	*	*v	*v	*
 =16	=16	=16	=16
 4F#/	4DD\ 4D\	4d/)	.
 4r	4r	4r	.
-*v	*v	*	*
+*	*v	*v	*
 =:|!|:	=:|!|:	=:|!|:
 *>B	*>B	*>B
 4FFF#/	4r	.

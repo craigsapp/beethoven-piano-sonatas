@@ -1,9 +1,10 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 25 in G major ("Cuckoo")
+!!!OTL: Piano Sonata no. 25 in G major
+!!!OTP: cuckoo
+!!!OPS: 79
+!!!OMV: 3
 !!!OMD: Vivace
-!!!OMV: No. 3
-!!!OPS: Op. 79
 **kern	**dynam	**kern	**dynam
 *staff2	*staff2	*staff1	*staff1
 *Ipiano	*Ipiano	*Ipiano	*Ipiano

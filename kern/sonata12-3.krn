@@ -1,9 +1,11 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 12 in A-flat major ("Funeral March")
-!!!OPS: Op. 26
-!!!OMV: mvmt. 3
-!!!OMD: Marcia funebre sulla morte d'un eroe: Maestoso andante
+!!!OTL: Piano Sonata no. 12 in A-flat major
+!!!OTP: funeral march
+!!!OPS: 26
+!!!OMV: 3
+!!!ONB: Marcia funebre sulla morte d'un eroe
+!!!OMD: Maestoso andante
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *>[A,B,B,C,C1,C,C2,D]	*>[A,B,B,C,C1,C,C2,D]	*>[A,B,B,C,C1,C,C2,D]
@@ -14,28 +16,28 @@
 *a-:	*a-:	*a-:
 *M4/4	*M4/4	*M4/4
 *MM52	*MM52	*MM52
+4r	8.E-j/ 8.e-/L	p
+.	16E-j/ 16e-/Jk	.
+=1	=1	=1
 *^	*	*
-8.E-/L	4r	8.e-/L	p
-16E-/Jk	.	16e-/Jk	.
-=1	=1	=1	=1
-*	*^	*	*
-4E-/ 4A-/ 4c-/	2AAA-	1AA-	4e-/	.
-8.E-/ 8.A-/ 8.c-/L	.	.	8.e-/L	.
-16E-/ 16A-/ 16c-/Jk	.	.	16e-/Jk	.
-8.E-/ 8.A-/ 8.c-/L	2AAA-\	.	8.e-/L	.
-16E-/ 16A-/Jk	.	.	16e-/Jk	.
-8.E-/ 8.Gn/ 8.B-/L	.	.	8.e-/L	.
-16E-/ 16A-/ 16c-/Jk	.	.	16e-/Jk	.
-*	*v	*v	*	*
-=2	=2	=2	=2
-2.E-/ 2.B-/	8.EE-\L	2.e-/	.
-.	16EE-\k	.	.
-.	8.GGn\	.	.
-.	16BB-\Jk	.	.
-.	4E-\	.	.
-8.Gn/ 8.B-/L	8.D-\ 8.E-\L	8.e-/L	.
-16G/ 16B-/Jk	16D-\ 16E-\Jk	16e-/Jk	.
-=3	=3	=3	=3
+2AAA-\	1AA-	4E-j/ 4A-j/ 4c-j/ 4e-/	.
+.	.	8.E-j/ 8.A-j/ 8.c-j/ 8.e-/L	.
+.	.	16E-j/ 16A-j/ 16c-j/ 16e-/Jk	.
+2AAA-\	.	8.E-j/ 8.A-j/ 8.c-j/ 8.e-/L	.
+.	.	16E-j/ 16A-j/ 16e-/Jk	.
+.	.	8.E-j/ 8.Gnj/ 8.B-j/ 8.e-/L	.
+.	.	16E-j/ 16A-j/ 16c-j/ 16e-/Jk	.
+*v	*v	*	*
+=2	=2	=2
+8.EE-\L	2.E-j/ 2.B-j/ 2.d-j/ 2.e-/	.
+16EE-\k	.	.
+8.GGn\	.	.
+16BB-\Jk	.	.
+4E-\	.	.
+8.D-\ 8.E-\L	8.Gnj/ 8.B-j/L 8.e-/L	.
+16D-\ 16E-\Jk	16Gj/ 16B-j/Jk 16e-/Jk	.
+=3	=3	=3
+*^	*	*
 4A-/ 4c-/	4C-\ 4E-\	4e-/	.
 8.A-/ 8.c-/L	8.AA-\ 8.E-\L	8.e-/L	.
 16A-/ 16c-/Jk	16AA-\ 16E-\Jk	16e-/Jk	.
@@ -700,3 +702,4 @@
 *-	*-	*-
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/11/05/
+!!!RDF**kern: j = staff below

@@ -1,10 +1,11 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 13 in E-flat major ("Quasi una fantasia")
-!!!OMV: mvmt. 4
+!!!OTL: Piano Sonata no. 13 in E-flat major
+!!!OTP: quasi una fantasia
+!!!OPS: 27
+!!!ONM: 1
+!!!OMV: 4
 !!!OMD: Finale: Allegro vivace
-!!!OPS: Op. 27
-!!!ONM: No. 1
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *clefF4	*clefG2	*clefG2

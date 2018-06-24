@@ -1,10 +1,11 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 4 in E-flat major ("Grand Sonata")
+!!!OTL: Piano Sonata no. 4 in E-flat major
+!!!OTP: grand sonata
 !!!ODE: a Madame la Comtesse Babette de Keglevics
 !!!OMD: Largo, con gran expressione
-!!!OPS: Op. 7
-!!!OMV: No. 2
+!!!OPS: 7
+!!!OMV: 2
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *clefF4	*clefG2	*clefG2

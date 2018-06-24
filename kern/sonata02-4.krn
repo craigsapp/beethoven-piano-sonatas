@@ -1,12 +1,12 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 2 in A major, mvmt. 4
+!!!OTL: Piano Sonata no. 2 in A major
 !!!ODT: 1794///-1795///
 !!!ODE: Joseph Haydn
-!!!OMV: Mvmt. 4
 !!!OMD: Rondo: Grazioso
-!!!OPS: Op. 2
-!!!ONM: No. 2
+!!!OPS: 2
+!!!ONM: 2
+!!!OMV: 4
 **kern	**kern	**dynam
 *Ipiano	*Ipiano	*Ipiano
 *staff2	*staff1	*staff1
@@ -429,9 +429,9 @@
 16B\	.	.
 16BB\	.	.
 16B\JJ	.	.
-.	16bQ/LL	.
-.	16eeQ/	.
-.	16gg#Q/JJ	.
+.	16bq/LL	.
+.	16eeq/	.
+.	16gg#q/JJ	.
 16E\LL	4.bb\	.
 16B\	.	.
 16G#\	.	.
@@ -1891,9 +1891,9 @@
 16e\	.	.
 16E\	.	.
 16e\JJ	.	.
-.	(16eeQ/LL	.
-.	16aaQ/	.
-.	16ccc#Q/JJ)	.
+.	(16eeq/LL	.
+.	16aaq/	.
+.	16ccc#q/JJ)	.
 16A\LL	4.eee\	.
 16e\	.	.
 16c#\	.	.
@@ -2121,8 +2121,8 @@
 =143	=143	=143
 8Cn\L	4b-T\	.
 8B-\	.	.
-.	16aQ/LL	.
-.	16b-Q/JJ	.
+.	16aq/LL	.
+.	16b-q/JJ	.
 8E\	[4ggn\	.
 8B-\J	.	.
 8C\L	8gg\L]	.
@@ -2149,8 +2149,8 @@
 =145	=145	=145
 8Cn\L	(4b-T\	.
 8B-\	.	.
-.	16aQ/LL	.
-.	16b-Q/JJ	.
+.	16aq/LL	.
+.	16b-q/JJ	.
 8E\	2ggn\	.
 8B-\J	.	.
 8C\L	.	.

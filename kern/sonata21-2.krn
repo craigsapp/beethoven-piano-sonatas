@@ -1,10 +1,11 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 21 in C major ("Waldstein")
+!!!OTL: Piano Sonata no. 21 in C major
+!!!OTP: Waldstein
 !!!ODT: 1803///-1804///
 !!!ODE: Graf Ferdinand von Waldstein
-!!!OPS: Op. 53
-!!!OMV: No. 2
+!!!OPS: 53
+!!!OMV: 2
 !!!OMD: Introduzione: Adagio molto
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -99,7 +100,7 @@
 *v	*v	*	*
 =11	=11	=11
 8.EE/ 8.C/	16G\)	>
-*	*clefG2	*clefG2
+*	*clefG2	*
 .	(16f#'/LL	.
 .	16g'/	.
 16F#'\ (16c'\LL	16a'/	p
@@ -109,20 +110,18 @@
 (16FF#'/LL	16aa'\	.
 16GG'/	16bb-'\JJ)	.
 16AA'/	16r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16BB-'/	16.C/LL	.
 16GG'/JJ)	.	.
 .	32C/JJk	.
 =12	=12	=12
-*	*^	*
-.	4.r	Cq/	.
-*	*v	*v	*
+.	Cq/	.
 16EE/LK	8.B-\L	.
 8GG/ 8C/	.	.
+16FF#'/ 16C'/L	(16A'\L	.
+16GG'/ 16C'/	16B-'\	.
+16AA'/ 16C'/JJ	16c'\JJ)	.
 *	*^	*
-16FF#'/ 16C'/L	.	(16A'\L	.
-16GG'/ 16C'/	.	16B-'\	.
-16AA'/ 16C'/JJ	.	16c'\JJ)	.
 16AA/ 16C/LK	16c#/LK	16r	.
 8BB-/ 8C/	8d/	8r	.
 8EE/ 8C/	(8cn/	8G\L	>

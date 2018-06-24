@@ -1,10 +1,10 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 7 in D major, mvmt. 4
+!!!OTL: Piano Sonata no. 7 in D major
+!!!OPS: 10
+!!!ONM: 3
+!!!OMV: 4
 !!!OMD: Rondo: Allegro
-!!!OMV: mvmt. 4
-!!!OPS: Op. 10
-!!!ONM: No. 3
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *clefF4	*clefG2	*clefG2
@@ -1296,25 +1296,25 @@
 *^	*	*
 (1G	[1AA; [1An;	1dd; 1ddd;	.
 =99	=99	=99	=99
-!	!	!(ccc#Q\L	!.
-!	!	!eeeQ\	!.
-!	!	!dddQ\J	!.
-!	!	!ccc#Q\LLL	!.
-!	!	!eeeQ\	!.
-!	!	!aaQ\	!.
-!	!	!ccc#Q\	!.
-!	!	!ggQ\	!.
-!	!	!aaQ\	!.
-!	!	!eeQ\	!.
-!	!	!ggQ\	!.
-!	!	!cc#Q\	!.
-!	!	!eeQ\	!.
-!	!	!aQ\	!.
-!	!	!cc#Q\	!.
-!	!	!gQ\	!.
-!	!	!aQ\	!.
-!	!	!eQ\)	!.
-!	!	!gQ\JJJ	!.
+.	.	(ccc#q\L	.
+.	.	eeeq\	.
+.	.	dddq\J	.
+.	.	ccc#q\LLL	.
+.	.	eeeq\	.
+.	.	aaq\	.
+.	.	ccc#q\	.
+.	.	ggq\	.
+.	.	aaq\	.
+.	.	eeq\	.
+.	.	ggq\	.
+.	.	cc#q\	.
+.	.	eeq\	.
+.	.	aq\	.
+.	.	cc#q\	.
+.	.	gq\	.
+.	.	aq\	.
+.	.	eq\)	.
+.	.	gq\JJJ	.
 2A/_)	2AA\_ [2G\	[2c#/	.
 4.A/]	4.AA\] 4.G\]	4.c#/]	.
 8r	(8FF#\	8r	.

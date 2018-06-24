@@ -2,11 +2,10 @@
 !!!CDT: 1770///-1827///
 !!!OTL: Piano Sonata no. 32 in C minor
 !!!ODT: 1821///-1822///
-!!!OMD: Maestoso---Allegro con brio ed appassionato
 !!!ODE: Ersterzog Rudolph von &Ouml;sterreich
-!!!OPS: Op. 111
-!!!ODT: 1821///-1822///
-!!!OMV: No. 1
+!!!OPS: 111
+!!!OMV: 1
+!!!OMD: Maestoso---Allegro con brio ed appassionato
 **kern	**dynam	**kern	**dynam
 *Ipiano	*Ipiano	*Ipiano	*Ipiano
 *>[A,B,B1,B,B2,C]	*>[A,B,B1,B,B2,C]	*>[A,B,B1,B,B2,C]	*>[A,B,B1,B,B2,C]

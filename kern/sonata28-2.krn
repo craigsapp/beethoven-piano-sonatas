@@ -1,10 +1,9 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OPS: Op. 101
 !!!OTL: Piano Sonata no. 28 in A major
+!!!OPS: 101
+!!!OMV: 2
 !!!OMD: Vivace alla marcia
-!!!OMV: Allegro ma non troppo
-!!!OMV: No. 2
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *clefF4	*clefG2	*clefG2
@@ -252,8 +251,8 @@
 8c\	(4aan/	.
 16r	.	.
 16F\Jk	.	.
-.	ggQ/LL	.
-.	aaQ/JJ)	.
+.	ggq/LL	.
+.	aaq/JJ)	.
 8A\L	4r	.
 16r	.	.
 16D\k	.	.
@@ -261,8 +260,8 @@
 16r	.	.
 16FF\Jk	.	.
 =20	=20	=20
-.	(ggg#Q/LL	.
-.	aaaQ/JJ	.
+.	(ggg#q/LL	.
+.	aaaq/JJ	.
 4EE/ 4E/	8ggg#\L)	.
 *	*X8va	*
 .	16r	.

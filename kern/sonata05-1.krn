@@ -4,9 +4,9 @@
 !!!ODT: 1795///-1797///
 !!!ODE: &agrave; la Comtesse de Browne
 !!!OMD: Allegro molto e con brio
-!!!OPS: Op. 10
-!!!ONM: No. 1
-!!!OMV: Mvmt. 1
+!!!OPS: 10
+!!!ONM: 1
+!!!OMV: 1
 !!!AGN: Sonata
 **kern	**dynam	**kern	**dynam
 *staff2	*staff2	*staff1	*staff1
@@ -60,9 +60,9 @@
 (2d/ 2f/ 2a-/	.	2bn\ (2dd\	.
 4e-/) 4g/	.	4cc\)	.
 =9	=9	=9	=9
-.	.	32gQ/LLL	.
-.	.	32ccQ/	.
-.	.	32ee-Q/JJJ	.
+.	.	32gq/LLL	.
+.	.	32ccq/	.
+.	.	32ee-q/JJJ	.
 4r	.	(4.gg\	.
 4r	.	.	.
 .	.	8ff\	.
@@ -72,9 +72,9 @@
 2F\ 2A-\ 2Bn\	.	2dd\	.
 4E-\ 4G\ 4c\)	.	4cc\)	.
 =11	=11	=11	=11
-.	.	32gQ/LLL	.
-.	.	32ccQ/	.
-.	.	32ee-Q/JJJ	.
+.	.	32gq/LLL	.
+.	.	32ccq/	.
+.	.	32ee-q/JJJ	.
 4r	.	(4.gg\	.
 4r	.	.	.
 .	.	8ff\	.
@@ -84,9 +84,9 @@
 2f/ 2a-/	.	2bn\ 2dd\	.
 4e-/) 4g/	.	4cc\)	.
 =13	=13	=13	=13
-.	.	32gQ/LLL	.
-.	.	32ccQ/	.
-.	.	32ee-Q/JJJ	.
+.	.	32gq/LLL	.
+.	.	32ccq/	.
+.	.	32ee-q/JJJ	.
 4r	.	4.g\ (4.gg\)	.
 4r	.	.	.
 .	.	8f\ 8ff\	.
@@ -433,8 +433,8 @@
 8F\	.	.	.
 8BB-\	.	.	.
 8F\J	.	.	.
-.	.	16GQ/LL	.
-.	.	16A-Q/JJ	.
+.	.	16Gq/LL	.
+.	.	16A-q/JJ	.
 =76	=76	=76	=76
 4EE-/ 4E-/	.	8G/L	.
 .	.	8B-/	.
@@ -972,9 +972,9 @@
 2d/ 2f/ (2a-/	.	2bn\ (2dd\	.
 4e-/ 4g/)	.	4cc\)	.
 =176	=176	=176	=176
-.	.	32gQ/LLL	.
-.	.	32ccQ/	.
-.	.	32ee-Q/JJJ	.
+.	.	32gq/LLL	.
+.	.	32ccq/	.
+.	.	32ee-q/JJJ	.
 4r	.	(4.gg\	.
 4r	.	.	.
 .	.	8ff\	.
@@ -984,9 +984,9 @@
 2F\ 2A-\ 2Bn\	.	2dd\	.
 4E-\ 4G\ 4c\)	.	4cc\)	.
 =178	=178	=178	=178
-.	.	32gQ/LLL	.
-.	.	32ccQ/	.
-.	.	32ee-Q/JJJ	.
+.	.	32gq/LLL	.
+.	.	32ccq/	.
+.	.	32ee-q/JJJ	.
 4r	.	(4.gg\	.
 4r	.	.	.
 .	.	8ff\	.
@@ -996,9 +996,9 @@
 2f/ 2a-/	.	2bn\ 2dd\	.
 4e-/) 4g/	.	4cc\)	.
 =180	=180	=180	=180
-.	.	32gQ/LLL	.
-.	.	32ccQ/	.
-.	.	32ee-Q/JJJ	.
+.	.	32gq/LLL	.
+.	.	32ccq/	.
+.	.	32ee-q/JJJ	.
 4r	.	4.g\ (4.gg\)	.
 4r	.	.	.
 .	.	8f\ 8ff\)	.
@@ -1435,8 +1435,8 @@
 8D/	.	.	.
 8GG/	.	.	.
 8D/J	.	.	.
-.	.	16EnQ/LL	.
-.	.	16FQ/JJ	.
+.	.	16Enq/LL	.
+.	.	16Fq/JJ	.
 =253	=253	=253	=253
 4CC/ 4C/	.	8E-X\L	.
 .	.	8G\	.

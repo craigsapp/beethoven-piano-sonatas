@@ -1,12 +1,12 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 2 in A major, mvmt. 2
+!!!OTL: Piano Sonata no. 2 in A major
 !!!ODT: 1794///-1795///
 !!!ODE: Joseph Haydn
 !!!OMD: Largo appassionato
-!!!OPS: Op. 2
-!!!ONM: No. 2
-!!!OMV: No. 2
+!!!OPS: 2
+!!!ONM: 2
+!!!OMV: 2
 !!!AGN: Sonata
 !!!ONB: Movement in subdominant of sonata's primary key.
 **kern	**kern	**dynam
@@ -108,20 +108,20 @@
 8e/	.	.	.
 8d/	4B\	4g#t/	.
 8e/J)	.	.	.
-.	.	16f#Q/LL	.
-.	.	16g#Q/JJ	.
+.	.	16f#q/LL	.
+.	.	16g#q/JJ	.
 =10	=10	=10	=10
 8c#/	2A\	(8a/L	.
 8ry	.	8e/	.
 2ry	.	8c#/	.
 .	.	8e/	.
-.	16F#Q/LL	.	.
-.	16G#Q/JJ	.	.
+.	16F#q/LL	.	.
+.	16G#q/JJ	.	.
 .	4G#Xt\	8B/ 8d/	.
 .	.	8e/J)	.
 .	.	.	.
-!!.	16F#Q/LL	.	.
-!!.	16G#Q/JJ	.	.
+!!.	16F#q/LL	.	.
+!!.	16G#q/JJ	.	.
 *v	*v	*	*
 =11	=11	=11
 *	*^	*
@@ -131,8 +131,8 @@
 8E\	.	8e\	.
 8D\	4g#t/	8B\	.
 8E\J)	.	8e\J	.
-.	16f#Q/LL	.	.
-.	16g#Q/JJ	.	.
+.	16f#q/LL	.	.
+.	16g#q/JJ	.	.
 =12	=12	=12	=12
 (8C#/L	(4a/	8A\L	.
 8AA/J	.	8c#\	.
@@ -317,9 +317,9 @@
 .	32a/L	.	.
 .	32g/JJJ)	.	.
 =29	=29	=29	=29
-.	32f#QLLL	.	.
-.	32gQ	.	.
-.	32aQJJJ	.	.
+.	32f#qLLL	.	.
+.	32gq	.	.
+.	32aqJJJ	.	.
 8Cn\ 8A\L	(8.g/L	8d\L	<
 8C\ 8A\	.	8d\	.
 .	16f#/Jk	.	.
@@ -434,12 +434,12 @@
 .	8e/L	.
 .	8c#/	.
 .	8e/	.
-16F#Q/LL	.	.
-16G#Q/JJ	.	.
+16F#q/LL	.	.
+16G#q/JJ	.	.
 4G#Xt\	8B/ 8d/	.
 .	8e/J	.
-16F#Q/LL	.	.
-16G#Q/JJ	.	.
+16F#q/LL	.	.
+16G#q/JJ	.	.
 =41	=41	=41
 *	*^	*
 4A\	2a/	8c#\L	.
@@ -448,8 +448,8 @@
 .	.	8e\	.
 4D\	4g#t/	8B\	.
 .	.	8e\J	.
-.	16f#Q/LL	.	.
-.	16g#Q/JJ	.	.
+.	16f#q/LL	.	.
+.	16g#q/JJ	.	.
 *	*v	*v	*
 =42	=42	=42
 *^	*	*
@@ -457,12 +457,12 @@
 8r	.	8G/ 8e/	.
 2r	.	8A/ 8c#/	.
 .	.	8G/ 8e/	.
-.	16FF#Q/LL	.	.
-.	16GG#Q/JJ	.	.
+.	16FF#q/LL	.	.
+.	16GG#q/JJ	.	.
 .	4GG#Xt\	8B/ 8d/	.
 .	.	8G/ 8e/J	.
-.	16FF#Q/LL	.	.
-.	16GG#Q/JJ	.	.
+.	16FF#q/LL	.	.
+.	16GG#q/JJ	.	.
 =43	=43	=43	=43
 *	*	*^	*
 2.AA/	8AA\L	(8c#/	8r	.
@@ -540,8 +540,8 @@
 .	.	8a\	.
 4AAA/ 4AA/	4cc#t/)	8e\	.
 .	.	8g\J)	.
-.	16bQ/LL	.	.
-.	16cc#Q/JJ	.	.
+.	16bq/LL	.	.
+.	16cc#q/JJ	.	.
 =50	=50	=50	=50
 4DD/ 4D/	8dd/	4f#\	.
 .	(8dd/L	.	.

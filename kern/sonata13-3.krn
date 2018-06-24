@@ -1,10 +1,11 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 13 in E-flat major ("Quasi una fantasia")
-!!!OMV: mvmt. 3
+!!!OTL: Piano Sonata no. 13 in E-flat major
+!!!OTP: quasi una fantasia
+!!!OPS: 27
+!!!ONM: 1
+!!!OMV: 3
 !!!OMD: Adagio con expressione
-!!!OPS: Op. 27
-!!!ONM: No. 1
 **kern	**kern	**dynam
 *Ipiano	*Ipiano	*Ipiano
 *staff2	*staff1	*staff1/2
@@ -346,29 +347,29 @@
 .	64aa-\JJJJ)	.
 =26	=26	=26
 2.Dn;\ 2.F;\ 2.B-;\	4aa-;\	.
-.	ggQ\LL	.
-.	aa-Q\	.
-.	bb-Q\	.
-.	aa-Q\	.
-.	ggQ\	.
-.	ffQ\	.
-.	eenQ\	.
-.	ffQ\	.
-.	ggQ\	.
-.	ffQ\	.
-.	ee-Q\	.
-.	ddnQ\	.
-.	cc#Q\	.
-.	ddQ\	.
-.	ee-Q\	.
-.	ddQ\	.
-.	ccnQ\	.
-.	b-Q\	.
-.	anQ\	.
-.	b-Q\	.
-.	bnQ\	.
-.	ccQ\	.
-.	gQ\JJ	.
+.	ggq\LL	.
+.	aa-q\	.
+.	bb-q\	.
+.	aa-q\	.
+.	ggq\	.
+.	ffq\	.
+.	eenq\	.
+.	ffq\	.
+.	ggq\	.
+.	ffq\	.
+.	ee-q\	.
+.	ddnq\	.
+.	cc#q\	.
+.	ddq\	.
+.	ee-q\	.
+.	ddq\	.
+.	ccnq\	.
+.	b-q\	.
+.	anq\	.
+.	b-q\	.
+.	bnq\	.
+.	ccq\	.
+.	gq\JJ	.
 .	(4b-'/	.
 .	4an'/)	.
 4r	4a-';/	pp

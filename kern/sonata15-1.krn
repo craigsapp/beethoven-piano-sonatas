@@ -1,9 +1,10 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 15 in D major ("Pastoral")
+!!!OTL: Piano Sonata no. 15 in D major
+!!!OTP: pastoral
+!!!OPS: 28
+!!!OMV: 1
 !!!OMD: Allegro
-!!!OPS: Op. 28
-!!!OMV: Mvmt. 1
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano

@@ -1,10 +1,10 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 7 in D major, mvmt. 2
+!!!OTL: Piano Sonata no. 7 in D major
+!!!OPS: 10
+!!!ONM: 3
+!!!OMV: 2
 !!!OMD: Largo e mesto
-!!!OMV: mvmt. 2
-!!!OPS: Op. 10
-!!!ONM: No. 3
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *clefF4	*clefG2	*clefG2

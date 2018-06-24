@@ -1,8 +1,9 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 12 in A-flat major ("Funeral March")
-!!!OPS: Op. 26
-!!!OMV: mvmt. 1
+!!!OTL: Piano Sonata no. 12 in A-flat major
+!!!OTP: funeral march
+!!!OPS: 26
+!!!OMV: 1
 !!!OMD: Andante con variazioni
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2

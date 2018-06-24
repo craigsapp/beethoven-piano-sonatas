@@ -1,12 +1,12 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 2 in A major, mvmt. 3
+!!!OTL: Piano Sonata no. 2 in A major
 !!!ODT: 1794///-1795///
 !!!ODE: Joseph Haydn
 !!!OMD: Scherzo: Allegretto
-!!!OMV: Mvmt. 3
-!!!OPS: Op. 2
-!!!ONM: No. 2
+!!!OPS: 2
+!!!ONM: 2
+!!!OMV: 3
 **kern	**kern	**dynam
 *Ipiano	*Ipiano	*Ipiano
 *staff2	*staff1	*staff1
@@ -162,8 +162,8 @@
 8B\	.	.
 8D#\	4f##t/)	.
 8A#\J	.	.
-.	16e#Q/LL	.
-.	16f##Q/JJ	.
+.	16e#q/LL	.
+.	16f##q/JJ	.
 =23	=23	=23
 8G#\L	4g#/	.
 8d#\	.	.
@@ -351,8 +351,8 @@
 =:|!|:	=:|!|:	=:|!|:
 *>D	*>D	*>D
 4r	4gT/	.
-.	16f#Q/LL	.
-.	16gQ/JJ	.
+.	16f#q/LL	.
+.	16gq/JJ	.
 *clefG2	*	*
 =53	=53	=53
 8c/L	(4ee\	.

@@ -1,12 +1,12 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 2 in A major, mvmt. 1
+!!!OTL: Piano Sonata no. 2 in A major
 !!!ODT: 1794///-1795///
 !!!ODE: Joseph Haydn
 !!!OMD: Allegro vivace
-!!!OPS: Op. 2
-!!!ONM: No. 2
-!!!OMV: No. 1
+!!!OPS: 2
+!!!ONM: 2
+!!!OMV: 1
 !!!AGN: Sonata
 **kern	**dynam	**kern	**dynam
 *staff2	*staff2	*staff1	*staff1
@@ -334,11 +334,10 @@
 *^	*	*	*
 *	*^	*	*	*
 4r	8r	[2D#\	.	2r	.
-*	*v	*v	*	*	*
-.	[4.F#\	.	.	.
-(8A/	.	.	.	.
-8B/	.	.	.	.
-*v	*v	*	*	*
+.	[4.F#\	.	.	.	.
+(8A/	.	.	.	.	.
+8B/	.	.	.	.	.
+*v	*v	*v	*	*	*
 =55	=55	=55	=55
 2D#\_ 2F#\_) [2A\ [2cn\	.	(8d#/L	.
 .	.	8f#/	.
@@ -751,10 +750,10 @@
 *^	*	*	*
 *	*^	*	*	*
 8B/L	4D#\	2EE\]	.	2a/	.
+8c#/	.	.	.	.	.
+8dn/	4F#\	.	.	.	.
+8d#/J)	.	.	.	.	.
 *	*v	*v	*	*	*
-8c#/	.	.	.	.
-8dn/	4F#\	.	.	.
-8d#/J)	.	.	.	.
 =110	=110	=110	=110	=110
 (8EE/L	[2EE\	.	2B/ 2e/ 2g#/	.
 8FF#/	.	.	.	.
@@ -1839,10 +1838,10 @@
 *^	*	*	*
 *	*^	*	*	*
 4r	8r	[2G#\	.	2r	.
+.	(4B/	.	.	.	.
+[4d/	.	.	.	.	.
+.	8e/	.	.	.	.
 *	*v	*v	*	*	*
-.	(4B/	.	.	.
-[4d/	.	.	.	.
-.	8e/	.	.	.
 =278	=278	=278	=278	=278
 [2B/) 2d/_ [2fn/	2G#\_	.	(8g#X\L	.
 .	.	.	8b\	.
@@ -2293,4 +2292,3 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/06/30/
 !!!ONB: Not proof-read yet
-!!!hum2abc: --spacing 1.7

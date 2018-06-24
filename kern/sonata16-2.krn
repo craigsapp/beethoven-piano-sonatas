@@ -1,10 +1,10 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
 !!!OTL: Piano Sonata no. 16 in G major
+!!!OPS: 31
+!!!ONM: 1
+!!!OMV: 2
 !!!OMD: Adagio grazioso
-!!!OPS: Op. 31
-!!!ONM: No. 1
-!!!OMV: No. 2
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *clefF4	*clefG2	*clefG2
@@ -20,8 +20,8 @@
 8E`/L	4r	.	.
 8G`/	.	.	.
 8c`/J	8r	.	.
-.	.	bQ/LL	.
-.	.	ccQ/JJ	.
+.	.	bq/LL	.
+.	.	ccq/JJ	.
 8E`/L	4r	[4ee\	.
 8G`/	.	.	.
 8c`/J	8r	16.ee\LL]	.
@@ -47,8 +47,8 @@
 8F`/L	4r	.	.
 8G/	.	.	.
 8d/J	8r	.	.
-.	.	(ccQ/LL	.
-.	.	ddQ/JJ)	.
+.	.	(ccq/LL	.
+.	.	ddq/JJ)	.
 8F/L	4r	[4ff\	.
 8G`/J	.	.	.
 8d/	8r	16.ff\LL]	.
@@ -192,15 +192,15 @@ Cq/JJ	.	.
 .	.	56c/JJJ)	.
 *v	*v	*	*
 =11	=11	=11
-(GGq/	.	.
+(8GGq/	.	.
 2.D\)	8B/L	.
 .	8G/ 8B/ 8f/	.
 .	8G/ 8B/ 8f/J	.
 .	8G/ 8B/ 8f/L	.
 .	8G/ 8B/ 8f/	.
 .	8G/ 8B/ 8f/J	.
-(Cq/LL	.	.
-Dq/JJ	.	.
+(16Cq/LL	.	.
+16Dq/JJ	.	.
 [4F\)	8G/ 8B/ 8d/ 8f/L	.
 .	8G/ 8B/ 8d/ 8f/	.
 16.F\LL]	8G/ 8B/ 8d/ 8f/J	.
@@ -262,7 +262,7 @@ Dq/JJ	.	.
 8C`\L	(8dd#\	.
 8G\ 8c\	4ee\)	.
 8c`\ 8e`\J	.	.
-.	eeq/	.
+.	8eeq/	.
 8AA`\L	[4.ccc\	.
 8A`\ 8c`\	.	.
 8c`\ 8e`\J	.	.
@@ -307,7 +307,7 @@ Dq/JJ	.	.
 8A`\ 8c`\J	16e'/	.
 .	16f#'/JJ	.
 =16	=16	=16
-.	f#q/	.
+.	8f#q/	.
 8GG`\L	(4.a/	.
 8G`\ 8c`\	.	.
 8c`\ 8d`\J	.	.
@@ -427,60 +427,60 @@ Dq/JJ	.	.
 *	*v	*v	*
 =26	=26	=26
 2.GG;/ 2.D;/ 2.G;/	2.B;/ (2.g;/	p
-.	gQ\LLL)	.
-.	f#Q\	.
-.	gQ\	.
-.	dQ\	.
-.	eQ\	.
-.	f#Q\	.
-.	gQ\	.
-.	aQ\	.
-.	bQ\	.
-.	aQ\	.
-.	gQ\	.
-.	aQ\	.
-.	bQ\	.
-.	ccQ\	.
-.	ddQ\	.
-.	ccQ\	.
-.	bQ\	.
-.	ccQ\	.
-.	ddQ\	.
-.	eeQ\	.
-.	ff#Q\	.
-.	ggQ\	.
-.	ff#Q\	.
-.	eeQ\	.
-.	ddQ\	.
-.	eeQ\	.
-.	ff#Q\	.
-.	ggQ\	.
-.	aaQ\JJJ	.
-.	bbQ\LLL	.
-.	aaQ\	.
-.	ggQ\	.
-.	aaQ\	.
-.	bbQ\	.
-.	cccQ\	.
-.	dddQ\	.
-.	eeeQ\	.
-.	fffnQ\	.
-.	eeeQ\	.
-.	dddQ\	.
-.	ccc#Q\JJJ	.
-.	eeeQ\LLL	.
-.	dddQ\	.
-.	cccnQ\	.
-.	bbQ\	.
-.	aaQ\	.
-.	cccQ\	.
-.	bbQ\	.
-.	dddQ\	.
-.	cccQ\	.
-.	bbQ\	.
-.	aaQ\	.
-.	ggQ\	.
-.	gg#Q\JJJ	.
+.	gq\LLL)	.
+.	f#q\	.
+.	gq\	.
+.	dq\	.
+.	eq\	.
+.	f#q\	.
+.	gq\	.
+.	aq\	.
+.	bq\	.
+.	aq\	.
+.	gq\	.
+.	aq\	.
+.	bq\	.
+.	ccq\	.
+.	ddq\	.
+.	ccq\	.
+.	bq\	.
+.	ccq\	.
+.	ddq\	.
+.	eeq\	.
+.	ff#q\	.
+.	ggq\	.
+.	ff#q\	.
+.	eeq\	.
+.	ddq\	.
+.	eeq\	.
+.	ff#q\	.
+.	ggq\	.
+.	aaq\JJJ	.
+.	bbq\LLL	.
+.	aaq\	.
+.	ggq\	.
+.	aaq\	.
+.	bbq\	.
+.	cccq\	.
+.	dddq\	.
+.	eeeq\	.
+.	fffnq\	.
+.	eeeq\	.
+.	dddq\	.
+.	ccc#q\JJJ	.
+.	eeeq\LLL	.
+.	dddq\	.
+.	cccnq\	.
+.	bbq\	.
+.	aaq\	.
+.	cccq\	.
+.	bbq\	.
+.	dddq\	.
+.	cccq\	.
+.	bbq\	.
+.	aaq\	.
+.	ggq\	.
+.	gg#q\JJJ	.
 4.r	16bb'\LL	>
 .	16aa'\	.
 .	16ggn'\	.
@@ -495,8 +495,8 @@ Dq/JJ	.	.
 8E`/L	4r	.	.
 8G`/	.	.	.
 8c/J	8r	.	.
-.	.	(bQ/LL	.
-.	.	ccQ/JJ	.
+.	.	(bq/LL	.
+.	.	ccq/JJ	.
 8E`/L	4r	[4ee\)	.
 8G`/	.	.	.
 8c`/J	8r	16.ee\LL]	.
@@ -743,8 +743,8 @@ Dq/JJ	.	.
 16A-'\	16c'/ 16e-'/	.
 16A-'\JJ	16c'/ 16e-'/JJ	.
 =42	=42	=42
-.	(cccQ/LLL	.
-.	ddd-Q/JJJ	.
+.	(32cccq/LLL	.
+.	32ddd-q/JJJ	.
 16A-'\ 16c'\ 16e-'\LL	16eee-'\LL)	.
 16A-'\ 16c'\ 16e-'\	16ddd-'\	.
 16A-'\ 16c'\ 16e-'\	16ccc'\	.
@@ -783,8 +783,8 @@ Dq/JJ	.	.
 8r	16B-'/ 16d-'/ 16e-'/	.
 .	16B-'/ 16d-'/ 16e-'/JJ	.
 =44	=44	=44
-(Gq/LL	.	.
-A-q/JJ	.	.
+(16Gq/LL	.	.
+16A-q/JJ	.	.
 16B-'\LL)	16d-'/ 16e-'/LL	.
 16A-'\	16d-'/ 16e-'/	.
 16G'\	16d-'/ 16e-'/	.
@@ -823,8 +823,8 @@ A-q/JJ	.	.
 16A-'\	16c'/ 16e'/	.
 16A-'\JJ	16c'/ 16e'/JJ	.
 =46	=46	=46
-.	(aa-Q/LLL	.
-.	bb-Q/JJJ)	.
+.	(32aa-q/LLL	.
+.	32bb-q/JJJ)	.
 16F'\ 16A-'\ 16c'\ 16f'\LL	16ccc'\LL	.
 16F'\ 16A-'\ 16c'\	16bb-'\	.
 16F'\ 16A-'\ 16c'\	16aa-'\	.
@@ -1671,31 +1671,31 @@ Dq/JJ)	.	.
 *	*v	*v	*
 =90	=90	=90
 2.GG;/ 2.D;/ 2.G;/	2.B;/ 2.g;/	p
-.	gQ\LLL	.
-.	f#Q\	.
-.	gQ\	.
-.	dQ\	.
-.	eQ\	.
-.	f#Q\	.
-.	gQ\	.
-.	aQ\	.
-.	gQ\	.
-.	f#Q\	.
-.	gQ\	.
-.	aQ\	.
-.	bQ\	.
-.	ccQ\	.
-.	bQ\	.
-.	aQ\	.
-.	bQ\	.
-.	ccQ\	.
-.	ddQ\	.
-.	eeQ\	.
-.	ddQ\	.
-.	cc#Q\	.
-.	ddQ\	.
-.	eeQ\	.
-.	ff#Q\JJJ	.
+.	gq\LLL	.
+.	f#q\	.
+.	gq\	.
+.	dq\	.
+.	eq\	.
+.	f#q\	.
+.	gq\	.
+.	aq\	.
+.	gq\	.
+.	f#q\	.
+.	gq\	.
+.	aq\	.
+.	bq\	.
+.	ccq\	.
+.	bq\	.
+.	aq\	.
+.	bq\	.
+.	ccq\	.
+.	ddq\	.
+.	eeq\	.
+.	ddq\	.
+.	cc#q\	.
+.	ddq\	.
+.	eeq\	.
+.	ff#q\JJJ	.
 4.r	4.r	.
 *clefF4	*	*
 =91	=91	=91
@@ -1750,8 +1750,8 @@ Dq/JJ)	.	.
 16F`\ 16G`\	.	.
 16BB`\ 16F`\	.	.
 16F`\ 16G`\JJ	.	.
-.	(cc#Q/LLL	.
-.	ddQ/JJJ	.
+.	(cc#q/LLL	.
+.	ddq/JJJ	.
 16BB`\ 16F`\LL	[4gg\)	.
 16F'\ 16G'\	.	.
 16G`\ 16d`\	.	.
@@ -1833,7 +1833,7 @@ Dq/JJ)	.	.
 16F`\ 16A`\JJ	[16aa\Jk	.
 16FF`\LL	(16aa\LL]	.
 16F`\ 16A`\	16ee\	.
-.	ggnQ/	.
+.	ggnq/	.
 16A`\ 16d`\	16ff\	.
 16F`\ 16A`\	16ee\	.
 16A\ 16d\	16ff\	.

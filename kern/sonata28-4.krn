@@ -1,9 +1,9 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OPS: Op. 101
 !!!OTL: Piano Sonata no. 28 in A major
+!!!OPS: 101
+!!!OMV: 4
 !!!OMD: Allegro
-!!!OMV: No. 4
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano

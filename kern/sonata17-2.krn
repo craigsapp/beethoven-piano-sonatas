@@ -1,10 +1,11 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 17 in D minor ("Tempest")
+!!!OTL: Piano Sonata no. 17 in D minor
+!!!OTP: tempest
+!!!OPS: 31
+!!!ONM: 2
+!!!OMV: 2
 !!!OMD: Adagio
-!!!OPS: Op. 31
-!!!ONM: No. 2
-!!!OMV: No. 2
 !!!AGN: Sonata form
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -33,16 +34,16 @@
 =5	=5	=5
 2.BB-\ 2.F\	2.B-/ 2.d/	<
 =6	=6	=6
-.	(dQ/LL	.
-.	fQ/	.
-.	e-Q/	.
-.	dQ/	.
-.	e-Q/	.
-.	fQ/	.
-.	gQ/	.
-.	aQ/	.
-.	b-Q/	.
-.	ccQ/JJ)	.
+.	(d16q/LL	.
+.	fq/	.
+.	e-q/	.
+.	dq/	.
+.	e-q/	.
+.	fq/	.
+.	gq/	.
+.	aq/	.
+.	b-q/	.
+.	ccq/JJ)	.
 4r	(8..dd\L	.
 .	32ee-\Jkk)	.
 4r	4ff\	.
@@ -56,8 +57,8 @@
 8en/J	8G'\J)	8cc'/J	8b-\J)	>
 =8	=8	=8	=8	=8
 (4en/	4.F\	8cc/L	(4b-\	.
-.	.	bnQ/LL	.	.
-.	.	ccQ/JJ	.	.
+.	.	bnq/LL	.	.
+.	.	ccq/JJ	.	.
 .	.	&(16dd/L&)	.	.
 .	.	16cc/JJ	.	.
 8f/)	.	8cc/	8an\)	.
@@ -1174,20 +1175,20 @@
 =94	=94	=94
 2.A\ 2.e-\	2.f/)	.
 =95	=95	=95
-.	(gnQ\LLL	.
-.	fQ\	.
-.	enQ\	.
-.	fQ\	.
-.	gQ\	.
-.	aQ\	.
-.	b-Q\	.
-.	ccQ\	.
-.	ddQ\	.
-.	ee-Q\	.
-.	ffQ\	.
-.	ggQ\	.
-.	aaQ\	.
-.	bb-Q\JJJ)	.
+.	(gnq\LLL	.
+.	fq\	.
+.	enq\	.
+.	fq\	.
+.	gq\	.
+.	aq\	.
+.	b-q\	.
+.	ccq\	.
+.	ddq\	.
+.	ee-q\	.
+.	ffq\	.
+.	ggq\	.
+.	aaq\	.
+.	bb-q\JJJ)	.
 4r	([8ccc\L	.
 .	16.ccc\L]	.
 .	32ddd\JJk	.

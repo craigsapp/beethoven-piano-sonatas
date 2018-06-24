@@ -1,9 +1,9 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OPS: Op. 101
 !!!OTL: Piano Sonata no. 28 in A major
+!!!OPS: 101
+!!!OMV: 3
 !!!OMD: Adagio ma non troppo con affetto
-!!!OMV: No. 3
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *clefF4	*clefG2	*clefG2
@@ -146,9 +146,9 @@
 8r	16cn/	16f#/ 16a/ 16dd#/	.
 .	16d#/JJ)	16r	.
 =15	=15	=15	=15
-.	.	(fnQ/LL	.
-.	.	bQ/	.
-.	.	ddnQ/JJ	.
+.	.	(fnq/LL	.
+.	.	bq/	.
+.	.	ddnq/JJ	.
 (16dn\LL	4r	[8ff\)	.
 16B\	.	.	.
 16G#\	.	32ff\LLL]	.
@@ -209,49 +209,49 @@
 *k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
 *M6/8	*M6/8	*M6/8
 *^	*	*
-.	.	g#Q/L)	.
-.	.	eQ/	.
-.	.	d#Q/	.
-.	.	eQ/	.
-.	.	g#Q/J	.
-.	.	bQ/L	.
-.	.	g#Q/	.
-.	.	f##Q/	.
-.	.	g#Q/	.
-.	.	bQ/J	.
-.	.	eeQ\L	.
-.	.	bQ\	.
-.	.	a#Q\	.
-.	.	bQ\	.
-.	.	eeQ\J	.
-.	.	gg#Q\L	.
-.	.	eeQ\	.
-.	.	dd#Q\	.
-.	.	eeQ\	.
-.	.	gg#Q\J	.
-.	.	bbQ\L	.
-.	.	ff##Q\	.
-.	.	gg#Q\	.
-.	.	bbQ\	.
-.	.	dd#Q\	.
-.	.	eeQ\	.
-.	.	gg#Q\	.
-.	.	a#Q\	.
-.	.	bQ\	.
-.	.	eeQ\	.
-.	.	f##Q\	.
-.	.	g#Q\	.
-.	.	bQ\	.
-.	.	d#Q\	.
-.	.	eQ\	.
-.	.	g#Q\	.
-.	.	eQ\	.
-.	.	BQ\	.
-.	.	G#Q\	.
-.	.	EQ\J	.
-.	.	G#Q/LL	.
-.	.	BQ/	.
-.	.	eQ/JJ	.
+.	.	g#q/L)	.
+.	.	eq/	.
+.	.	d#q/	.
+.	.	eq/	.
+.	.	g#q/J	.
+.	.	bq/L	.
+.	.	g#q/	.
+.	.	f##q/	.
+.	.	g#q/	.
+.	.	bq/J	.
+.	.	eeq\L	.
+.	.	bq\	.
+.	.	a#q\	.
+.	.	bq\	.
+.	.	eeq\J	.
+.	.	gg#q\L	.
+.	.	eeq\	.
+.	.	dd#q\	.
+.	.	eeq\	.
+.	.	gg#q\J	.
+.	.	bbq\L	.
+.	.	ff##q\	.
+.	.	gg#q\	.
+.	.	bbq\	.
+.	.	dd#q\	.
+.	.	eeq\	.
+.	.	gg#q\	.
+.	.	a#q\	.
+.	.	bq\	.
+.	.	eeq\	.
+.	.	f##q\	.
+.	.	g#q\	.
+.	.	bq\	.
+.	.	d#q\	.
+.	.	eq\	.
+.	.	g#q\	.
+.	.	eq\	.
+.	.	Bq\	.
+.	.	G#q\	.
+.	.	Eq\J	.
+.	.	G#q/LL	.
+.	.	Bq/	.
+.	.	eq/JJ	.
 *	*	*^	*
 4E/	[2.EE\	(4g#/	8e\L	p
 .	.	.	8B\	.

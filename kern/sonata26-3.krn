@@ -1,11 +1,12 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 26 in E-flat major ("Les Adieux")
+!!!OTL: Piano Sonata no. 26 in E-flat major
+!!!OTP: les adieux
 !!!ODT: 1809///-1810///
 !!!ODE: &agrave; l'Archiduc Rodolphe
+!!!OPS: 81a
+!!!OMV: 3
 !!!OMD: Le Retour: Vivacissimamente
-!!!OPS: Op. 81a
-!!!OMV: Mvmt. 3
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano

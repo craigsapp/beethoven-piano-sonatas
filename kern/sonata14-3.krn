@@ -1,12 +1,13 @@
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
-!!!OTL: Piano Sonata no. 14 in C-sharp minor ("Moonlight"), mvmt. 3
+!!!OTL: Piano Sonata no. 14 in C-sharp minor ("Moonlight")
+!!!OTP: moonlight
 !!!ODT: 1801///
 !!!ODE: Gr&auml;fin Giulietta Guicciardi
+!!!OPS: 27
+!!!ONM: 2
+!!!OMV: 3
 !!!OMD: Presto agitato
-!!!OPS: Op. 27
-!!!ONM: No. 2
-!!!OMV: Mvmt. 3
 **kern	**kern	**dynam
 *>[I,A,A1,A,B]	*>[I,A,A1,A,B]	*>[I,A,A1,A,B]
 *>norep[I,A,B]	*>norep[I,A,B]	*>norep[I,A,B]
@@ -366,9 +367,9 @@
 16BB/	.	.
 16D#/JJ	16g#/Jk)	.
 =22	=22	=22
-.	(f##Q/LL	.
-.	g#Q/	.
-.	a#Q/JJ	.
+.	(16f##q/LL	.
+.	16g#q/	.
+.	16a#q/JJ	.
 16AA#/LL	(4g#/)	.
 16D#/	.	.
 16C#/	.	.
@@ -509,8 +510,8 @@
 16C#/	.	.
 16FF#/	.	.
 16C#/JJ	.	.
-.	(gg#Q/LL	.
-.	aa#Q/JJ	.
+.	(16gg#q/LL	.
+.	16aa#q/JJ	.
 16DD#/LL	2.bn\ 2.bbn\)	.
 16BB/	.	.
 16FF#/	.	.
@@ -545,8 +546,8 @@
 16AA#/	.	.
 16DD#/	.	.
 16AA#/JJ	.	.
-.	(eeQ/LL	.
-.	ff##Q/JJ)	.
+.	(16eeq/LL	.
+.	16ff##q/JJ)	.
 16BBB/LL	2.g#\ 2.gg#\	.
 16GG#/	.	.
 16DD#/	.	.
@@ -887,8 +888,8 @@
 16D#\	.	.
 16A#\JJ	.	.
 =59	=59	=59
-.	(BQ/LL	.
-.	g#Q/JJ	.
+.	(16Bq/LL	.
+.	16g#q/JJ	.
 16GG#\LL	2.dd#\)	.
 16G#\	.	.
 16D#\	.	.
@@ -923,8 +924,8 @@
 16D#\	.	.
 16A#\JJ	.	.
 =61	=61	=61
-.	(bQ/LL	.
-.	gg#Q/JJ	.
+.	(16bq/LL	.
+.	16gg#q/JJ	.
 16GG#\LL	2ddd#\)	.
 16G#\	.	.
 16D#\	.	.
@@ -933,8 +934,8 @@
 16G#\	.	.
 16D#\	.	.
 16G#\JJ	.	.
-.	(cc#Q/LL	.
-.	ff##Q/JJ	.
+.	(16cc#q/LL	.
+.	16ff##q/JJ	.
 16GG#\LL	2ddd#\)	.
 16A#\	.	.
 16D#\	.	.
@@ -944,8 +945,8 @@
 16D#\	.	.
 16A#\JJ	.	.
 =62	=62	=62
-.	(bQ/LL	.
-.	gg#Q/JJ	.
+.	(16bq/LL	.
+.	16gg#q/JJ	.
 16GG#\LL	2ddd#\)	.
 16G#\	.	.
 16D#\	.	.
@@ -954,8 +955,8 @@
 16G#\	.	.
 16D#\	.	.
 16G#\JJ	.	.
-.	(cc#Q/LL	.
-.	ff##Q/JJ	.
+.	(16cc#q/LL	.
+.	16ff##q/JJ	.
 16GG#\LL	2ddd#\)	.
 16A#\	.	.
 16D#\	.	.
@@ -1140,9 +1141,9 @@
 16A\	.	.
 16c#\JJ	16f#/Jk)	.
 =73	=73	=73
-.	(e#Q/LL	.
-.	f#Q/	.
-.	g#Q/JJ	.
+.	(16e#q/LL	.
+.	16f#q/	.
+.	16g#q/JJ	.
 16G#\LL	(4f#/)	.
 16c#\	.	.
 16B\	.	.
@@ -1536,8 +1537,8 @@
 16GGG#/	.	.
 16GG#/JJ	.	.
 =96	=96	=96
-.	B#Q/LL	.
-.	(f#Q/JJ	.
+.	16B#q/LL	.
+.	(16f#q/JJ	.
 16GGG#/LL	2.f#/) 2.dd#/	.
 16GG#/	.	.
 16GGG#/	.	.
@@ -1572,8 +1573,8 @@
 16GGG#/	.	.
 16GG#/JJ	.	.
 =98	=98	=98
-.	B#Q/LL	.
-.	(f#Q/JJ	.
+.	16B#q/LL	.
+.	(16f#q/JJ	.
 16GGG#/LL	2.f#/) 2.dd#/	.
 16GG#/	.	.
 16GGG#/	.	.
@@ -1873,9 +1874,9 @@
 16E\	.	.
 16G#\JJ	16c#/Jk)	.
 =118	=118	=118
-.	(B#Q/LL	.
-.	c#Q/	.
-.	d#Q/JJ	.
+.	(16B#q/LL	.
+.	16c#q/	.
+.	16d#q/JJ	.
 16D#\LL	(4c#/)	.
 16G#\	.	.
 16F#\	.	.
@@ -2016,8 +2017,8 @@
 16F#\	.	.
 16BB\	.	.
 16F#\JJ	.	.
-.	cc#Q/LL	.
-.	dd#Q/JJ	.
+.	16cc#q/LL	.
+.	16dd#q/JJ	.
 16GG#\LL	2.e/) 2.een/	.
 16E\	.	.
 16BB\	.	.
@@ -2052,8 +2053,8 @@
 16D#/	.	.
 16GG#/	.	.
 16D#/JJ	.	.
-.	a#Q/LL	.
-.	b#Q/JJ	.
+.	16a#q/LL	.
+.	16b#q/JJ	.
 16EE/LL	2.c#/) 2.cc#/	.
 16C#/	.	.
 16GG#/	.	.
@@ -2378,8 +2379,8 @@
 16GG#\	.	.
 16D#\JJ	.	.
 =154	=154	=154
-.	EQ/LL	.
-.	c#Q/JJ	.
+.	16Eq/LL	.
+.	16c#q/JJ	.
 16CC#/LL	2.g#/	.
 16C#/	.	.
 16GG#/	.	.
@@ -2414,8 +2415,8 @@
 16GG#/	.	.
 16D#/JJ	.	.
 =156	=156	=156
-.	(eQ/LL	.
-.	cc#Q/JJ	.
+.	(16eq/LL	.
+.	16cc#q/JJ	.
 16CC#/LL	2gg#\)	.
 16C#/	.	.
 16GG#/	.	.
@@ -2424,8 +2425,8 @@
 16C#/	.	.
 16GG#/	.	.
 16C#/JJ	.	.
-.	(f#Q/LL	.
-.	bQ/JJ)	.
+.	(16f#q/LL	.
+.	16bq/JJ)	.
 16CC#/LL	2gg#\	.
 16D#/	.	.
 16GG#/	.	.
@@ -2435,8 +2436,8 @@
 16GG#/	.	.
 16D#/JJ	.	.
 =157	=157	=157
-.	(eQ/LL	.
-.	cc#Q/JJ	.
+.	(16eq/LL	.
+.	16cc#q/JJ	.
 16CC#/LL	2gg#\)	.
 16C#/	.	.
 16GG#/	.	.
@@ -2445,8 +2446,8 @@
 16C#/	.	.
 16GG#/	.	.
 16C#/JJ	.	.
-.	(f#Q/LL	.
-.	bQ/JJ	.
+.	(16f#q/LL	.
+.	16bq/JJ	.
 16CC#/LL	2gg#\)	.
 16D#/	.	.
 16GG#/	.	.
@@ -2994,8 +2995,8 @@
 16GG#\	.	.
 16D#\JJ	.	.
 =193	=193	=193
-.	EQ/LL	.
-.	c#Q/JJ	.
+.	16Eq/LL	.
+.	16c#q/JJ	.
 16CC#/LL	2.g#/	.
 16C#/	.	.
 16GG#/	.	.
@@ -3030,8 +3031,8 @@
 16GG#/	.	.
 16D#/JJ	.	.
 =195	=195	=195
-.	(eQ/LL	.
-.	cc#Q/JJ	.
+.	(16eq/LL	.
+.	16cc#q/JJ	.
 16CC#/LL	2gg#\)	.
 16C#/	.	.
 16GG#/	.	.
@@ -3040,8 +3041,8 @@
 16C#/	.	.
 16GG#/	.	.
 16C#/JJ	.	.
-.	(f#Q/LL	.
-.	bQ/JJ)	.
+.	(16f#q/LL	.
+.	16bq/JJ)	.
 16CC#/LL	2gg#\	.
 16D#/	.	.
 16GG#/	.	.
@@ -3051,8 +3052,8 @@
 16GG#/	.	.
 16D#/JJ	.	.
 =196	=196	=196
-.	(eQ/LL	.
-.	cc#Q/JJ	.
+.	(16eq/LL	.
+.	16cc#q/JJ	.
 16CC#/LL	2gg#\)	.
 16C#/	.	.
 16GG#/	.	.
@@ -3061,8 +3062,8 @@
 16C#/	.	.
 16GG#/	.	.
 16C#/JJ	.	.
-.	(f#Q/LL	.
-.	bQ/JJ	.
+.	(16f#q/LL	.
+.	16bq/JJ	.
 16CC#/LL	2gg#\)	.
 16D#/	.	.
 16GG#/	.	.
@@ -3072,8 +3073,8 @@
 16GG#/	.	.
 16D#/JJ	.	.
 =197	=197	=197
-.	(eQ/LL	.
-.	cc#Q/JJ	.
+.	(16eq/LL	.
+.	16cc#q/JJ	.
 16CC#/	16gg#\LL)	f
 16E\LL	16e\	.
 16G#\	16g#\	.
