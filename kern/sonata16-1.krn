@@ -12,11 +12,11 @@
 *>[I,A,A,B]	*>[I,A,A,B]	*>[I,A,A,B]
 *>norep[I,A,B]	*>norep[I,A,B]	*>norep[I,A,B]
 *>I	*>I	*>I
-*clefF4	*clefG2	*clefG2
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
-*M2/4	*M2/4	*M2/4
-*MM132	*MM132	*MM132
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M2/4	*M2/4	*
+*MM132	*MM132	*
 16r	[16gg	f
 =1	=1	=1
 4G 4B 4d	4.gg]	.
@@ -223,7 +223,7 @@
 16C	16c	.
 16BB	16B	.
 16AAJJ	16AJJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =34	=34	=34
 16GGLL	16GLL	f
 16AA#	16A#	.
@@ -269,7 +269,7 @@
 16BBn	16Bn	.
 16C	16c	.
 16C#JJ	16c#JJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =39	=39	=39
 16D`LL	16d`LL	.
 (16D	(<16d	.
@@ -315,7 +315,7 @@
 (16d	(16dd	.
 16A	16a	.
 16F#JJ	16f#JJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16D`LL)	16d`LL)	.
 (16D	(16d	.
 16AA	16A	.
@@ -324,7 +324,7 @@
 [2DD	[2D)	sf
 =45	=45	=45
 4..DD;]	4..D;]	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16r	[16gg	f
 =46	=46	=46
 4G 4B 4d	4.gg]	.
@@ -769,7 +769,7 @@
 =108	=108	=108
 4BB 4F#	4d 4f# 4b	p
 4r	8r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 .	16r	.
 .	[16F# [16B [16d	.
 =109	=109	=109
@@ -784,7 +784,7 @@
 8BBB	8BB	.
 8r	8r	.
 8DD	8D	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 8r	16r	.
 .	[16gg	f
 =112	=112	=112
@@ -983,7 +983,7 @@
 16E-	16e-	.
 16D	16d	.
 16CJJ	16cJJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =138	=138	=138
 16BB-LL	16B-LL	.
 16C#	16c#	.
@@ -1007,7 +1007,7 @@
 16DD	.	.
 16CC	8r	.
 16EE-JJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16DDLL	[4gg	f
 16FFn	.	.
 16EE-	.	.
@@ -1066,7 +1066,7 @@
 16C	16c	.
 16BB-	16B-	.
 16AA-JJ	16A-JJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =147	=147	=147
 16GGLL	16GLL	.
 16AAn	16An	.
@@ -1081,7 +1081,7 @@
 16EE	.	.
 16DD	8r	.
 16FFnJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16EELL	[4aa	f
 16GG	.	.
 16FF	.	.
@@ -1122,7 +1122,7 @@
 16D	16d	.
 16Cn	16cn	.
 16BB-JJ	16B-JJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =153	=153	=153
 16AALL	16ALL	.
 16BB-	16B-	.
@@ -1209,7 +1209,7 @@
 (16DD	(16D	.
 16FF#	16F#	.
 16AAJJ	16AJJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16D`LL)	16d`LL)	.
 !!!ONB: slur missing in LH at this point
 16D	(16d	.
@@ -1251,7 +1251,7 @@
 (16DD	(16D	.
 16FF#	16F#	.
 16AAJJ	16AJJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16C`LL)	16c`LL)	.
 (16D	(16d	.
 16F#	16f#	.
@@ -1272,7 +1272,7 @@
 (16c	(16cc	.
 16A	16a	.
 16F#JJ	16f#JJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16D`LL)	16d`LL)	.
 (16C	(16c	.
 16AA	16A	.
@@ -1407,7 +1407,7 @@
 4r	4r	.
 =193	=193	=193
 2r	4r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 .	8r	.
 .	16r	.
 .	[16gg	ff
@@ -1743,7 +1743,7 @@
 16C	.	.
 16BB	.	.
 16AAJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =242	=242	=242
 8GG`	16G 16BLL	f
 .	16d	.
@@ -1789,7 +1789,7 @@
 .	16e#	.
 8BB	16G# 16d	.
 .	16e#JJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =247	=247	=247
 8AA#L	16c# 16enLL	sf
 .	16f#	.
@@ -2009,7 +2009,7 @@
 4GG 4D	4B 4d 4g	p
 4r	8r	.
 .	16r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 .	[16G [16B [16d	.
 =277	=277	=277
 4GGG 4GG	4G] 4B] 4d]	.
@@ -2023,7 +2023,7 @@
 8BBB	8BB	.
 8r	8r	.
 8DD	8D	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 8r	16r	.
 .	[16gg	ff
 =280	=280	=280
@@ -2058,7 +2058,7 @@
 16C	16c	.
 16BB	16B	.
 16AAJJ	16AJJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =284	=284	=284
 16GGLL	16GLL	.
 16AA#	16A#	.
@@ -2104,7 +2104,7 @@
 16BBn	16Bn	.
 16C	16c	.
 16C#JJ	16c#JJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =289	=289	=289
 16D`LL	16d`LL	.
 (16D	(16d	.
@@ -2151,7 +2151,7 @@
 (16d	(16dd	.
 16A	16a	.
 16F#JJ	16f#JJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16D`LL)	16d`LL)	.
 (16D	(16d	.
 16AA	16A	.
@@ -2160,7 +2160,7 @@
 [2DD	[2D)	sf
 =295	=295	=295
 4..DD;]	4..D;]	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16r	[16d [>16f# [16a	p
 =296	=296	=296
 2D 2A 2c	2d] 2f#] 2a]	.
@@ -2305,7 +2305,7 @@
 =324	=324	=324
 8GGG` 8GG`	8g` 8b` 8dd` 8gg`	p
 8r	8r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 8GGG` 8GG`	8BB` 8D` 8G`	.
 8r	8r	.
 =325	=325	=325
