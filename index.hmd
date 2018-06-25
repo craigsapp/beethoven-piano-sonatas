@@ -3,169 +3,169 @@
 **file	**sort	**available	**pdf	**description	**wikipedia
 
 @01-1:01-2:01-3:01-4	01-0	.	.	<not>Piano</not> Sonata No. 1 in F Minor, Op. 2, No. 1 [1793-5]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._1_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata01-1.krn	01-1	Y	sonata01-1	1. <hlstart>Allegro<hlend>	.
-kern/sonata01-2.krn	01-2	Y	sonata01-2	2. <hlstart>Adagio<hlend>	.
-kern/sonata01-3.krn	01-3	Y	sonata01-3	3. <hlstart>Minuet and Trio<hlend>	.
-kern/sonata01-4.krn	01-4	Y	sonata01-4	4. <hlstart>Prestissimo<hlend>	.
+kern/sonata01-1.krn	01-1	Y	sonata01-1	1. <link>Allegro</link>	.
+kern/sonata01-2.krn	01-2	Y	sonata01-2	2. <link>Adagio</link>	.
+kern/sonata01-3.krn	01-3	Y	sonata01-3	3. <link>Minuet and Trio</link>	.
+kern/sonata01-4.krn	01-4	Y	sonata01-4	4. <link>Prestissimo</link>	.
 
 @02-1:02-2:02-3:02-4	02-0	.	.	<not>Piano</not> Sonata No. 2 in A Major, Op. 2, No. 2 [1793-5]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._2_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata02-1.krn	02-1	Y	sonata02-1	1. <hlstart>Allegro vivace<hlend>	.
-kern/sonata02-2.krn	02-2	Y	sonata02-2	2. <hlstart>Largo appassionato<hlend>	.
-kern/sonata02-3.krn	02-3	Y	sonata02-3	3. <hlstart>Scherzo<hlend>	.
-kern/sonata02-4.krn	02-4	Y	sonata02-4	4. <hlstart>Rondo<hlend>	.
+kern/sonata02-1.krn	02-1	Y	sonata02-1	1. <link>Allegro vivace</link>	.
+kern/sonata02-2.krn	02-2	Y	sonata02-2	2. <link>Largo appassionato</link>	.
+kern/sonata02-3.krn	02-3	Y	sonata02-3	3. <link>Scherzo</link>	.
+kern/sonata02-4.krn	02-4	Y	sonata02-4	4. <link>Rondo</link>	.
 
 @03-1:03-2:03-3:03-4	03-0	.	.	<not>Piano</not> Sonata No. 3 in C Major, Op. 2, No. 3	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._3_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata03-1.krn	03-1	Y	sonata03-1	1. <hlstart>Allegro con brio<hlend>	.
-kern/sonata03-2.krn	03-2	Y	sonata03-2	2. <hlstart>Adagio<hlend>	.
-kern/sonata03-3.krn	03-3	Y	sonata03-3	3. <hlstart>Scherzo<hlend>	.
-kern/sonata03-4.krn	03-4	Y	sonata03-4	4. <hlstart>Allegro assai<hlend>	.
+kern/sonata03-1.krn	03-1	Y	sonata03-1	1. <link>Allegro con brio</link>	.
+kern/sonata03-2.krn	03-2	Y	sonata03-2	2. <link>Adagio</link>	.
+kern/sonata03-3.krn	03-3	Y	sonata03-3	3. <link>Scherzo</link>	.
+kern/sonata03-4.krn	03-4	Y	sonata03-4	4. <link>Allegro assai</link>	.
 
 @04-1:04-2:04-3:04-4	04-0	.	.	<not>Piano</not> Sonata No. 4 in E-flat Major, Op. 7	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._4_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata04-1.krn	04-1	Y	sonata04-1	1. <hlstart>Allegro molto con brio<hlend>	.
-kern/sonata04-2.krn	04-2	Y	sonata04-2	2. <hlstart>Largo, con gran espressione<hlend>	.
-kern/sonata04-3.krn	04-3	Y	sonata04-3	3. <hlstart>Allegro<hlend>	.
-kern/sonata04-4.krn	04-4	Y	sonata04-4	4. <hlstart>Rondo<hlend> (Poco allegretto grazioso)	.
+kern/sonata04-1.krn	04-1	Y	sonata04-1	1. <link>Allegro molto con brio</link>	.
+kern/sonata04-2.krn	04-2	Y	sonata04-2	2. <link>Largo, con gran espressione</link>	.
+kern/sonata04-3.krn	04-3	Y	sonata04-3	3. <link>Allegro</link>	.
+kern/sonata04-4.krn	04-4	Y	sonata04-4	4. <link>Rondo</link> (Poco allegretto grazioso)	.
 
 @05-1:05-2:05-3	05-0	.	.	<not>Piano</not> Sonata No. 5 in C Minor, Op. 10, No. 1 [1795-7]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._5_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata05-1.krn	05-1	Y	sonata05-1	1. <hlstart>Allegro molto e con brio<hlend>	.
-kern/sonata05-2.krn	05-2	Y	sonata05-2	2. <hlstart>Adagio molto<hlend>	.
-kern/sonata05-3.krn	05-3	Y	sonata05-3	3. <hlstart>Finale<hlend> (Prestissimo)	.
+kern/sonata05-1.krn	05-1	Y	sonata05-1	1. <link>Allegro molto e con brio</link>	.
+kern/sonata05-2.krn	05-2	Y	sonata05-2	2. <link>Adagio molto</link>	.
+kern/sonata05-3.krn	05-3	Y	sonata05-3	3. <link>Finale</link> (Prestissimo)	.
 
 @06-1:06-2:06-3	06-0	.	.	<not>Piano</not> Sonata No. 6 in F Major, Op. 10, No. 2 [1795-7]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._6_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata06-1.krn	06-1	Y	sonata06-1	1. <hlstart>Allegro<hlend>	.
-kern/sonata06-2.krn	06-2	Y	sonata06-2	2. <hlstart>Allegretto<hlend>	.
-kern/sonata06-3.krn	06-3	Y	sonata06-3	3. <hlstart>Finale<hlend> (Presto)	.
+kern/sonata06-1.krn	06-1	Y	sonata06-1	1. <link>Allegro</link>	.
+kern/sonata06-2.krn	06-2	Y	sonata06-2	2. <link>Allegretto</link>	.
+kern/sonata06-3.krn	06-3	Y	sonata06-3	3. <link>Finale</link> (Presto)	.
 
 @07-1:07-2:07-3:07-4	07-0	.	.	<not>Piano</not> Sonata No. 7 in D Major, Op. 10, No. 3 [1795-7]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._7_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata07-1.krn	07-1	Y	sonata07-1	1. <hlstart>Presto<hlend>	.
-kern/sonata07-2.krn	07-2	Y	sonata07-2	2. <hlstart>Largo e mesto<hlend>	.
-kern/sonata07-3.krn	07-3	Y	sonata07-3	3. <hlstart>Minuetto and Trio<hlend> (Allegro)	.
-kern/sonata07-4.krn	07-4	Y	sonata07-4	4. <hlstart>Rondo<hlend> (Allegro)	.
+kern/sonata07-1.krn	07-1	Y	sonata07-1	1. <link>Presto</link>	.
+kern/sonata07-2.krn	07-2	Y	sonata07-2	2. <link>Largo e mesto</link>	.
+kern/sonata07-3.krn	07-3	Y	sonata07-3	3. <link>Minuetto and Trio</link> (Allegro)	.
+kern/sonata07-4.krn	07-4	Y	sonata07-4	4. <link>Rondo</link> (Allegro)	.
 
 @08-1:08-2:08-3	08-0	.	.	<not>Piano</not> Sonata No. 8 in C Minor, Op. 13 (<i>Path&eacute;tique</i>)	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._8_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata08-1.krn	08-1	Y	sonata08-1	1. <hlstart>Grave - Allegro molto e con brio<hlend>	.
-kern/sonata08-2.krn	08-2	Y	sonata08-2	2. <hlstart>Adagio cantabile<hlend>	.
-kern/sonata08-3.krn	08-3	Y	sonata08-3	3. <hlstart>Rondo<hlend> (Allegro)	.
+kern/sonata08-1.krn	08-1	Y	sonata08-1	1. <link>Grave - Allegro molto e con brio</link>	.
+kern/sonata08-2.krn	08-2	Y	sonata08-2	2. <link>Adagio cantabile</link>	.
+kern/sonata08-3.krn	08-3	Y	sonata08-3	3. <link>Rondo</link> (Allegro)	.
 
 @09-1:09-2:09-3	09-0	.	.	<not>Piano</not> Sonata No. 9 in E Major, Op. 14, No. 1	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._9_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata09-1.krn	09-1	Y	sonata09-1	1. <hlstart>Allegro<hlend>	.
-kern/sonata09-2.krn	09-2	Y	sonata09-2	2. <hlstart>Allegretto<hlend>	.
-kern/sonata09-3.krn	09-3	Y	sonata09-3	3. <hlstart>Rondo<hlend> (Allegro commodo)	.
+kern/sonata09-1.krn	09-1	Y	sonata09-1	1. <link>Allegro</link>	.
+kern/sonata09-2.krn	09-2	Y	sonata09-2	2. <link>Allegretto</link>	.
+kern/sonata09-3.krn	09-3	Y	sonata09-3	3. <link>Rondo</link> (Allegro commodo)	.
 
 @10-1:10-2:10-3	10-0	.	.	<not>Piano</not> Sonata No. 10 in G Major, Op. 14, No. 2	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._10_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata10-1.krn	10-1	Y	sonata10-1	1. <hlstart>Allegro<hlend>	.
-kern/sonata10-2.krn	10-2	Y	sonata10-2	2. <hlstart>Andante<hlend>	.
-kern/sonata10-3.krn	10-3	Y	sonata10-3	3. <hlstart>Scherzo<hlend> (Allegro assai)	.
+kern/sonata10-1.krn	10-1	Y	sonata10-1	1. <link>Allegro</link>	.
+kern/sonata10-2.krn	10-2	Y	sonata10-2	2. <link>Andante</link>	.
+kern/sonata10-3.krn	10-3	Y	sonata10-3	3. <link>Scherzo</link> (Allegro assai)	.
 
 @11-1:11-2:11-3:11-4	11-0	.	.	<not>Piano</not> Sonata No. 11 in B-flat Major, Op. 22	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._11_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata11-1.krn	11-1	Y	sonata11-1	1. <hlstart>Allegro con brio<hlend>	.
-kern/sonata11-2.krn	11-2	Y	sonata11-2	2. <hlstart>Adagio<hlend>	.
-kern/sonata11-3.krn	11-3	Y	sonata11-3	3. <hlstart>Minuetto and Trio<hlend> (Tempo di Minuetto)	.
-kern/sonata11-4.krn	11-4	Y	sonata11-4	4. <hlstart>Rondo<hlend> (Allegretto)	.
+kern/sonata11-1.krn	11-1	Y	sonata11-1	1. <link>Allegro con brio</link>	.
+kern/sonata11-2.krn	11-2	Y	sonata11-2	2. <link>Adagio</link>	.
+kern/sonata11-3.krn	11-3	Y	sonata11-3	3. <link>Minuetto and Trio</link> (Tempo di Minuetto)	.
+kern/sonata11-4.krn	11-4	Y	sonata11-4	4. <link>Rondo</link> (Allegretto)	.
 
 @12-1:12-2:12-3:12-4	12-0	.	.	<not>Piano</not> Sonata No. 12 in A-flat Major, Op. 26	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._12_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata12-1.krn	12-1	Y	sonata12-1	1. <hlstart>Andante<hlend>	.
-kern/sonata12-2.krn	12-2	Y	sonata12-2	2. <hlstart>Scherzo and Trio<hlend> (Allegro molto)	.
-kern/sonata12-3.krn	12-3	Y	sonata12-3	3. <hlstart>Marcia Funebre<hlend> sulla morete d'un eroe (Maestoso andante)	.
-kern/sonata12-4.krn	12-4	Y	sonata12-4	4. <hlstart>Allegro<hlend>	.
+kern/sonata12-1.krn	12-1	Y	sonata12-1	1. <link>Andante</link>	.
+kern/sonata12-2.krn	12-2	Y	sonata12-2	2. <link>Scherzo and Trio</link> (Allegro molto)	.
+kern/sonata12-3.krn	12-3	Y	sonata12-3	3. <link>Marcia Funebre</link> sulla morete d'un eroe (Maestoso andante)	.
+kern/sonata12-4.krn	12-4	Y	sonata12-4	4. <link>Allegro</link>	.
 
 @13-1:13-2:13-3:13-4	13-0	.	.	<not>Piano</not> Sonata No. 13 in E-flat Major, Op. 27, No. 1	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._13_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata13-1.krn	13-1	Y	sonata13-1	1. <hlstart>Andante -- Allegro<hlend>	.
-kern/sonata13-2.krn	13-2	Y	sonata13-2	2. <hlstart>Allegro molto vivace<hlend>	.
-kern/sonata13-3.krn	13-3	Y	sonata13-3	3. <hlstart>Adagio<hlend>	.
-kern/sonata13-4.krn	13-4	Y	sonata13-4	4. <hlstart>Finale<hlend> (Allegro vivace)	.
+kern/sonata13-1.krn	13-1	Y	sonata13-1	1. <link>Andante -- Allegro</link>	.
+kern/sonata13-2.krn	13-2	Y	sonata13-2	2. <link>Allegro molto vivace</link>	.
+kern/sonata13-3.krn	13-3	Y	sonata13-3	3. <link>Adagio</link>	.
+kern/sonata13-4.krn	13-4	Y	sonata13-4	4. <link>Finale</link> (Allegro vivace)	.
 
 @14-1:14-2:14-3	14-0	.	.	<not>Piano</not> Sonata No. 14 in C-sharp Minor (<i>Moonlight</i>), Op. 27, No. 2	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._14_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata14-1.krn	14-1	Y	sonata14-1	1. <hlstart>Adagio sostenuto<hlend>	.
-kern/sonata14-2.krn	14-2	Y	sonata14-2	2. <hlstart>Allegretto<hlend>	.
-kern/sonata14-3.krn	14-3	Y	sonata14-3	3. <hlstart>Presto agitato<hlend>	.
+kern/sonata14-1.krn	14-1	Y	sonata14-1	1. <link>Adagio sostenuto</link>	.
+kern/sonata14-2.krn	14-2	Y	sonata14-2	2. <link>Allegretto</link>	.
+kern/sonata14-3.krn	14-3	Y	sonata14-3	3. <link>Presto agitato</link>	.
 
 @15-1:15-2:15-3:15-4	15-0	.	.	<not>Piano</not> Sonata No. 15 in D Major (<i>Pastoral</i>), Op. 28	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._15_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata15-1.krn	15-1	Y	sonata15-1	1. <hlstart>Allegro<hlend>	.
-kern/sonata15-2.krn	15-2	Y	sonata15-2	2. <hlstart>Andante<hlend>	.
-kern/sonata15-3.krn	15-3	Y	sonata15-3	3. <hlstart>Scherzo<hlend> (Allegro vivace)	.
-kern/sonata15-4.krn	15-4	Y	sonata15-4	4. <hlstart>Rondo<hlend> (Allegro non troppo)	.
+kern/sonata15-1.krn	15-1	Y	sonata15-1	1. <link>Allegro</link>	.
+kern/sonata15-2.krn	15-2	Y	sonata15-2	2. <link>Andante</link>	.
+kern/sonata15-3.krn	15-3	Y	sonata15-3	3. <link>Scherzo</link> (Allegro vivace)	.
+kern/sonata15-4.krn	15-4	Y	sonata15-4	4. <link>Rondo</link> (Allegro non troppo)	.
 
 @16-1:16-2:16-3	16-0	.	.	<not>Piano</not> Sonata No. 16 in G Major, Op. 31, No. 1 [1802]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._16_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata16-1.krn	16-1	Y	sonata16-1	1. <hlstart>Allegro vivace<hlend>	.
-kern/sonata16-2.krn	16-2	Y	sonata16-2	2. <hlstart>Adagio grazioso<hlend>	.
-kern/sonata16-3.krn	16-3	Y	sonata16-3	3. <hlstart>Rondo<hlend>	.
+kern/sonata16-1.krn	16-1	Y	sonata16-1	1. <link>Allegro vivace</link>	.
+kern/sonata16-2.krn	16-2	Y	sonata16-2	2. <link>Adagio grazioso</link>	.
+kern/sonata16-3.krn	16-3	Y	sonata16-3	3. <link>Rondo</link>	.
 
 @17-1:17-2:17-3	17-0	.	.	<not>Piano</not> Sonata No. 17 in D Minor, (<i>Tempest</i>), Op. 31, No. 2 [1802]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._17_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata17-1.krn	17-1	Y	sonata17-1	1. <hlstart>Largo -- Allegro<hlend>	.
-kern/sonata17-2.krn	17-2	Y	sonata17-2	2. <hlstart>Adagio<hlend>	.
-kern/sonata17-3.krn	17-3	Y	sonata17-3	3. <hlstart>Allegretto<hlend>	.
+kern/sonata17-1.krn	17-1	Y	sonata17-1	1. <link>Largo -- Allegro</link>	.
+kern/sonata17-2.krn	17-2	Y	sonata17-2	2. <link>Adagio</link>	.
+kern/sonata17-3.krn	17-3	Y	sonata17-3	3. <link>Allegretto</link>	.
 
 @18-1:18-2:18-3:18-4	18-0	.	.	<not>Piano</not> Sonata No. 18 in E-flat Major, Op. 31, No. 3 [1802]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._18_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata18-1.krn	18-1	Y	sonata18-1	1. <hlstart>Allegro<hlend>	.
-kern/sonata18-2.krn	18-2	Y	sonata18-2	2. <hlstart>Scherzo<hlend> (Allegretto vivace)	.
-kern/sonata18-3.krn	18-3	Y	sonata18-3	3. <hlstart>Minuetto<hlend> (Moderato e grazioso)	.
-kern/sonata18-4.krn	18-4	Y	sonata18-4	4. <hlstart>Presto con fuoco<hlend>	.
+kern/sonata18-1.krn	18-1	Y	sonata18-1	1. <link>Allegro</link>	.
+kern/sonata18-2.krn	18-2	Y	sonata18-2	2. <link>Scherzo</link> (Allegretto vivace)	.
+kern/sonata18-3.krn	18-3	Y	sonata18-3	3. <link>Minuetto</link> (Moderato e grazioso)	.
+kern/sonata18-4.krn	18-4	Y	sonata18-4	4. <link>Presto con fuoco</link>	.
 
 @19-1:19-2	19-0	.	.	<not>Piano</not> Sonata No. 19 in G Minor, Op. 49, No. 1 [<i>c</i>1797]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._19_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata19-1.krn	19-1	Y	sonata19-1	1. <hlstart>Andante<hlend>	.
-kern/sonata19-2.krn	19-2	Y	sonata19-2	2. <hlstart>Rondo<hlend> (Allegro)	.
+kern/sonata19-1.krn	19-1	Y	sonata19-1	1. <link>Andante</link>	.
+kern/sonata19-2.krn	19-2	Y	sonata19-2	2. <link>Rondo</link> (Allegro)	.
 
 @20-1:20-2	20-0	.	.	<not>Piano</not> Sonata No. 20 in G Major, Op. 49, No. 2 [1795-6]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._20_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata20-1.krn	20-1	Y	sonata20-1	1. <hlstart>Allegro ma non troppo<hlend>	.
-kern/sonata20-2.krn	20-2	Y	sonata20-2	2. <hlstart>Tempo di minuetto<hlend>	.
+kern/sonata20-1.krn	20-1	Y	sonata20-1	1. <link>Allegro ma non troppo</link>	.
+kern/sonata20-2.krn	20-2	Y	sonata20-2	2. <link>Tempo di minuetto</link>	.
 
 @21-1:21-2:21-3:21-4	21-0	.	.	<not>Piano</not> Sonata No. 21 in C Major (<i>Waldstein</i>), Op. 53 [1803-1804]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._21_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata21-1.krn	21-1	Y	sonata21-1	1. <hlstart>Allegro con brio<hlend>	.
-kern/sonata21-2.krn	21-2	Y	sonata21-2	2. <hlstart>Introduzione<hlend> (Adagio molto)	.
-kern/sonata21-3.krn	21-3	Y	sonata21-3	3. <hlstart>Rondo<hlend> (Allegretto moderato)	.
-kern/sonata21-4.krn	21-4	Y	sonata21-4	4. <hlstart>Prestissimo<hlend>	.
+kern/sonata21-1.krn	21-1	Y	sonata21-1	1. <link>Allegro con brio</link>	.
+kern/sonata21-2.krn	21-2	Y	sonata21-2	2. <link>Introduzione</link> (Adagio molto)	.
+kern/sonata21-3.krn	21-3	Y	sonata21-3	3. <link>Rondo</link> (Allegretto moderato)	.
+kern/sonata21-4.krn	21-4	Y	sonata21-4	4. <link>Prestissimo</link>	.
 
 @22-1:22-2	22-0	.	.	<not>Piano</not> Sonata No. 22 in F Major, Op. 54 [1804]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._22_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata22-1.krn	22-1	Y	sonata22-1	1. <hlstart>In tempo di Menuetto<hlend>	.
-kern/sonata22-2.krn	22-2	Y	sonata22-2	2. <hlstart>Allegretto<hlend>	.
+kern/sonata22-1.krn	22-1	Y	sonata22-1	1. <link>In tempo di Menuetto</link>	.
+kern/sonata22-2.krn	22-2	Y	sonata22-2	2. <link>Allegretto</link>	.
 
 @23-1:23-2:23-3	23-0	.	.	<not>Piano</not> Sonata No. 23 in F Minor (<i>Apassionata</i>), Op. 57 [1804-5]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._23_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata23-1.krn	23-1	Y	sonata23-1	1. <hlstart>Allegro assai<hlend>	.
-kern/sonata23-2.krn	23-2	Y	sonata23-2	2. <hlstart>Andante con moto<hlend>	.
-kern/sonata23-3.krn	23-3	Y	sonata23-3	3. <hlstart>Allegro ma non troppo<hlend>	.
+kern/sonata23-1.krn	23-1	Y	sonata23-1	1. <link>Allegro assai</link>	.
+kern/sonata23-2.krn	23-2	Y	sonata23-2	2. <link>Andante con moto</link>	.
+kern/sonata23-3.krn	23-3	Y	sonata23-3	3. <link>Allegro ma non troppo</link>	.
 
 @24-1:24-2	24-0	.	.	<not>Piano</not> Sonata No. 24 in F-sharp Major (<i>F&uuml;r Therese</i>), Op. 78 [1809]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._24_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata24-1.krn	24-1	Y	sonata24-1	1. <hlstart>Adagio cantabile -- Allegro ma non troppo<hlend>	.
-kern/sonata24-2.krn	24-2	Y	sonata24-2	2. <hlstart>Allegro assai<hlend>	.
+kern/sonata24-1.krn	24-1	Y	sonata24-1	1. <link>Adagio cantabile -- Allegro ma non troppo</link>	.
+kern/sonata24-2.krn	24-2	Y	sonata24-2	2. <link>Allegro assai</link>	.
 
 @25-1:25-2:25-3	25-0	.	.	<not>Piano</not> Sonata No. 25 in G Major, Op. 79 [1809]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._25_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata25-1.krn	25-1	Y	sonata25-1	1. <hlstart>Presto alla tedesca<hlend>	.
-kern/sonata25-2.krn	25-2	Y	sonata25-2	2. <hlstart>Andante<hlend>	.
-kern/sonata25-3.krn	25-3	Y	sonata25-3	3. <hlstart>Vivace<hlend>	.
+kern/sonata25-1.krn	25-1	Y	sonata25-1	1. <link>Presto alla tedesca</link>	.
+kern/sonata25-2.krn	25-2	Y	sonata25-2	2. <link>Andante</link>	.
+kern/sonata25-3.krn	25-3	Y	sonata25-3	3. <link>Vivace</link>	.
 
 @26-1:26-2:26-3	26-0	.	.	<not>Piano</not> Sonata No. 26 in E-flat Major (<i>Les Adieux</i>), Op. 81a [1809-10]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._26_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata26-1.krn	26-1	Y	sonata26-1	1. <hlstart>Adagio -- Allegro<hlend>	.
-kern/sonata26-2.krn	26-2	Y	sonata26-2	2. <hlstart>L'absence<hlend> (Andante espressivo)	.
-kern/sonata26-3.krn	26-3	Y	sonata26-3	3. <hlstart>Le retour<hlend> (Vivacissimamente)	.
+kern/sonata26-1.krn	26-1	Y	sonata26-1	1. <link>Adagio -- Allegro</link>	.
+kern/sonata26-2.krn	26-2	Y	sonata26-2	2. <link>L'absence</link> (Andante espressivo)	.
+kern/sonata26-3.krn	26-3	Y	sonata26-3	3. <link>Le retour</link> (Vivacissimamente)	.
 
 @27-1:27-2	27-0	.	.	<not>Piano</not> Sonata No. 27 in E Minor, Op. 90 [1814]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._27_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata27-1.krn	27-1	Y	sonata27-1	1. <hlstart>Allegro<hlend>	.
-kern/sonata27-2.krn	27-2	Y	sonata27-2	2. <hlstart>Rondo<hlend> (Non troppo presto e molto cantabile)	.
+kern/sonata27-1.krn	27-1	Y	sonata27-1	1. <link>Allegro</link>	.
+kern/sonata27-2.krn	27-2	Y	sonata27-2	2. <link>Rondo</link> (Non troppo presto e molto cantabile)	.
 
 @28-1:28-2:28-3:28-4	28-0	.	.	<not>Piano</not> Sonata No. 28 in A Major, Op. 101 [1816]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._28_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata28-1.krn	28-1	Y	sonata28-1	1. <hlstart>Allegretto ma non troppo<hlend>	.
-kern/sonata28-2.krn	28-2	Y	sonata28-2	2. <hlstart>Vivace alla marcia<hlend>	.
-kern/sonata28-3.krn	28-3	Y	sonata28-3	3. <hlstart>Adagio ma non troppo con affetto<hlend>	.
-kern/sonata28-4.krn	28-4	Y	sonata28-4	4. <hlstart>Allegro ma non troppo<hlend>	.
+kern/sonata28-1.krn	28-1	Y	sonata28-1	1. <link>Allegretto ma non troppo</link>	.
+kern/sonata28-2.krn	28-2	Y	sonata28-2	2. <link>Vivace alla marcia</link>	.
+kern/sonata28-3.krn	28-3	Y	sonata28-3	3. <link>Adagio ma non troppo con affetto</link>	.
+kern/sonata28-4.krn	28-4	Y	sonata28-4	4. <link>Allegro ma non troppo</link>	.
 
 @29-1:29-2:29-3:29-4	29-0	.	.	<not>Piano</not> Sonata No. 29 in B-flat Major, (<i>Hammerklavier</i>), Op. 106 [1817-18]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._29_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata29-1.krn	29-1	Y	sonata29-1	1. <hlstart>Allegro<hlend>	.
-kern/sonata29-2.krn	29-2	Y	sonata29-2	2. <hlstart>Scherzo<hlend> (Assai vivace)	.
-kern/sonata29-3.krn	29-3	Y	sonata29-3	3. <hlstart>Adagio sostenuto<hlend>	.
-kern/sonata29-4.krn	29-4	Y	sonata29-4	4. <hlstart>Largo -- Fuga<hlend>	.
+kern/sonata29-1.krn	29-1	Y	sonata29-1	1. <link>Allegro</link>	.
+kern/sonata29-2.krn	29-2	Y	sonata29-2	2. <link>Scherzo</link> (Assai vivace)	.
+kern/sonata29-3.krn	29-3	Y	sonata29-3	3. <link>Adagio sostenuto</link>	.
+kern/sonata29-4.krn	29-4	Y	sonata29-4	4. <link>Largo -- Fuga</link>	.
 
 @30-1:30-2	30-0	.	.	<not>Piano</not> Sonata No. 30 in E Major, Op. 109 [1820]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._30_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata30-1.krn	30-1	Y	sonata30-1	1. <hlstart>Vivace ma non troppo<hlend>	.
-kern/sonata30-2.krn	30-2	Y	sonata30-2	2. <hlstart>Andante<hlend> (Variations)	.
+kern/sonata30-1.krn	30-1	Y	sonata30-1	1. <link>Vivace ma non troppo</link>	.
+kern/sonata30-2.krn	30-2	Y	sonata30-2	2. <link>Andante</link> (Variations)	.
 
 @31-1:31-2:31-3	31-0	.	.	<not>Piano</not> Sonata No. 31 in A-flat Major, Op. 110 [1821-2]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._31_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata31-1.krn	31-1	Y	sonata31-1	1. <hlstart>Moderato cantabile molto espressivo<hlend>	.
-kern/sonata31-2.krn	31-2	Y	sonata31-2	2. <hlstart>Allegro molto<hlend>	.
-kern/sonata31-3.krn	31-3	Y	sonata31-3	3. <hlstart>Adagio ma non troppo<hlend>	.
+kern/sonata31-1.krn	31-1	Y	sonata31-1	1. <link>Moderato cantabile molto espressivo</link>	.
+kern/sonata31-2.krn	31-2	Y	sonata31-2	2. <link>Allegro molto</link>	.
+kern/sonata31-3.krn	31-3	Y	sonata31-3	3. <link>Adagio ma non troppo</link>	.
 
 @32-1:32-2	32-0	.	.	<not>Piano</not> Sonata No. 32 in C Minor, Op. 111 [1821-2]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._32_(Beethoven)><small>Wikipedia</small></a>]
-kern/sonata32-1.krn	32-1	Y	sonata32-1	1. <hlstart>Maestoso -- Allegro<hlend>	.
-kern/sonata32-2.krn	32-2	Y	sonata32-2	2. <hlstart>Arietta<hlend> (Adagio molto semplice cantabile)	.
+kern/sonata32-1.krn	32-1	Y	sonata32-1	1. <link>Maestoso -- Allegro</link>	.
+kern/sonata32-2.krn	32-2	Y	sonata32-2	2. <link>Arietta</link> (Adagio molto semplice cantabile)	.
 
 *-	*-	*-	*-	*-	*-
