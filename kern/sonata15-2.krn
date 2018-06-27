@@ -1,4 +1,11 @@
-m
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770///-1827///
+!!!OTL: Piano Sonata no. 15 in D major
+!!!OTP: pastoral
+!!!OPS: 28
+!!!OMV: 2
+!!!OMD: Andante
+**kern	**kern	**dynam
 *staff2	*staff1	*staff1
 *Ipiano	*Ipiano	*Ipiano
 *>[A,A1,A,A2,B,B1,B,B2,C,C1,C,C2,D,D1,D,D2,E]	*>[A,A1,A,A2,B,B1,B,B2,C,C1,C,C2,D,D1,D,D2,E]	*>[A,A1,A,A2,B,B1,B,B2,C,C1,C,C2,D,D1,D,D2,E]
@@ -1180,6 +1187,6 @@ m
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!ENC: Craig Stuart Sapp
-!!!END: 2008/02/13/
+!!!END: 2008/02/13
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/26/
+!!!EEV: 2018/06/26
