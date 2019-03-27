@@ -18,8 +18,8 @@
 *MM54	*	*MM54	*MM54
 =1-	=1-	=1-	=1-
 !!LO:TX:a:i:t=si deve suonare tutto questo pezzo delicatissimamente e senza sordini
-!	!	!	!LO:DY:i:pos=b:t=sempre
-!	!	!	!LO:DY:pos=a:t=senza sordini
+!	!	!	!LO:TX:i:pos=b:t=sempre
+!	!	!	!LO:TX:pos=a:t=senza sordini
 1CC# 1C#	.	12G#L	pp
 .	.	12c#	.
 .	.	12eJ	.
