@@ -20,7 +20,6 @@ all:
 	@echo ''
 	@echo 'Run this makefile with one of the following labels:'
 	@echo '   "[0;32mmake update[0m"      : download any new changes from online repository.'
-	@echo '   "[0;32mmake reference[0m"   : download PDF scans of reference editions.'
 	@echo '   "[0;32mmake clean[0m"       : delete data directories created by this makefile.'
 	@echo ''
 	@echo 'Commands requiring the Humdrum Toolkit to be installed:'
@@ -78,56 +77,6 @@ kernscores: humdrum-extras-check
 	@echo "[0;32m"
 	@echo "*** Downloaded data from kernScores website into '[0;31mkernscores[0;32m' directory."
 	@echo "[0m"
-
-
-
-##############################
-##
-## make reference-edition -- Download scans of the source edition for the
-##    encodings from the kernScore website.
-##
-
-pdf:           reference-edition
-pdfs:          reference-edition
-webpdf:        reference-edition
-webpdfs:       reference-edition
-reference:     reference-edition
-reference-pdf: reference-edition
-reference-edition:
-	-mkdir reference-edition
-ifeq ($(shell which wget),)
-ifeq ($(shell which curl),)
-	# No wget or curl, so don't know how to download
-	@echo "[0;31m"
-	@echo "*** Error: don't know how to download from the internet."
-	@echo "*** Install wget or curl on your computer and try again."
-	@echo "[0m"
-else
-	# Don't have wget but have curl
-	for file in kern/*.krn; do \
-	   TBASE=`basename $$file .krn`; \
-	   echo "Downloading reference-edition/$$TBASE.pdf"; \
-	   curl \
-	      "http://kern.humdrum.org/data?l=beethoven/sonatas&file=$$TBASE.krn&format=pdf" \
-	      -o reference-edition/$$TBASE.pdf >& /dev/null; \
-	done
-	@echo "[0;32m"
-	@echo "*** Download PDF files in '[0;31mreference-edition[0;32m' directory."
-	@echo "[0m"
-endif
-else
-	# Have wget
-	for file in kern/*.krn; do \
-	   TBASE=`basename $$file .krn`; \
-	   echo "Downloading reference-edition/$$TBASE.pdf"; \
-	   wget -w 3 \
-	      "http://kern.humdrum.org/data?l=beethoven/sonatas&file=$$TBASE.krn&format=pdf" \
-	      -O reference-edition/$$TBASE.pdf >& /dev/null; \
-	done
-	@echo "[0;32m"
-	@echo "*** Download PDF files in '[0;31mreference-edition[0;32m' directory."
-	@echo "[0m"
-endif
 
 
 
