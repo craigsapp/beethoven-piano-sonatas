@@ -11,7 +11,7 @@
 *Ipiano	*Ipiano	*Ipiano
 *staff2	*staff1	*staff1
 *>[A,A,B,B,C,D,D1,D,D2,E,E1,E,E2,F,F1,F,F2,G,G1,G,G2,H]	*>[A,A,B,B,C,D,D1,D,D2,E,E1,E,E2,F,F1,F,F2,G,G1,G,G2,H]	*>[A,A,B,B,C,D,D1,D,D2,E,E1,E,E2,F,F1,F,F2,G,G1,G,G2,H]
-*>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]	*>Aorep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]	*>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]
+*>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]	*>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]	*>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]
 *>A	*>A	*>A
 *clefF4	*clefF4	*clefF4
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
