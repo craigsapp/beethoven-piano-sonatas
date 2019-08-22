@@ -1,4 +1,3 @@
-!!ignore
 !!!COM: Beethoven, Ludwig van
 !!!CDT: 1770///-1827///
 !!!OTL: Piano Sonata no. 3 in C major
@@ -2085,7 +2084,6 @@
 .	.	8g' 8cc' 8ee'	.
 .	.	4a' 4cc' 4ff'	.
 .	.	8g' 8cc' 8ee'	.
-!!Xignore
 =262	=262	=262	=262
 2.ryy	2.ccc_TTT	4f' 4cc' 4dd'	.
 .	.	8r	.
