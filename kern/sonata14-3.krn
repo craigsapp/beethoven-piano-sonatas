@@ -12,6 +12,7 @@
 *>[I,A,A1,A,B]	*>[I,A,A1,A,B]	*>[I,A,A1,A,B]
 *>norep[I,A,B]	*>norep[I,A,B]	*>norep[I,A,B]
 *>I	*>I	*>I
+*part1	*part1	*part1
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*
 *clefF4	*clefG2	*
@@ -20,8 +21,9 @@
 *M4/4	*M4/4	*
 *MM154	*MM154	*
 =1-	=1-	=1-
-8CC#`<L<	16r<	.
-.	16GG#<LL	p
+!	!LO:TX:b:t=con sordino	!
+8CC#`<L<	16r<	p
+.	16GG#<LL	.
 8GG#`<	16C#<	.
 .	16E<JJ	.
 8CC#`<	16G#<LL	.
@@ -50,11 +52,12 @@
 .	16g#	.
 8GG#`	16cc#	.
 .	16eeJJ	.
-!	!	!LO:TX:pos=a:t=senza\nsord.
+!	!	!LO:DY:rj
+!	!LO:TX:b:t=senza\nsord.	!
 8CC#` 8C#`	8g#` 8cc#` 8ee` 8gg#`L	sf
 8GG#`J	8g#` 8cc#` 8ee` 8gg#`J	.
 =3	=3	=3
-!	!LO:TX:t=con sord.	!
+!	!LO:TX:b:t=con sord.	!
 8BBB#`<L<	16r<	.
 .	16GG#<LL	.
 8GG#`<	16BB#<	.
@@ -84,11 +87,12 @@
 .	16g#	.
 8GG#`	16b#	.
 .	16dd#JJ	.
-!	!	!LO:TX:pos=a:t=con sord.
+!	!	!LO:DY:rj
+!	!LO:TX:b:t=senza\nsord.	!
 8BBB#` 8BB#`	8g#` 8b#` 8dd#` 8gg#`L	sf
 8GG#`J	8g#` 8b#` 8dd#` 8gg#`J	.
 =5	=5	=5
-!	!LO:TX:t=con sord.	!
+!	!LO:TX:b:t=con sord.	!
 8BBBn`<L<	16r<	.
 .	16C#<LL	.
 8GG#`<	16E#<	.
@@ -118,10 +122,12 @@
 .	16cc#	.
 8GG#`	16ee#	.
 .	16gg#JJ	.
-!	!	!LO:TX:pos=a:t=senza\nsord.
+!	!	!LO:DY:rj
+!	!LO:TX:b:t=senza\nsord.	!
 8BBB` 8BB`	8cc#` 8ee#` 8gg#` 8ccc#`L	sf
 8GG#`J	8cc#` 8ee#` 8gg#` 8ccc#`J	.
 =7	=7	=7
+!	!LO:TX:b:t=con sord.	!
 8AAA`<L<	16r<	.
 .	(>16C#<LL	.
 8AA`<	16F#<	.
@@ -134,14 +140,16 @@
 .	(16cc#	.
 8AA`	16ff#	.
 .	16aaJJ)	.
-!	!	!LO:TX:pos=a:t=senza\nsord.
+!	!LO:TX:b:t=senza\nsord.	!
+!	!	!LO:DY:rj
 8AAA`	8cc#` 8ff#` 8ccc#`L	sf
 8AA`J	8cc#` 8ff#` 8ccc#`J	.
 =8	=8	=8
+!	!LO:TX:b:t=con sord.	!
 8AAA`<L<	16r	.
-.	(16C#LL	.
-8AA`<	16E	.
-.	16F##JJ)	.
+.	(16C#<LL	.
+8AA`<	16E<	.
+.	16F##<JJ)	.
 8AAA`<	16c#'LL	.
 .	(16c#	.
 8AA`<J	16e	.
@@ -150,11 +158,12 @@
 .	(16cc#	.
 8AA`	16ee	.
 .	16ff##JJ)	.
-!	!	!LO:TX:pos=a:t=senza\nsord.
+!	!	!LO:DY:rj
+!	!LO:TX:b:t=senza\nsord.	!
 8AAA`	8cc#` 8ff##` 8ccc#`L	sf
 8AA`J	8cc#` 8ff##` 8ccc#`J	.
 =9	=9	=9
-!	!	!LO:TX:pos=a:t=con sord.
+!	!	!LO:DY:t=%s con sord.
 8GGG#` 8GG#`	8b#` 8gg#` 8bb#`	f
 *clefG2	*	*
 *^	*	*
@@ -3182,4 +3191,4 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/09/06
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/30
+!!!EEV: 2020/08/15
