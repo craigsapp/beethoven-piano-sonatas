@@ -18,6 +18,7 @@
 *f:	*f:	*f:
 *M2/2	*M2/2	*M2/2
 *MM240	*MM240	*MM240
+!	!	!LO:DY:rj
 4r	4c'	p
 =1	=1	=1
 1r	4f'	.
@@ -26,6 +27,7 @@
 .	4ff'	.
 =2	=2	=2
 4r	(4.aa-	.
+!	!	!LO:DY:b=2:rj
 4F 4A- 4c	.	p
 .	24ggLL	.
 .	24ff	.
@@ -80,6 +82,7 @@
 4r	(4ff)	p
 4c 4g	4eenX)	.
 4r;	4r;	.
+!	!	!LO:DY:b=2:rj
 4GG'	4r	p
 =9	=9	=9
 4C'\	1r	.
@@ -146,6 +149,7 @@
 .	4a-\	]
 =18	=18	=18
 4e-	4g)	.
+!	!	!LO:DY:rj
 4r	(4e- 4ee-	f
 4r	4d-X 4dd-X	.
 4C (4E-	[4c) [4cc	.
@@ -161,7 +165,7 @@
 8e-J	.	.
 8E-L	4r	.
 8e-	.	.
-8E-	(4ff-	p
+8E-	(>4ff-	p
 8e-J	.	.
 !!LO:LB:g=z
 =21	=21	=21
@@ -502,7 +506,7 @@
 (2e-zy	4F	(4.g-z	.
 .	4F	.	.
 .	.	8f	.
-4d-)	8FL	4b-')	.
+4d-)	8FL	4b-'/)	.
 .	8f	.	.
 4ryy	8F	(4gg-X	.
 .	8fJ	.	.
@@ -514,7 +518,7 @@
 8fJ	.	.
 8e-L	4cc	.
 8f	.	.
-8e-	4a)	.
+8e-	4a\)	.
 8fJ	.	.
 =61	=61	=61
 8d-L	8r	<
@@ -635,6 +639,7 @@
 .	.	8B-	.
 2EE-)	.	8d-	.
 .	.	8B-J	.
+!	!LO:DY:rj	!	!
 .	2gz	8d-L	.
 .	.	8B-	.
 !LO:DY:rj	!	!	!
@@ -646,6 +651,7 @@
 .	.	8A-	.
 2C	.	8e-	.
 .	.	8A-J	.
+!	!LO:DY:rj	!	!
 .	2a-z	8e-L	.
 .	.	8A-	.
 [4CC	.	8e-	.
@@ -655,6 +661,7 @@
 .	.	8A-	.
 2DD-	.	8d-	.
 .	.	8A-J	.
+!	!LO:DY:rj	!	!
 .	2fz	8d-L	.
 .	.	8A-	.
 !LO:DY:rj	!	!	!
@@ -665,6 +672,7 @@
 .	.	8G	.
 2BB-	.	8d-	.
 .	.	8GJ	.
+!	!LO:DY:rj	!	!
 .	2gz	8d-L	.
 .	.	8G	.
 [4BBB-	.	8d-	.
@@ -674,6 +682,7 @@
 .	.	8G	.
 2CC	.	8c	.
 .	.	8GJ	.
+!	!LO:DY:rj	!	!
 .	2enz	8cL	.
 .	.	8G	.
 !LO:DY:rj	!	!	!
@@ -684,6 +693,7 @@
 .	.	8F	.
 2AA-	.	8c	.
 .	.	8FJ	.
+!	!LO:DY:rj	!	!
 .	2fz	8cL	.
 .	.	8F	.
 4AAA-	.	8c	.
@@ -694,6 +704,7 @@
 .	.	8F	.
 (2BBB-	.	8d-	.
 .	.	8FJ	.
+!	!LO:DY:rj	!	!
 .	2fz	8d-L	.
 .	.	8F	.
 4BB-)	.	8d-	.
@@ -973,9 +984,9 @@
 *	*^	*
 1e- 1g-	[1gg-	4rg	.
 .	.	8rg	.
-.	.	24dd-XLL	.
+.	.	(24dd-XLL	.
 .	.	24cc	.
-.	.	24bJJ	.
+.	.	24bJJ)	.
 .	.	4cc'>	.
 .	.	4cc'>	.
 =113	=113	=113	=113
@@ -987,9 +998,9 @@
 .	4ff'<	.	.
 =114	=114	=114	=114
 1d- 1f	1ff	4.cc]	.
-.	.	24ccLL	.
+.	.	(24ccLL	.
 .	.	24b-	.
-.	.	24aJJ	.
+.	.	24aJJ)	.
 .	.	4b-'>	.
 .	.	4b-'>	.
 !!LO:LB:g=z
@@ -1144,8 +1155,8 @@
 8C	8ccc	.
 8GJ	8bb-J)	.
 =132	=132	=132
+!	!	!LO:DY:t=%s sempre legato
 4AA-	8r	ff
-!	!LO:TX:i:b:t=sempre legato	!
 .	(8cccL	.
 !LO:DY:rj	!	!
 2Cz	8fff	.
@@ -1176,6 +1187,7 @@
 .	8cJ	.
 !!LO:LB:g=z
 =135	=135	=135
+!	!	!LO:DY:rj
 (4B-	8BL	pp
 .	8c	.
 4G	8d-	.
@@ -1186,6 +1198,7 @@
 .	8cJ)	.
 =136	=136	=136
 4AA-	8r	.
+!	!	!LO:DY:rj
 .	(8cccL	ff
 !LO:DY:rj	!	!
 2Cz	8fff	.
@@ -1308,5 +1321,6 @@
 !!!LOR: Durand 1915, plates 9327/9328, Paul Dukas, ed.
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/04/05
-!!!EEV: 2020/08/17
 !!!EED: Craig Stuart Sapp
+!!!EEV: 2020/08/21
+
