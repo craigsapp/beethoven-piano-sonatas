@@ -6,7 +6,7 @@
 !!!OMV: 1
 !!!OMD: Grave
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
+*staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]
 *>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]
@@ -17,6 +17,7 @@
 *M4/4	*M4/4	*M4/4
 *MM40	*MM40	*MM40
 =1-	=1-	=1-
+!	!	!LO:DY:rj
 [4CC [4EE- [4GG [4C	[>4E-< [>4G< [4c	fp
 16.CC] 16.EE-] 16.GG] 16.CLL]	16.E-<] 16.G<] 16.cLL]	.
 32E-k	32G< 32ck	.
@@ -25,7 +26,7 @@
 (<4F#	(>4An< 4c 4e-	.
 8G)	8Bn<) 8d	.
 16.r	8r	.
-32AA-X	.	.
+32AA-X/	.	.
 =2	=2	=2
 [4A-X	[4Bn [4d [4f	fp
 16.A-LL]	16.B] 16.d] 16.fLL]	.
@@ -49,13 +50,14 @@
 16.d	16.f# 16.a 16.dd	.
 32cJJk	32f# 32a 32ee-JJk	.
 =4	=4	=4
-(4c	4f# 4an (4ee-	fp
-8Bn 8dL	8d 8g 8ddL	p
-8B- 8c 8enJ	8g 8cc 8eenJ	<
-8A-X' 8c' 8fn')	8a-' 8cc' 8ff')	.
+(4c	4f#/ 4an/ (4ee-/	fz
+8Bn 8dL	8g 8ddL>	p
+8B- 8c 8enJ)	8g 8cc 8eenJ)	<
+8A-X' 8c' 8fn'	8a-' 8cc' 8ffn'	.
 8r	[8aa-	fz
 *	*Xtuplet	*
-4BBB-z 4BB-z	(32aa-LLL]	.
+!	!	!LO:DY:b=2:rj
+4BBB- 4BB-	(32aa-LLL]	fz
 .	96ggL	.
 .	96aa-	.
 .	96bb-	.
@@ -70,7 +72,7 @@
 *	*rscale:1/2	*
 .	96a-LLLL	.
 .	96g	.
-.	96fn	.
+.	96fni	.
 .	96e-	.
 .	96d	.
 .	96f	.
@@ -79,10 +81,10 @@
 .	96dJJJJ	.
 *	*rscale:1	*
 =5	=5	=5
-16EE- 16E-LL	8e-')	p
+16EE- 16E-LL<	8e-')	p
 16E- 16G 16B-	.	.
 16E- 16G 16B-	[8e-\ [8ee-\	.
-16E-` 16G 16B-JJ	.	.
+16E- 16G 16B-JJ	.	.
 16E- 16G 16B-LL	16.e-] 16.ee-LL]	<
 16E- 16G 16B-	.	.
 .	32e- 32ee-k	.
@@ -116,7 +118,7 @@
 16BB- 16C# 16E 16G	16g 16ggJk)	]
 16BB- 16C# 16E 16GJJ	32r	.
 .	32G 32c# 32en 32g	ff
-16AAAn 16AAnLL	16.An 16.c# 16.e 16.anLL	.
+16AAAn 16AAnLL>	16.An 16.c# 16.e 16.anLL	.
 16AAA 16AA	.	.
 .	32A 32c# 32e 32ak	.
 16GGG 16GG	16.B-X 16.c# 16.e 16.b-X	.
@@ -209,7 +211,7 @@
 .	112een	.
 .	112ee-JJJJ)	.
 8GG 8D 8F	(128ddLLLL	.
-.	128dd-	.
+.	128cc#	.
 .	128cc	.
 .	128bn	.
 .	128b-	.
@@ -221,7 +223,7 @@
 .	128en	.
 .	128e-	.
 .	128d	.
-.	128d-	.
+.	128c#	.
 .	128c	.
 .	128BnJJJJ)	.
 8r;	16.a-;LL	sf
@@ -282,7 +284,7 @@
 8E-	.	.
 8EE-	.	.
 8E-J	.	.
-8FFL	2f' 2a-' 2dd'	.
+8FFL	2f'\ 2a-'\ 2dd'\	.
 8F	.	.
 8FF	.	.
 8FJ	.	.
@@ -302,7 +304,7 @@
 8F#	.	.
 8FF#	.	.
 8F#J	.	.
-8GGL	2d 2f 2bn)	.
+8GGL	2d 2fn 2bn)	.
 8G	.	.
 8GG	.	.
 8GJ	.	.
@@ -373,9 +375,9 @@
 *	*v	*v	*
 =26	=26	=26
 8FF#L	1e-] 1an 1cc]	.
-8F#	.	.
+8F#X	.	.
 8FF#	.	.
-8F#J	.	.
+8F#XJ	.	.
 8FF#L	.	.
 8F#	.	.
 8FF#	.	.
@@ -383,11 +385,13 @@
 =27	=27	=27
 4GG 4G	4d 4g 4bn	p
 4Bn 4d	4r	.
+!	!LO:DY:rj	!
 4B 4d	[2gz> [2gg	.
 4B 4d	.	.
 =28	=28	=28
 4G	4g] 4gg]	.
 4c 4e-	4r	.
+!	!LO:DY:rj	!
 4c 4e-	[2gz> [2gg	.
 4c 4e-	.	.
 =29	=29	=29
@@ -1192,7 +1196,7 @@
 *M4/4	*M4/4	*
 *MM40	*MM40	*
 [4GGG [4BBB- [4DD [4GG	[4G [4B- [4d [4g	fp
-16.GGG] 16.BBB-] 16.DD] 16.GGLL]	16.G] 16.B-] 16.d] 16.gLL]	.
+16.GGG] 16.BBB-] 16.DD] 16.GGLL<]	16.G] 16.B-] 16.d] 16.gLL]	.
 32B-k	32d 32gk	.
 16.An	16.d 16.f# 16.an	.
 32GJJk	32d 32b-JJk	.
@@ -1227,7 +1231,7 @@
 4BB	.	.
 .	4An 4c 4d# 4f#	.
 4BBBn	.	.
-.	4F#;) 4A; 4d#;	p
+.	4F#;) 4A; 4d#;	pp
 8BBB;	.	.
 =139||	=139||	=139||
 !!!OMD: Allegro molto e con brio
@@ -2525,7 +2529,8 @@
 32d- 32en 32gLLK	32b-X 32een 32gg 32bb-XLLK	<
 16.c 16.e 16.g	16.cc 16.ee 16.gg 16.ccc	.
 32B-X 32e 32gJJk	32dd- 32ee 32gg 32ddd-JJk	.
-([4A- 4B- 4e 4g	4dd- 4ee 4gg 4ddd-	sf >
+(>[4A- 4B- 4e 4g	4dd- 4ee 4gg 4ddd-	sf >
+*Xtremolo	*	*
 8A-] 8c 8f 8a-L	8cc (8cccL	.
 8G 8c 8e-J	8b- 8bb-J	]]
 *clefF4	*	*
@@ -2542,6 +2547,7 @@
 !!!OMD: Allegro molto e con brio
 *M2/2	*M2/2	*M2/2
 *MM320	*MM320	*MM320
+*tremolo	*	*
 8CCL	2.c	p
 8C	.	.
 8CC	.	.
@@ -2585,7 +2591,7 @@
 8BBB-XL	2cc' 2ee-' 2ccc'	.
 8BB-X	.	.
 8BBB-	.	.
-8BB-J	.	.
+8BB-XJ	.	.
 =306	=306	=306
 8AAA-L	2cc' 2ee-' 2ccc'	.
 8AA-	.	.
@@ -2623,6 +2629,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/02/25
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2019/03/26
+!!!EEV: 2021/01/19
+!!!RDF**kern: i = editorial accidental
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
