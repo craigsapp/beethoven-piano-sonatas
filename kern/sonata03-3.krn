@@ -903,10 +903,13 @@
 8r;	8r;	.
 ==	==	==
 *-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental
+!!!LOR: Durand 1915, plates 9327/9328, Paul Dukas, ed.
+!!!URL-vhv: https://verovio.humdrum.org/?file=beethoven/sonatas/sonata03-3.krn
+!!!URL-pdf: https://github.com/craigsapp/beethoven-piano-sonatas/blob/master/reference-edition/sonata03-3.pdf
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/01/25
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2019/08/19
-!!!RDF**kern: > = above
-!!!RDF**kern: < = below
-!!!RDF**kern: i = editorial accidental
