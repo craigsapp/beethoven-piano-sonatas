@@ -7,6 +7,7 @@
 !!!OMD: Andante
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
 *>[TA,TA,TB,TB,1A,1A1,1A,1A2,1B,1B1,1B2,Var2,Var3,4I,4A,4A1,4A,4A2,4B,4B1,4B,4B2,Var5,Var6,Theme]	*>[TA,TA,TB,TB,1A,1A1,1A,1A2,1B,1B1,1B2,Var2,Var3,4I,4A,4A1,4A,4A2,4B,4B1,4B,4B2,Var5,Var6,Theme]	*>[TA,TA,TB,TB,1A,1A1,1A,1A2,1B,1B1,1B2,Var2,Var3,4I,4A,4A1,4A,4A2,4B,4B1,4B,4B2,Var5,Var6,Theme]
 *>norep[TA,TB,1A,1A2,1B,1B2,Var2,Var3,4I,4A,4A2,4B,4B2,Var5,Var6,Theme]	*>norep[TA,TB,1A,1A2,1B,1B2,Var2,Var3,4I,4A,4A2,4B,4B2,Var5,Var6,Theme]	*>norep[TA,TB,1A,1A2,1B,1B2,Var2,Var3,4I,4A,4A2,4B,4B2,Var5,Var6,Theme]
 *>TA	*>TA	*>TA

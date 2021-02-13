@@ -6,8 +6,8 @@
 !!!OMV: 1
 !!!OMD: Presto
 **kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*staff2	*staff1	*staff1
 *>[A,A,B]	*>[A,A,B]	*>[A,A,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
@@ -17,7 +17,7 @@
 *M4/4	*M4/4	*M4/4
 *MM240	*MM240	*MM240
 !LO:S:b	!	!
-(4DD\	4Dj (4d	p
+(4DD\	4D< (4d	p
 =1	=1	=1
 4CC#')	4c#')	.
 4BBB'	4B'	.
@@ -816,7 +816,7 @@ AAA8q	.	.	.
 2BB	2B	.
 =111	=111	=111
 2En	2en	.
-2FF# 2C#	2F#j 2A#j	.
+2FF# 2C#	2F#< 2A#<	.
 =112	=112	=112
 *^	*	*
 *	*^	*	*
@@ -1403,7 +1403,7 @@ AAA8q	.	.	.
 2.CC#; 2.AA; 2.C#;	2.A; 2.e; 2.g;	.
 =||	=||	=||
 *k[f#c#]	*k[f#c#]	*k[f#c#]
-4DD\	4Dj (4d	p
+4DD\	4D< (4d	p
 =184	=184	=184
 4CC#'	4c#')	.
 4BBB'	4B'	.
@@ -1862,7 +1862,7 @@ AAA8q	.	.	.
 4C#'	4AAA'	4r	.
 *v	*v	*	*
 =240	=240	=240
-4r	4Dj' 4d'	.
+4r	4D<' 4d'	.
 4DD'	4r	.
 .	(gg8q	.
 4r	4ffn	p
@@ -2415,7 +2415,7 @@ AAA8q	.	.	.
 8DJ	.	.	.
 8C#L	.	4d)	.
 8D	.	.	.
-8C#	4ryy	4F#j (4d	.
+8C#	4ryy	4F#< (4d	.
 8DJ	.	.	.
 *	*v	*v	*
 =332	=332	=332
@@ -2530,6 +2530,7 @@ AAA8q	.	.	.
 4r;	4r;	.
 ==	==	==
 *-	*-	*-
+!!!RDF**kern: > = below
+!!!RDF**kern: > = above
 !!!ENC: Craig Stuart Sapp
-!!!END: 2008/02/04/
-!!!RDF**kern: j = place on staff below
+!!!END: 2008/02/04

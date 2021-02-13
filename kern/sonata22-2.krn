@@ -7,11 +7,11 @@
 !!!OMV: 2
 !!!AGN: Sonata
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
 *>[A,A1,A,A2,B,B1,B,B2,C]	*>[A,A1,A,A2,B,B1,B,B2,C]	*>[A,A1,A,A2,B,B1,B,B2,C]
 *>norep[A,A2,B,B2,C]	*>norep[A,A2,B,B2,C]	*>norep[A,A2,B,B2,C]
 *>A	*>A	*>A
-*Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*clefG2
 *k[b-]	*k[b-]	*k[b-]
 *F:	*F:	*F:

@@ -7,7 +7,7 @@
 !!!OMD: Allegro molto
 !!!ONB: Scherzo
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
+*staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *>[A,B,B,C,C,D,D1,D,D2,E,A,B]	*>[A,B,B,C,C,D,D1,D,D2,E,A,B]	*>[A,B,B,C,C,D,D1,D,D2,E,A,B]
 *>norep[A,B,C,D,D2,E,A,B]	*>norep[A,B,C,D,D2,E,A,B]	*>norep[A,B,C,D,D2,E,A,B]

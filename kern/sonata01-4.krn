@@ -7,6 +7,7 @@
 !!!OMV: 4
 !!!AGN: Rondo
 **kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *>[A,B,B1,B,B2,C]	*>[A,B,B1,B,B2,C]	*>[A,B,B1,B,B2,C]
 *>norep[A,B,B2,C]	*>norep[A,B,B2,C]	*>norep[A,B,B2,C]

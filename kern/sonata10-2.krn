@@ -7,6 +7,7 @@
 !!!OMD: Andante
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
 *>[A,B,B,C,D,D1,D,D2,E,F,F1,F,F2,G]	*>[A,B,B,C,D,D1,D,D2,E,F,F1,F,F2,G]	*>[A,B,B,C,D,D1,D,D2,E,F,F1,F,F2,G]
 *>norep[A,B,C,D,D2,E,F,F2,G]	*>norep[A,B,C,D,D2,E,F,F2,G]	*>norep[A,B,C,D,D2,E,F,F2,G]
 *>A	*>A	*>A

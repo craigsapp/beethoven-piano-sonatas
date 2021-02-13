@@ -8,8 +8,8 @@
 !!!ONM: 2
 !!!OMV: 4
 **kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*staff2	*staff1	*staff1
 *>[A,B,B1,B,B2,C]	*>[A,B,B1,B,B2,C]	*>[A,B,B1,B,B2,C]
 *>norep[A,B,B2,C]	*>norep[A,B,B2,C]	*>norep[A,B,B2,C]
 *>A	*>A	*>A

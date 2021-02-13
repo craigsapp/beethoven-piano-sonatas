@@ -8,8 +8,8 @@
 !!!OMV: 2
 !!!OMD: Andante con moto
 **kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*staff2	*staff1	*staff1
 *>[A,A,B,B,C,D,D1,D,D2,E,E1,E,E2,F,F1,F,F2,G,G1,G,G2,H]	*>[A,A,B,B,C,D,D1,D,D2,E,E1,E,E2,F,F1,F,F2,G,G1,G,G2,H]	*>[A,A,B,B,C,D,D1,D,D2,E,E1,E,E2,F,F1,F,F2,G,G1,G,G2,H]
 *>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]	*>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]	*>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]
 *>A	*>A	*>A

@@ -8,11 +8,11 @@
 !!!ONM: 3
 !!!OMV: 3
 **kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *>[A,A,B,B1,B,B2,C,C1,C,C2,D,A,B,B2,E]	*>[A,A,B,B1,B,B2,C,C1,C,C2,D,A,B,B2,E]	*>[A,A,B,B1,B,B2,C,C1,C,C2,D,A,B,B2,E]
 *>norep[A,B,B2,C,C2,D,A,B,B2,E]	*>norep[A,B,B2,C,C2,D,A,B,B2,E]	*>norep[A,B,B2,C,C2,D,A,B,B2,E]
 *>A	*>A	*>A
-*staff2	*staff1	*staff1
 *clefF4	*clefG2	*clefG2
 *k[]	*k[]	*k[]
 *C:	*C:	*C:

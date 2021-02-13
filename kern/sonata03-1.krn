@@ -9,7 +9,7 @@
 !!!OMV: 1
 !!!AGN: Sonata
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
+*staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]
 *>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]

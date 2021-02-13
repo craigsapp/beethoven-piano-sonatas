@@ -9,9 +9,8 @@
 !!!OMV: 3
 !!!OMD: Presto agitato
 **kern	**kern	**dynam
-*part1	*part1	*part1
 *staff2	*staff1	*staff1/2
-*Ipiano	*Ipiano	*
+*Ipiano	*Ipiano	*Ipiano
 *>[I,A,A1,A,B]	*>[I,A,A1,A,B]	*>[I,A,A1,A,B]
 *>norep[I,A,B]	*>norep[I,A,B]	*>norep[I,A,B]
 *>I	*>I	*>I

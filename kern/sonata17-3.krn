@@ -9,6 +9,7 @@
 !!!AGN: Sonata form
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
 *>[I,A,A,B]	*>[I,A,A,B]	*>[I,A,A,B]
 *>norep[I,A,B]	*>norep[I,A,B]	*>norep[I,A,B]
 *>I	*>I	*>I
