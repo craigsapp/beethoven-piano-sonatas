@@ -18,7 +18,6 @@
 *f:	*f:	*f:
 *M2/4	*M2/4	*M2/4
 *MM144	*MM144	*MM144
-!!ignore
 =1-	=1-	=1-
 *ped	*	*
 4.BB- 4.G	4.en 4.dd-	ff
@@ -1826,7 +1825,6 @@
 .	8ggg	.
 .	8bbb-J	.
 !!LO:LB:g=original
-!!Xignore
 =196	=196	=196
 2r	8gggL	.
 .	8eeen	.
