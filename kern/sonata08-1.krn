@@ -4,7 +4,7 @@
 !!!OTP: path&eacute;tique
 !!!OPS: 13
 !!!OMV: 1
-!!!OMD: Grave
+!!!OMD: Grave &mdash; Allegro molto e con brio
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
@@ -17,6 +17,7 @@
 *M4/4	*M4/4	*M4/4
 *MM40	*MM40	*MM40
 =1-	=1-	=1-
+!!!OMD: Grave
 !	!	!LO:DY:rj
 [4CC [4EE- [4GG [4C	[>4E-< [>4G< [4c	fp
 16.CC] 16.EE-] 16.GG] 16.CLL]	16.E-<] 16.G<] 16.cLL]	.
