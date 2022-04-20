@@ -19,7 +19,7 @@
 =1	=1	=1
 *^	*	*
 (4c	2F	(4aSsS	p
-.	.	(ccq8	.
+.	.	(<ccq8	.
 8dL	.	8b-L)	.
 8c	.	8a	.
 8B-	4F	8g	.
@@ -57,15 +57,15 @@
 =5	=5	=5
 *^	*	*
 (4c	2F	(4aSsS	.
-.	.	(ccq8	.
+.	.	(<ccq8	.
 8dL	.	8b-L)	.
 8c	.	8f 8a	.
 8B-	4F	8e 8g	.
 8AJ)	.	8fJ)	.
 *v	*v	*	*
 =6	=6	=6
-4B- 4d	4f (4dd	.
-4c 4d	4g 4ee	.
+4B- 4d	4f (>4dd	.
+4c 4d	4g/ 4ee/	.
 *	*^	*
 4A 4f	16ggLL	4cc	.
 .	16ff	.	.
@@ -154,7 +154,7 @@
 16cc	.	.	.
 16ff	.	.	.
 16eeJJ	.	.	.
-.	.	(cccq8	.
+.	.	(<cccq8	.
 8ddL	.	8bb-L)	.
 8cc	.	8ff 8aaJ	.
 8b-	4f	8ee 8ggL	.
@@ -174,7 +174,7 @@
 .	16dddJJ	.
 *^	*	*
 (16B-LL	4B-	16ccc#LL	.
-.	.	(eeeq8	.
+.	.	(<eeeq8	.
 16d	.	16ddd)	.
 16g	.	16ccc	.
 16b-JJ)	.	16bb-JJ	.
@@ -191,7 +191,7 @@
 4r	(>4aaSss	.
 =17	=17	=17
 16r>g	4ddd/)	.
-16d>LL (16f>	.	.
+16d>LL (>16f>	.	.
 16e> 16g>	.	.
 16f>JJ 16a>)	.	.
 !	!LO:TX:b:i:t=m.d.	!
@@ -206,20 +206,20 @@
 !!LO:LB:g=z
 =18	=18	=18
 16r>e	(>(>4dd/ 4ddd/	.
-(16e> 16g>LL	.	.
+(>16e> 16g>LL	.	.
 16f> 16a>	.	.
 16g> 16b->JJ)	.	.
 16r>e	8cc#/ 8ccc#/))	.
-16g> (16b->LL	.	.
+16g> (>16b->LL	.	.
 16f#> 16a>	8raa	.
 16g> 16b->JJ)	.	.
 16r>g	8.ccc#SsSL	.
-(16g> 16b->LL	.	.
+(>16g> 16b->LL	.	.
 16f> 16a>	.	.
 16e> 16g>JJ)	16dddJk	.
 =19	=19	=19
 16r>g	4eee/	.
-16c#> (16e>LL	.	.
+16c#> (>16e>LL	.	.
 16d> 16f>	.	.
 16e> 16g>JJ)	.	.
 !	!LO:TX:b:i:t=m.d.	!
@@ -228,26 +228,26 @@
 16d#> 16f#>	.	.
 16e> 16g>JJ)	.	.
 16r>g	8.ggL	.
-16e> (16g>LL	.	.
+16e> (>16g>LL	.	.
 16d> 16fn>	.	.
 16c#X> 16e>JJ)	16ggJk	.
 =20	=20	=20
 16r>g	(>4gg/	.
-(16d> 16f>LL	.	.
+(>16d> 16f>LL	.	.
 16e> 16g>	.	.
 16f> 16a>JJ)	.	.
 16r>g	8ff/)	.
-(16f> 16a>LL	.	.
+(>16f> 16a>LL	.	.
 16e> 16g>	8raa	.
 16d> 16f>JJ)	.	.
 16r>g	(>4ffSSs/	.
-(16d> 16f>LL	.	.
+(>16d> 16f>LL	.	.
 16c#> 16e>	.	.
 16d> 16f>JJ)	.	.
 !!LO:LB:g=z
 =21	=21	=21
 16r>g	4ddd/)	.
-16B> (16d>LL	.	.
+16B> (>16d>LL	.	.
 16cnX> 16e>	.	.
 16d> 16f>JJ)	.	.
 !	!LO:TX:i:b:t=m.d.	!
@@ -458,7 +458,7 @@
 !!LO:LB:g=z
 =32	=32	=32	=32
 4c	2F	4aSsS	p
-.	.	(ccq8	.
+.	.	(<ccq8	.
 (8dL	.	(8b-L)	.
 8c	.	8a	.
 8B-	4F	8g	.
@@ -863,7 +863,7 @@
 !!LO:LB:g=z
 =53	=53	=53	=53
 *	*	*	*^
-!	!	!	!	!LO:DY:b=2
+!	!	!	!	!LO:DY:b=2:rj
 2G 2B- 2c	[4CC [4C	4f	sfp	sfp
 *	*	*	*v	*v
 .	16CC] 16CLL]	4e	.
@@ -875,7 +875,7 @@
 .	32AA	.	.
 .	32BB-JJJ)	.	.
 !	!LO:S:a	!	!
-4ryy	(32CLLL	4G 4B- 4c 4e	.
+4ryy	(32CLLL<	4G 4B- 4c 4e	.
 .	32BB	.	.
 .	32C	.	.
 .	32D	.	.
@@ -1007,7 +1007,7 @@
 *^	*	*
 (4b-	2.f	[4.gg	.
 4cc	.	.	.
-.	.	(16.ggSSsLL]	<
+.	.	(16.ggSSSLL]	<
 .	.	32aaJJk	.
 4dd-)	.	16cccLL	[ >
 .	.	16bb-	.
@@ -1035,5 +1035,5 @@
 !!!URL-pdf: https://github.com/craigsapp/beethoven-piano-sonatas/blob/master/reference-edition/sonata01-2.pdf
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/04/06
-!!!EEV: 2020/08/17
+!!!EEV: 2022/04/20
 !!!EED: Craig Stuart Sapp
