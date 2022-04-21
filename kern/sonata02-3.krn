@@ -3,7 +3,7 @@
 !!!OTL: Piano Sonata no. 2 in A major
 !!!ODT: 1794///-1795///
 !!!ODE: Joseph Haydn
-!!!OMD: Scherzo: Allegretto
+!!!OMD: SCHERZO\nAllegretto
 !!!OPS: 2
 !!!ONM: 2
 !!!OMV: 3
@@ -63,6 +63,7 @@
 .	16B	.
 .	16e	.
 .	16dJJ	.
+!!LO:LB:g=original
 =7	=7	=7
 4r	4g#	.
 4E' 4B'	4d' 4g#'	.
@@ -110,6 +111,7 @@
 16E	.	.
 16c#	.	.
 16G#JJ	.	.
+!!LO:LB:g=original
 =14	=14	=14
 4e	4r	.
 4r	4g# 4cc# 4gg#	.
@@ -156,15 +158,16 @@
 8c#	.	.
 8G#	4b/)	.
 8BJ	.	.
+!!LO:LB:g=original
 =22	=22	=22
-.	(8bq	.
+.	(<8bq	.
 8C#L	()4a#	.
 8c#	.	.
 8D#	4g#	.
 8B	.	.
 8D#	4f##t)	.
 8A#J	.	.
-.	(16e#qLL	.
+.	(<16e#qLL	.
 .	16f##qJJ	.
 =23	=23	=23
 8G#L	4g#)	.
@@ -202,6 +205,7 @@
 2.D 2.A 2.d	4r	2.f#	pp
 .	(4dd'	.	.
 .	4dd')	.	.
+!!LO:LB:g=original
 =30	=30	=30	=30
 !!LO:TX:a:B:t=Rallentando
 2.BB 2.E 2.B	4r	2.d 2.g#	.
@@ -252,6 +256,7 @@
 .	16e	.
 .	16b	.
 .	16g#JJ	.
+!!LO:LB:g=original
 =38	=38	=38
 4r	4dd	.
 4EE 4GG# 4BB 4E	4r	.
@@ -296,6 +301,7 @@
 !	!	!LO:DY:b=2:rj
 4AAA	4r	ff
 !!LO:TX:a:rj:i:t=Fin
+!!LO:LB:g=original
 =:|!|:	=:|!|:	=:|!|:
 *>C	*>C	*>C
 *k[]	*k[]	*k[]
@@ -320,7 +326,7 @@
 =47	=47	=47	=47
 8AL	4cc	(4cc	.
 8e	.	.	.
-8B	2ry	4b	.
+8B	2ryyy	4b	.
 8e	.	.	.
 8c	.	4a)	.
 8eJ	.	.	.
@@ -347,6 +353,7 @@
 8A	.	.
 8G	4e	.
 8BJ	.	.
+!!LO:LB:g=original
 =51	=51	=51
 8AAL	4c	.
 8A	.	.
@@ -392,6 +399,7 @@
 8a	.	.	.
 8e	4gg)	4ee	.
 8aJ	.	.	.
+!!LO:LB:g=original
 =57	=57	=57	=57
 8dL	4ff	(>4ff	.
 8a	.	.	.
@@ -400,21 +408,21 @@
 8B	.	4dd	.
 8g#J	.	.	.
 *clefF4	*	*	*
-=58	=58	=58	=58
-8A	4cc	8r	<
-8r	.	8a	.
-8Gn	4b	8r	.
-8r	.	8gn	.
-8F	4a	8r	.
-8r	.	8f	.
-=59	=59	=59	=59
-8E	4g#	8r	.
-8r	.	8e	.
-8D	4f	8r	.
-8r	.	8d	.
-8C	4e	8r	.
-8r	.	8c	.
 *	*v	*v	*
+=58	=58	=58
+8AL/	4cc	<
+8a>\	.	.
+8Gn/	4b	.
+8gn>\	.	.
+8F/	4a	.
+8f>\J	.	.
+=59	=59	=59
+8EL	4g#	.
+8e>	.	.
+8D	4f	.
+8d>	.	.
+8C	4e	.
+8c>J	.	.
 =60	=60	=60
 8BBL	4d	.
 8B	.	.
@@ -439,6 +447,7 @@
 8B	.	4dd)	.	.
 8eJ	.	.	.	.
 *	*	*v	*v	*
+!!LO:LB:g=original
 =63	=63	=63	=63
 8AL	2.E]	(4cc	.
 8e	.	.	.
@@ -471,7 +480,7 @@
 8eJ	.	.	.
 *v	*v	*	*
 =67	=67	=67
-8AL	4cc' 4ccc'	.
+8AL	4cc'\ 4ccc'\	.
 8a>J	.	.
 8DL	4dd' 4ff' 4bb' 4ddd'	.
 8d	.	.
