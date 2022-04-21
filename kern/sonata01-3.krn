@@ -5,9 +5,7 @@
 !!!ONM: 1
 !!!OMV: 3
 !!!AGN: Minuet and Trio
-!!!OMD: MINUETTO
-!!!OMD: MINUETTO: Allegretto
-!!!Xfilter: extract -s 1,3,4
+!!!OMD: MINUETTO\nAllegretto
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
@@ -16,9 +14,11 @@
 *>A	*>A	*>A
 *clefF4	*clefG2	*clefG2
 *k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
+*kcancel	*	*kcancel
 *f:	*f:	*f:
 *M3/4	*M3/4	*M3/4
 *MM118	*MM118	*MM118
+!	!	!LO:DY:rj
 4r	4c' 4a-'	p
 =1	=1	=1
 4r	(4d- 4b-	.
@@ -55,6 +55,7 @@
 *	*^	*
 2A- 2c	(4dd-	2e-	.
 .	4cc)	.	.
+!	!	!	!LO:DY:rj
 4c (4e-	4ee-	(4a-	f
 =9	=9	=9	=9
 4B- 4d-	4ee-	4g	.
@@ -63,20 +64,22 @@
 =10	=10	=10	=10
 2A-	2ee-	(4dd-	.
 .	.	4cc)	.
+!	!	!	!LO:DY:rj
 4D- 4B-	4ryy	4ff	p
 *	*v	*v	*
 =11	=11	=11
 2E- 2c	(2a-	.
-.	(ccq8	.
+.	(<ccqq8	.
 4E- 4d-	4g 4b-))	.
 =12	=12	=12
 4A- 4c	4a-	.
 4r	4r	.
+!	!LO:DY:rj	!
 4r	(8ggzL	.
 .	8ffJ)	.
 =13	=13	=13
 2E- 2c	(2a-	.
-.	(ccq8	.
+.	(<ccqq8	.
 4E- 4d-	4g) 4b-)	.
 =14	=14	=14
 4A- 4c	4a-	.
@@ -103,16 +106,17 @@
 4d- 4f)	4r	.
 =19	=19	=19
 2F (2d-	(<2f 2b-	p
-.	(>dd-q8	.
+.	(>dd-qq8	.
 4F 4e-	4a/) 4cc/)	.
 =20	=20	=20
 4B- 4d-)	4b-	.
 4r	4r	.
+!	!LO:DY:rj	!
 4r	(8gg-zL	.
 .	8ffJ)	.
 =21	=21	=21
 2F (2d-	2b-	pp
-.	(<dd-q8	.
+.	(<dd-qq8	.
 4F 4e-	4a) 4cc	.
 =22	=22	=22
 4B- 4d-)	4b-	.
@@ -127,6 +131,7 @@
 =24	=24	=24
 4B- 4d-)	4b-	.
 4r	4r	.
+!	!	!LO:DY:rj
 (8d-L	(8dd-L	ff
 8cJ	8ccJ	.
 !!LO:LB:g=z
@@ -178,14 +183,14 @@
 4F (4A-	(4ccc	sf
 4A- 4c)	4aa-)	.
 4A- 4c 4f	4aa-T	.
-.	16ggqL	.
-.	16aa-qJ	.
+.	(16ggqL	.
+.	16aa-qJ)	.
 =33	=33	=33
 4G 4B- 4e	(4bb-	f
 4B- 4d- 4e	4gg)	.
 4B- 4d- 4e	4ggt	.
-.	16ffqL	.
-.	16ggqJ	.
+.	(16ffqL	.
+.	16ggqJ)	.
 *clefG2	*	*
 =34	=34	=34
 *^	*	*
@@ -194,7 +199,7 @@
 4a-	4B 4d	4ff'	sf
 =35	=35	=35	=35
 2a-	2c	(2ff	p
-.	.	(aa-q8	.
+.	.	(aa-qq8	.
 4b-	4c	4ee) 4gg)	.
 =36	=36	=36	=36
 4a-	4f	4ff	.
@@ -205,7 +210,7 @@
 *clefF4	*	*
 =37	=37	=37
 2C 2A-	(2f	.
-.	(>a-q8	.
+.	(>a-qq8	.
 4C 4B-	4e) 4g)	.
 =38	=38	=38
 4F 4A-	4f	.
@@ -224,6 +229,7 @@
 *>C	*>C	*>C
 *k[b-]	*k[b-]	*k[b-]
 *M3/4	*M3/4	*M3/4
+=!|:	=!|:	=!|:
 4r	4c	p
 =41	=41	=41
 !	!LO:S:a	!
@@ -411,7 +417,7 @@
 4F	8a	.
 .	8bJ	.
 =68	=68	=68
-4E	8ccL>	.
+4E	8ccL<	.
 .	8b	.
 4G	8cc	.
 .	8dd	.
@@ -460,5 +466,5 @@
 !!!URL-pdf: https://github.com/craigsapp/beethoven-piano-sonatas/blob/master/reference-edition/sonata01-3.pdf
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/04/06
-!!!EEV: 2020/08/15
+!!!EEV: 2022/04/20
 !!!EED: Craig Stuart Sapp
