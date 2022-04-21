@@ -18,7 +18,7 @@
 *M2/2	*M2/2	*M2/2
 *MM192	*MM192	*MM192
 =1-	=1-	=1-
-!	!	!LO:DY:b=2
+!	!	!LO:DY:b=2:rj
 12FL	2r	p
 12A-	.	.
 12cJ	.	.
@@ -54,6 +54,7 @@
 12FL	4r	.
 12A-	.	.
 12cJ	.	.
+!	!	!LO:DY:rj
 12FL	4f` 4a-` 4cc` 4ff`	p
 12A-	.	.
 12cJ	.	.
@@ -62,12 +63,15 @@
 12d-J	.	.
 !!LO:LB:g=z
 =4	=4	=4
+*tuplet	*	*
 12FL	4f` 4a-` 4cc` 4ff`	.
 12c	.	.
 12A-J	.	.
+*Xtuplet	*	*
 12FL<	4r	.
 12C	.	.
 12AA-J	.	.
+!	!	!LO:DY:rj
 12FFL	4cc` 4ff` 4aa-` 4ccc`	f
 12AA-	.	.
 12CJ	.	.
@@ -82,6 +86,7 @@
 12FL	.	4r	.
 12A-	.	.	.
 12cJ	.	.	.
+!	!	!	!LO:DY:rj
 (4d-	2G	(4ee-'	p
 4B-)	.	4ee-')	.
 =6	=6	=6	=6
@@ -106,6 +111,7 @@
 2ryy	4C 4E	4ccc)	.
 .	4c'	4r	.
 *clefG2	*clefG2	*	*
+!	!	!	!LO:DY:rj
 (4b-	2en	(4cc'	p
 4g)	.	4cc')	.
 =10	=10	=10	=10
@@ -121,7 +127,7 @@
 4G)	.	4cc')	.
 *v	*v	*	*
 =12	=12	=12
-.	(ccq8	.
+.	(<ccq8	.
 4F 4A-	(4.aa-z)	.
 !LO:DY:rj	!	!
 2Fz 2A-z	.	.
@@ -131,12 +137,15 @@
 4F# 4A	8dd	.
 .	8ccJ)	.
 =13	=13	=13
+*Xtuplet	*	*
 12GL	4b	.
 12B	.	.
 12dJ	.	.
+*tuplet	*	*
 12GL	4r	.
 12B	.	.
 12dJ	.	.
+!	!	!LO:DY:rj
 12GL	4g` 4b` 4dd` 4gg`	p
 12B	.	.
 12dJ	.	.
@@ -146,9 +155,11 @@
 12e-J	.	.
 !!LO:LB:g=z
 =14	=14	=14
+*tuplet	*	*
 12GL	4g` 4b` 4dd` 4gg`	.
 12d	.	.
 12BJ	.	.
+*Xtuplet	*	*
 12GL	4r	.
 12DnX	.	.
 12BBnXJ	.	.
@@ -180,6 +191,7 @@
 12GL	4r	.
 12DnX	.	.
 12BBnXJ	.	.
+!	!	!LO:DY:rj
 12GGL	4dd` 4gg` 4bbnX` 4dddnX`	ff
 12BB	.	.
 12DJ	.	.
@@ -289,13 +301,15 @@
 .	12e-	.
 .	12cJ	.
 =24	=24	=24
-*Xtuplet	*	*
+*tuplet	*	*
 12GL	4g	.
 12c	.	.
 12e-J	.	.
+*Xtuplet	*tuplet	*
 12A-L	12ee-L	.
 12c	12cc	.
 12e-J	12a-J	.
+*	*Xtuplet	*
 12GL	12ee-L	.
 12c	12cc	.
 12e-J	12gJ	.
@@ -453,12 +467,15 @@
 *v	*v	*	*
 !!LO:LB:g=z
 =34	=34	=34
+*tuplet	*	*
 12CCL>	4c<	.
 12GG	.	.
 12CJ	.	.
+*Xtuplet	*	*
 12CCL	4r	.
 12GG	.	.
 12CJ	.	.
+!	!	!LO:DY:rj
 12CCL	(4e-' 4ee-'	p
 12GG	.	.
 12CJ	.	.
@@ -506,9 +523,11 @@
 12DJ	.	.
 !!LO:LB:g=z
 =38	=38	=38
+*tuplet	*	*
 12GGL	2e-\ 2ee-\)	.
 12BB-	.	.
 12E-J	.	.
+*Xtuplet	*	*
 12GGL	.	.
 12BB-	.	.
 12E-J	.	.
@@ -559,9 +578,11 @@
 12DJ	.	.
 !!LO:LB:g=z
 =42	=42	=42
+*tuplet	*	*
 12CCL	4c	.
 12GG	.	.
 12CJ	.	.
+*Xtuplet	*	*
 12CCL	4r	.
 12GG	.	.
 12CJ	.	.
@@ -612,8 +633,10 @@
 12DJ	.	.
 !!LO:LB:g=z
 =46	=46	=46
+*tuplet	*	*
 12GGL	2e-\ 2ee-\)	.
 12BB-	.	.
+*Xtuplet	*	*
 12E-J	.	.
 12GGL	.	.
 12BB-	.	.
@@ -666,13 +689,16 @@
 !!LO:LB:g=z
 =50	=50	=50
 *	*^	*
+*tuplet	*	*	*
 12CL	4c	4ryy	.
 12E-	.	.	.
 12GJ	.	.	.
+*Xtuplet	*	*tuplet	*
 4ryy	4rdd	12cL	.
 .	.	12e-	.
 !	!	!	!LO:DY:a
 .	.	12gJ	ff
+*	*	*Xtuplet	*
 4ryy	4cc` 4ee-` 4gg` 4ccc`	12cL	.
 .	.	12e-	.
 .	.	12gJ	.
@@ -763,7 +789,7 @@
 12G	.	.
 12EJ	.	.
 =57	=57	=57
-!	!	!LO:DY:b=2
+!	!	!LO:DY:b=2:rj
 12FL	4f' 4a-'	p
 12A-	.	.
 12cJ	.	.
@@ -793,7 +819,7 @@
 4A- 4c	.	.
 4A- 4c	.	.
 =61	=61	=61
-4r	2a-	.
+4r	2a-\	.
 4A- 4c 4e-	.	.
 4A- 4c 4e-	2cc)	.
 4A- 4c 4e-	.	.
@@ -838,7 +864,7 @@
 4A- 4d-	.	.
 4A- 4d-	4cc	.
 =69	=69	=69
-4r	4a-)	.
+4r	4a-\)	.
 (4A-	4r	.
 4c	2r	.
 4e-)	.	.
@@ -1103,7 +1129,7 @@
 12C	.	.
 12E-J	.	.
 =112	=112	=112
-4AA-	(1ccSsS	.
+4AA-	(1ccSss	.
 4A- 4c 4e-	.	.
 4A- 4c 4e-	.	.
 4A- 4c 4e-	.	.
@@ -1152,9 +1178,11 @@
 4G 4B- 4e	.	.
 4G 4B- 4e	4b-	.
 =118	=118	=118
+*tuplet	*	*
 12FFL	4a-X\)	.
 12C	.	.
 12FJ	.	.
+*Xtuplet	*	*
 12FFL	4r	.
 12C	.	.
 12FJ	.	.
@@ -1166,9 +1194,11 @@
 12FJ	.	.
 !!LO:LB:g=z
 =119	=119	=119
+*tuplet	*	*
 12FFL	4A-' 4a-'	.
 12C	.	.
 12FJ	.	.
+*Xtuplet	*	*
 12FFL	4r	.
 12C	.	.
 12FJ	.	.
@@ -1206,6 +1236,7 @@
 4F 4A-	.	4a-\)	.
 !!LO:LB:g=z
 =125	=125	=125	=125
+!	!	!	!LO:DY:rj
 4E- 4F	1C	(2.aa	sf
 4E- 4F	.	.	.
 4E- 4F	.	.	.
@@ -1429,9 +1460,11 @@
 12d-J	.	.
 !!LO:LB:g=z
 =142	=142	=142
+*tuplet	*	*
 12FL	4f` 4a-` 4cc` 4ff`	.
 12c	.	.
 12A-J	.	.
+*Xtuplet	*	*
 12FL<	4r	.
 12C	.	.
 12AA-J	.	.
@@ -1494,7 +1527,7 @@
 *v	*v	*	*
 =150	=150	=150
 2f 2a-	(4cct	.
-.	(16bqLL	.
+.	(<16bqLL	.
 .	16ccqJJ	.
 .	4ff))	.
 *clefF4	*	*
@@ -1650,7 +1683,7 @@
 .	.	12G<	.
 .	.	12F<J	.
 *	*tuplet	*Xtuplet	*
-4E	12rGG	4ryy	.
+4E/	12rGG	4ryy	.
 .	12D-L	.	.
 .	12CJ	.	.
 4rA	12BB-L	4ryy	.
@@ -1753,10 +1786,12 @@
 .	12A-J	.
 !!LO:LB:g=z
 =169	=169	=169
+*	*tuplet	*
 (8CCL	12fL	.
 .	12c	.
 8C	.	.
 .	12A-J	.
+*	*Xtuplet	*
 8CC	12fL	.
 .	12c	.
 8CJ	.	.
@@ -1957,6 +1992,7 @@
 12FFL	4r	.
 12AA-	.	.
 12CJ	.	.
+!	!	!LO:DY:rj
 12FFL	4a-' (4aa-'	p
 12AA-	.	.
 12D-J	.	.
@@ -1991,9 +2027,11 @@
 12FJ	.	.
 !!LO:LB:g=z
 =185	=185	=185
+*tuplet	*	*
 12BB-L	(4e- 4ee-	.
 12D-	.	.
 12FJ	.	.
+*Xtuplet	*	*
 12BB-L	4d- 4dd-	.
 12D-	.	.
 12FJ	.	.
@@ -2044,9 +2082,11 @@
 12A-J	.	.
 !!LO:LB:g=z
 =189	=189	=189
+*tuplet	*	*
 12CL	2c 2cc	.
 12E	.	.
 12GJ	.	.
+*Xtuplet	*	*
 12CL	.	.
 12E	.	.
 12GJ	.	.
@@ -2057,9 +2097,11 @@
 12E	.	.
 12GJ	.	.
 =190	=190	=190
+*	*tuplet	*
 4FF 4F	12fL<	f
 .	12a-	.
 .	12ccJ	.
+*	*Xtuplet	*
 4r	12ffL	.
 .	12aa-	.
 .	12cccJ	.
@@ -2100,9 +2142,11 @@
 .	12bb-J	.
 !!LO:LB:g=z
 =193	=193	=193
+*	*tuplet	*
 4f' 4a-' 4cc'	12fffL	.
 .	12ccc	.
 .	12aa-J	.
+*	*Xtuplet	*
 4r	12ffL	.
 .	12cc	.
 .	12a-J	.
@@ -2166,5 +2210,5 @@
 !!!URL-pdf: https://github.com/craigsapp/beethoven-piano-sonatas/blob/master/reference-edition/sonata01-4.pdf
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/04/05
-!!!EEV: 2020/08/15
+!!!EEV: 2022/04/20
 !!!EED: Craig Stuart Sapp

@@ -50,7 +50,7 @@
 4E 4G 4B- 4c	4r	.
 !!LO:LB:g=z
 =5	=5	=5
-.	(cc8q	.
+.	(<cc8q	.
 !	!LO:DY:rj	!
 4r	(4.aa-z)	.
 4F 4A- 4c	.	.
@@ -60,7 +60,7 @@
 4F 4A- 4c	4ff')	.
 4F 4A- 4c	4r	.
 =6	=6	=6
-.	(cc8q	.
+.	(<cc8q	.
 !	!LO:DY:rj	!
 4r	(4.bb-z)	<
 4G 4B- 4e	.	.
@@ -77,7 +77,7 @@
 4B- 4d- 4g	8gg	.
 .	8ffJ)	]
 =8	=8	=8
-.	(16eenXqLL	.
+.	(<16eenXqLL	.
 .	16ffq	.
 .	16ggqJJ	.
 4r	(4ff)	p
@@ -271,7 +271,7 @@
 8A-	(8ggL	<
 8E-	8bb-	.
 8A-J	8aa-J)	.
-8GGL	8r	.
+8GGL<	8r	.
 8G	(8aaL	.
 8E-	8ccc	.
 8GJ	8bb-J)	.
@@ -369,8 +369,8 @@
 4AA-	4A-)	.
 *	*clefG2	*
 4A-	4r	.
-.	(d8qnX	.
-!	!LO:TX:i:b:t=con espressione	!
+.	(<d8qnX	.
+!	!LO:TX:i:c:t=con espressione	!LO:HP:b
 4r	(4.cc-)	>
 4D' 4F' 4A-' 4c-'	.	.
 .	8b-)	]]
@@ -383,7 +383,7 @@
 =43	=43	=43
 4r	(4ee-z	.
 4A-' 4c'	4a-\)	.
-.	(d8q	.
+.	(<d8q	.
 4r	(4.cc-)	>
 4D' 4F' 4A-' 4c-'	.	.
 .	8b-)	]]
@@ -397,7 +397,7 @@
 4r	(4ee-z	.
 4A-' 4c'	4a-\)	.
 *clefG2	*	*
-.	(ddnX8q	.
+.	(<ddnX8q	.
 4r	(4.ccc-)	>
 4d' 4f' 4a-' 4cc-'	.	.
 .	8bb-)	]]
@@ -433,7 +433,7 @@
 4A- 4c 4e-	4aa-')	.
 4A- 4c 4e-	4r	.
 =51	=51	=51
-.	(dd-8q	.
+.	(<dd-8q	.
 4r	(4.ddd-)	.
 4G 4B- 4d- 4e-	.	.
 .	24cccLL	.
@@ -447,7 +447,7 @@
 .	4gg'	.
 .	4bb-'	.
 =53	=53	=53
-.	(dd-8q	.
+.	(<dd-8q	.
 4r	(4.ddd-)	.
 4G 4B- 4d- 4e	.	.
 .	24cccLL	.
@@ -457,7 +457,7 @@
 4G 4B- 4d- 4e	4r	.
 !!LO:LB:g=z
 =54	=54	=54
-.	(dd-8q	.
+.	(<dd-8q	.
 4r	(4.ddd-)	<
 4G- 4B- 4d- 4e	.	.
 .	24cccLL	.
@@ -853,7 +853,7 @@
 =95	=95	=95
 4c' (4d-'	4r	.
 4c' 4d-'	8r	.
-!	!	!LO:DY:a
+!	!	!LO:DY:a:rj
 .	(24a-LL	pp
 .	24g-	.
 .	24fJJ	.
@@ -929,7 +929,7 @@
 4E 4G 4B- 4c	4gg')	.
 4E 4G 4B- 4c	4r	.
 =105	=105	=105
-.	(cc8q	.
+.	(<cc8q	.
 2Fzy 2A-zy 2czy	(4.aa-z)	.
 .	24ggLL	.
 .	24ff	.
@@ -937,7 +937,7 @@
 2r	4ff')	.
 .	4r	.
 =106	=106	=106
-.	(cc8q	.
+.	(<cc8q	.
 2Gzy 2B-zy 2ezy	(4.bb-z)	.
 .	24aa-LL	.
 .	24gg	.
@@ -952,14 +952,14 @@
 4r	8gg	)
 .	8ffJ)	]
 =108	=108	=108
-.	(16eeqLL	.
+.	(<16eeqLL	.
 .	16ffq	.
 .	16ggqJJ	.
 !	!	!LO:DY:rj
 4c 4g	(4ff)	p
 4r	4eenX)	.
 4r;	4r;	r
-!	!	!LO:DY:b=2
+!	!	!LO:DY:b=2:rj
 4C'	4r	p
 !!LO:LB:g=z
 =109	=109	=109
@@ -1128,7 +1128,7 @@
 8D-	8ddd-	[ >
 8GJ	8eeJ)	]
 =129	=129	=129
-8AA-L	4ff	.
+8AA-L<	4ff	.
 8F	.	.
 8C	4r	.
 8FJ	.	.
@@ -1139,7 +1139,7 @@
 !!LO:PB:g=z
 =130	=130	=130
 8AA-L	8r	.
-!	!	!LO:HP:Y=40:dash
+!	!	!LO:HP:c
 8F	(8eeL	<
 8C	8gg	.
 8FJ	8ffJ)	.
@@ -1200,7 +1200,6 @@
 .	8cJ)	.
 =136	=136	=136
 4AA-	8r	.
-!	!	!LO:DY:rj
 .	(8cccL	ff
 !LO:DY:rj	!	!
 2Cz	8fff	.
@@ -1234,7 +1233,7 @@
 .	8c	.
 4CC	8d-	.
 .	8cJ	.
-4CC	8cL	.
+4CC/	8cL	.
 !	!S-	!
 .	8B-<	.
 4CC/	8A-<	.
@@ -1244,7 +1243,7 @@
 4FF	4F<)	.
 !	!S0	!
 4F	4r	.
-.	(B8q	.
+.	(<B8q	.
 !	!LO:TX:i:b:t=con espress.:Y=20:X=30	!
 4r	(4.a-)	.
 4D-' 4F' 4A-' 4B'	.	.
@@ -1258,7 +1257,7 @@
 =142	=142	=142
 4r	(4ccz	.
 4F' 4A-'	4f)	.
-.	(B8q	.
+.	(<B8q	.
 4r	(4.a-)	>yy
 4D-' 4F' 4A-' 4B'	.	)
 .	8g	]yy
@@ -1272,7 +1271,7 @@
 4r	(4ccz	.
 4F' 4A-'	4f)	.
 *clefG2	*	*
-.	(b8q	.
+.	(<b8q	.
 4r	(4.aa-)	.
 4d-' 4f' 4a-' 4b'	.	.
 .	8gg	.
@@ -1327,4 +1326,4 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/04/05
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/10/01
+!!!EEV: 2022/04/21
