@@ -3,7 +3,7 @@
 !!!OTL: Piano Sonata no. 3 in C major
 !!!ODT: 1794///-1795///
 !!!ODE: Joseph Haydn
-!!!OMD: Scherzo: Allegro
+!!!OMD: SCHERZO\nAllegro
 !!!OPS: 2
 !!!ONM: 3
 !!!OMV: 3
@@ -59,10 +59,12 @@
 =8	=8	=8
 4GG	4g 4b 4dd	.
 *clefG2	*	*
-8r	4r	p
-(8ddL	.	.
+8r	4r	.
+!	!	!LO:DY:b=2:rj
+(8ddL	.	p
 8cc#	4r	.
 8ddJ)	.	.
+!!LO:LB:g=original
 =9	=9	=9
 4ee-'	4r	.
 4dd'	8r	.
@@ -107,11 +109,12 @@
 =16	=16	=16
 4GGG 4GG	4b 4dd 4gg	.
 8r	8r	.
+!!LO:LB:g=original
 =:|!|:	=:|!|:	=:|!|:
 *>B	*>B	*>B
-(>8g>L	8rff	.
+(>y8g>L	8rff	.
 8f#>	4rff	.
-8g>J)	.	.
+8g>)J	.	.
 =17	=17	=17
 4a->'<	4rff	.
 4g>'<	8rff	.
@@ -160,6 +163,7 @@
 (8cL	.	.
 8Bn	4a-' 4aa-'	.
 8cJ)	.	.
+!!LO:LB:g=original
 =25	=25	=25
 4F#'	4ee-' 4eee-'	.
 8r	4dd' 4ddd'	.
@@ -178,14 +182,14 @@
 4C'\	4c' 4cc'	.
 =28	=28	=28
 *^	*	*
-4r	4GG	4G< 4g	.
-8r	8r	4r	.
+4ryy	4GG\	4G< 4g	.
+8rc	8rGG	4ryy	.
 !	!	!	!LO:DY:rj
 (8GL	(8GGL	.	p
-8F#	8FF#	4r	.
+8F#	8FF#	4ryy	.
 8GJ)	8GGJ)	.	.
 =29	=29	=29	=29
-(4A-	(4AA-	4.r	.
+(4A-	(4AA-	4.ryy	.
 8G)	8GG)	.	.
 8r	4.ryy	8r	.
 4G' 4B' 4d'	.	4b' 4dd' 4gg'	sf
@@ -198,17 +202,18 @@
 =31	=31	=31	=31
 (4A-	(4AA-	4.ryy	.
 8G)	8GG)	.	.
-8r	4.r	8r	.
-4G' 4B' 4d'	.	4b' 4dd' 4gg'	.
+8r	4.ryy	8r	.
+4G' 4B' 4d'	.	4b' 4dd' 4gg'	sf
 =32	=32	=32	=32
 4G 4c (4e-	4.ryy	4cc 4ee- 4ff# (4aan	.
 8G 8B 8d)	.	8b 8dd 8gg)	p
 (8GL	(8GGL	4.r	.
 8F#	8FF#	.	.
 8GJ)	8GGJ)	.	.
+!!LO:LB:g=original
 =33	=33	=33	=33
-(4A-	4AA-	4.ryy	.
-8G)	8GG	.	.
+(4A-	(4AA-	4.ryy	.
+8G)	8GG)	.	.
 8r	4.ryy	8r	.
 !	!	!	!LO:DY:rj
 4G' 4B' 4d'	.	4b' 4dd' 4gg'	sf
@@ -240,6 +245,7 @@
 =38	=38	=38
 2.r	(4aa-	.
 .	8gg)	.
+!	!	!LO:DY:b
 .	(8ggL	pp
 .	8ff#	.
 .	8ggJ)	.
@@ -253,10 +259,11 @@
 2.r	4aan'	.
 .	4gg'	.
 .	4ffn'	.
+!!LO:LB:g=original
 =41	=41	=41
 *	*^	*
-2.ryy	4ee'	4r	.
-.	4dd'	8r	p
+2.ryy	4ee'	4re	.
+.	4dd'	8re	p
 .	.	(8eL	.
 .	4cc'	8d	.
 .	.	8eJ)	.
@@ -282,7 +289,7 @@
 =46	=46	=46
 *	*^	*
 4FF	4cc#' 4ee']	2a	.
-4r	4dd 4ff	.	.
+4r	4dd' 4ff'	.	.
 4GG'	4b' 4dd'	4f	.
 =47	=47	=47	=47
 4CC' 4C'	4cc'	4e	p
@@ -304,6 +311,7 @@
 .	(8ffL	.
 4f'	8ee	.
 .	8ffJ)	.
+!!LO:LB:g=original
 =50	=50	=50
 4a-'	4bb'	.
 4g'	8r	.
@@ -340,7 +348,7 @@
 8BB	8B	.
 8CJ)	8cJ)	.
 =56	=56	=56
-(4D-	(4d-	fz
+(4D-/	(4d-	fz
 8C)	8c)	.
 8r	8r	.
 *clefG2	*	*
@@ -352,6 +360,7 @@
 (8CL	(8cL	.
 8BB	8B	.
 8CJ)	8cJ)	.
+!!LO:LB:g=original
 =58	=58	=58
 (4D-/	(4d-	fz
 8C)	8c)	.
@@ -394,6 +403,7 @@
 4CC 4C	4c 4cc	.
 4r	4r	.
 4r	4r	.
+!!LO:LB:g=original
 =66|!	=66|!	=66|!
 *>C	*>C	*>C
 *^	*	*
@@ -448,6 +458,7 @@
 4ryy	.	12eeL>	.
 .	.	12cc	.
 .	.	12aJ	.
+!!LO:LB:g=original
 =71	=71	=71	=71
 4ryy	2.BBB 2.BB	12eeL>	.
 .	.	12b	.
@@ -479,9 +490,9 @@
 =74:|!	=74:|!	=74:|!
 *>C2	*>C2	*>C2
 *^	*	*
-4G 4B	4EE	4e	.
+4ryy	4EE\	4e 4B< 4G<	.
 4r	4E	4ryy	.
-4G	4r	4ryy	.
+4G/	4r	4ryy	.
 *v	*v	*	*
 =75	=75	=75
 *>D	*>D	*>D
@@ -504,6 +515,7 @@
 .	12GL	.
 .	12B	.
 .	12dJ	.
+!!LO:LB:g=original
 =77	=77	=77
 4EE 4E	12gL	.
 .	12c#	.
@@ -554,6 +566,7 @@
 4CC# 4D#	12aL	.
 .	12f#	.
 .	12BJ	.
+!!LO:LB:g=original
 =82	=82	=82
 4EE 4E	12aL	.
 .	12e	.
@@ -604,6 +617,7 @@
 .	12eL<	.
 .	12g#	.
 .	12bJ	.
+!!LO:LB:g=original
 =87	=87	=87
 2.C 2.c	12eL<	.
 .	12a	.
@@ -650,6 +664,7 @@
 .	12gg'L	sf
 .	12ee	.
 .	12ccJ	.
+!!LO:LB:g=original
 =92	=92	=92
 2.DD 2.D	12gg'L	sf
 .	12dd	.
@@ -700,6 +715,7 @@
 .	12AL	.
 .	12c	.
 .	12eJ	.
+!!LO:LB:g=original
 =97	=97	=97
 4FF# 4F#	12aL	.
 .	12d#	.
@@ -721,7 +737,7 @@
 .	12e	.
 .	12BJ	.
 =99	=99	=99
-2.AA 2.A	12eL	.
+2.AA 2.A	12eL<	.
 .	12a	.
 .	12ccJ	.
 .	12eeL	.
@@ -750,6 +766,7 @@
 .	12eeeL	.
 .	12ccc	.
 .	12aaJ	.
+!!LO:LB:g=original
 =102	=102	=102
 2.D 2.F 2.A 2.d	12fffL	.
 .	12ddd	.
@@ -799,6 +816,7 @@
 =107	=107	=107
 4r	4r	.
 8r	8r	.
+!!LO:LB:g=original
 !!LO:TX:b:i:rj:t=Scherzo D.C.
 !!LO:TX:b:i:rj:t=e poi la Coda
 =108||	=108||	=108||
@@ -814,7 +832,7 @@
 =110	=110	=110
 4r	4r	.
 4r	4r	.
-4FF# 4F#	4f# 4ff#	ff
+4FF#\ 4F#\	4f# 4ff#	ff
 =111	=111	=111
 4FFF# 4FF#	4f# 4F#<	.
 4rCC	4r	.
@@ -822,7 +840,7 @@
 =112	=112	=112
 4GGG 4GG	4g 4G<	.
 8r	4r	.
-!	!	!LO:DY:b:rj
+!	!	!LO:DY:b=2
 (8GGL	.	p
 8FF#	4r	.
 8GGJ)	.	.
@@ -854,10 +872,11 @@
 (4AA-	2.F 2.B 2.d	.
 4GG)	.	.
 4GG'	.	.
+!!LO:LB:g=original
 =120	=120	=120
 4CC	2.c 2.E< 2.G<	.
 8rCC	.	.
-!	!	!LO:DY:rj
+!	!	!LO:DY:rj:b=2
 (8CCL>	.	pp
 8BBB	.	.
 8CCJ)	.	.
@@ -905,7 +924,7 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: i = editorial accidental, paren
 !!!verovio: beamFrenchStyle
 !!!LOR: Durand 1915, plates 9327/9328, Paul Dukas, ed.
 !!!PED: Dukas, Paul
@@ -914,4 +933,4 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/01/25
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2019/08/19
+!!!EEV: 2022/04/23
