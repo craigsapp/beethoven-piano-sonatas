@@ -52,7 +52,7 @@
 8e	8a	.
 8G 8c	8cc	.
 8eJ	8aJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =6	=6	=6
 8G 8A 8cL	2f#	.
 8d	.	.
@@ -95,7 +95,7 @@
 .	8b	.
 4C# 4c#	8a	.
 .	8gJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =12	=12	=12
 8D 8dL	4f#	.
 8D	.	.
@@ -139,7 +139,7 @@
 .	8dd	.
 .	8ff#	.
 .	8bJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =18	=18	=18
 2.r	8ddL	.
 .	8ff#	.
@@ -182,7 +182,7 @@
 .	8ff#	.
 4G# 4B 4d	8ee	.
 .	8ff#J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =24	=24	=24
 *	*^	*
 !	!	!	!LO:HP:i:t=%s e legato
@@ -230,7 +230,7 @@
 .	.	8c#	.
 .	.	8BJ	.
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =30	=30	=30
 8AL	2.ee 2.ggn	sf
 8Gn	.	.
@@ -273,7 +273,7 @@
 .	8ee	.
 .	8dd	.
 .	8cc#J)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =36	=36	=36
 *ped	*	*
 2.A 2.c# 2.e 2.gn	8eeL	.
@@ -329,7 +329,7 @@
 .	8eee	.
 *Xped	*	*
 .	8ccc#J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =42	=42	=42
 *ped	*	*
 2A 2c# 2e 2g	8eeeL	sf
@@ -374,7 +374,7 @@
 8A	.	.
 8D 8E 8G	4c#' 4cc#'	.
 8AJ	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =48	=48	=48
 4r	4r	.
 4D'/	4d' 4dd'	p
@@ -414,7 +414,7 @@
 8B	.	.
 8E 8G#	8aaL	.
 8BJ	8gg#J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =55	=55	=55
 8E 8G#L	8ff#L	.
 8B	8ee	.
@@ -459,7 +459,7 @@
 .	8B	.
 4g#'	8e	.
 .	8BJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =61	=61	=61
 *clefF4	*	*
 4E	8eL	.
@@ -518,7 +518,7 @@
 *Xped	*	*
 .	8BJ	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =67	=67	=67
 *ped	*	*
 4E	8eL	p
@@ -580,7 +580,7 @@
 4d	8B	.
 .	8GJ	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =73	=73	=73
 4GG	8BL	.
 .	8G	.
@@ -632,7 +632,7 @@
 .	8c	.
 8AAL	8fn	.
 8EEJ	8gJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =79	=79	=79
 4FFn	8aL	.
 .	8g	.
@@ -676,7 +676,7 @@
 4e-	8c	.
 .	8GJ	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =85	=85	=85
 4C	8cL	.
 .	8G	.
@@ -734,7 +734,7 @@
 *Xped	*	*
 .	8GJ	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =91	=91	=91
 4C	8cL	p
 .	8G	.
@@ -793,7 +793,7 @@
 4fn	8d	.
 .	8B-J	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =97	=97	=97
 4BB-	8dL	.
 .	8B-	.
@@ -845,7 +845,7 @@
 .	8e-	.
 8CL	8a-	.
 8GGJ	8b-J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =103	=103	=103
 4AA-	8ccL	.
 .	8b-	.
@@ -889,7 +889,7 @@
 4ryy	8ccL	8cccL	p
 .	8ddJ	8dddJ	.
 *v	*v	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =109	=109	=109
 8ee-L	8eee-L	<
 8dd	8ddd	.
@@ -941,7 +941,7 @@
 *Xped	*	*
 .	8AJ	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =115	=115	=115
 *ped	*	*
 4AA	8c#L	.
@@ -998,7 +998,7 @@
 .	8d	.
 4FF#'	8a 8dd	.
 .	8dJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =121	=121	=121
 4DD	8a 8ddL	.
 .	8d	.
@@ -1042,7 +1042,7 @@
 8d	8gg	.
 8G 8B	8bb	.
 8dJ	8ggJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =127	=127	=127
 8G 8cL	(4ff#	.
 8e	.	.
@@ -1088,7 +1088,7 @@
 .	8d	.
 .	8g	.
 .	8aJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =133	=133	=133
 2.G 2.B	8bL	.
 .	8g	.
@@ -1132,7 +1132,7 @@
 .	8aa	.
 .	8gg	.
 .	8ffnJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =139	=139	=139
 8CL	4ee	.
 8E	.	.
@@ -1175,7 +1175,7 @@
 .	8cc#	.
 .	8ee	.
 .	8gJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =145	=145	=145
 2.r	8cc#L	.
 .	8ee	.
@@ -1221,7 +1221,7 @@
 8d	4gg 4bb	.
 8eJ)	.	.
 *clefG2	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =151	=151	=151
 (8d 8f#L	2.ff# 2.aa	<
 8g	.	.
@@ -1266,7 +1266,7 @@
 .	8gg	.
 .	8ff#	.
 .	8eeJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =157	=157	=157
 [2.d 2.g 2.cc#	(8ggL	.
 .	8aa	.
@@ -1310,7 +1310,7 @@
 .	8ddd	.
 4G 4d 4g	8bb	.
 .	8ggJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =163	=163	=163
 2.d 2.f# 2.a 2.cc	8aaL	.
 .	8ccc	.
@@ -1359,7 +1359,7 @@
 8d	.	.
 8G 8B	4g' 4gg'	.
 8dJ	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =170	=170	=170
 8G 8A 8cL	4r	.
 8d	.	.
@@ -1400,7 +1400,7 @@
 8D	.	.
 8DD	4F# 4f#	.
 8DJ	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =177	=177	=177
 8G 8BL	4r	f
 8d	.	.
@@ -1444,7 +1444,7 @@
 .	8d	.
 8CL	8g 8b	.
 8BBJ)	8dJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =183	=183	=183
 (8AAL	8g 8bL	.
 8GG	8d	.
@@ -1487,7 +1487,7 @@
 8d	.	.
 8G 8B	4g	.
 8dJ	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =189	=189	=189
 (8qF#	.	.
 4G)	8b 8ddL	.
@@ -1539,7 +1539,7 @@
 8A	.	.
 8C 8E	8dddnL	.
 8AJ	8cccJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =195	=195	=195
 8D 8AL	(8bbL	.
 8c	8aa	.
@@ -1583,7 +1583,7 @@
 .	8dd	.
 4G 4B	8b	.
 .	8gJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =201	=201	=201
 4GG	8ddL	.
 .	8b	.

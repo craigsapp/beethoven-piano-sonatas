@@ -71,7 +71,7 @@
 .	12F#<L	.
 .	12B#	.
 .	12d#J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =5	=5	=5
 *	*^	*
 1CC# 1GG# 1C#	2r	12E<L	.
@@ -128,7 +128,7 @@
 .	4b	12AL	.
 .	.	12B	.
 .	.	12d#J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =9	=9	=9	=9
 1EE 1E	4e)	12G#L	.
 .	.	12B	.
@@ -184,7 +184,7 @@
 .	.	12c#	.
 .	.	12eJ	.
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =13	=13	=13
 *^	*	*
 !	!	!LO:S:a	!
@@ -244,7 +244,7 @@
 4EE 4E)	4a#	12BL	]
 .	.	12e	.
 .	.	12gJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =17	=17	=17	=17
 [1BBB [1BB	2.b)	12BL	.
 .	.	12d#X	.
@@ -300,7 +300,7 @@
 .	.	12c#	.
 .	.	12f#J	.
 *	*v	*v	*
-!!LO:PB:g=z
+!!LO:PB:g=original
 =21	=21	=21
 *^	*	*
 12GnL	2BBB 2BB	(2gn	.
@@ -358,7 +358,7 @@
 .	.	12g#	.
 .	.	12bJ	.
 .	16cc#Jk	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =25	=25	=25	=25
 (2FF# 2F#	2cc#	12c#L	.
 .	.	12f#	.
@@ -412,7 +412,7 @@
 .	.	12B#	]
 .	.	12d#J	.
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =29	=29	=29
 *^	*	*
 4ryy	1GGG# 1GG#	12r	.
@@ -478,7 +478,7 @@
 .	12aL	.
 .	12f#	.
 .	12b#J)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =33	=33	=33
 !	!LO:S:a	!
 1GGG# 1GG#	(12E<L	.
@@ -533,7 +533,7 @@
 .	12f#L	.
 .	12a	.
 .	12d#J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =37	=37	=37
 1GGG#] 1GG#]	12f#L	.
 .	12B#	.
@@ -589,7 +589,7 @@
 .	.	12C#<L	.
 .	.	12E<	.
 .	.	12c#<J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =41	=41	=41	=41
 12D#L	2FFF# 2FF#	1ryy	.
 12A	.	.	.
@@ -648,7 +648,7 @@
 .	.	12AL	.
 .	.	12c#	.
 .	.	12f#J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =45	=45	=45	=45
 2BBB 2BB	2g#	12G#L	.
 .	.	12B	.
@@ -703,7 +703,7 @@
 4CC#) 4C#	4cc#)	12c#L	.
 .	.	12e	.
 .	.	12g#J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =49	=49	=49	=49
 (2BBB# 2GG# 2BB#	(2dd#	12d#L	p
 .	.	12f#	.
@@ -759,7 +759,7 @@
 4FF#) 4F#	4b#)	12c#L	]
 .	.	12f#	.
 .	.	12aJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =53	=53	=53	=53
 [1CC# [1C#	2.cc#	12c#L	.
 .	.	12e#	.
@@ -814,7 +814,7 @@
 4EE 4E	4b	12BL	.
 .	.	12e	.
 .	.	12g#J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =57	=57	=57	=57
 (4CC# 4C#	4a	12AL	.
 .	.	12e	.
@@ -874,7 +874,7 @@
 .	.	.	12eJ	.
 .	16GG#Jk	.	.	.
 *	*v	*v	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =61	=61	=61	=61
 2.GG#	1BBB#	12G#L	.
 .	.	12d#	.
@@ -934,7 +934,7 @@
 .	.	12ee	.
 .	.	12cc#J	.
 16GG#Jk	.	.	[
-!!LO:LB:g=z
+!!LO:LB:g=original
 =65	=65	=65	=65
 *^	*	*	*
 2.ryy	2.GG#/	1GGG#	12b#L	>

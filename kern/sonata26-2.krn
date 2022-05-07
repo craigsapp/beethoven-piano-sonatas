@@ -51,7 +51,7 @@
 .	.	a32qJJJ	.
 8r	8ryy	(16bLL)	.
 .	.	16ccJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =5	=5	=5	=5
 *^	*	*	*
 8a-X>L	2F	(16.ee-LL	2a-X/	.
@@ -101,7 +101,7 @@
 .	32cc	.
 16E 16G 16cJJ	32bb-	.
 .	32ggJJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =10	=10	=10
 !	!	!LO:HP:i:t=dim.
 8En 8G 8cL	(8.ggL	>
@@ -152,7 +152,7 @@
 .	32ccc	.
 .	32ddd	.
 .	32eee-JJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =14	=14	=14
 2r	32dddLLL	.
 .	32ccc	.
@@ -209,7 +209,7 @@
 32d	32cc#)	.
 32F# 32A	(32cc#	.
 32dJJJ	32ddJJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =17	=17	=17
 !	!	!LO:DY:rj
 32F# 32AnLLL	(32cc#LLL	p
@@ -255,7 +255,7 @@
 32d	32cc#)	.
 32F# 32A	(32cc#	.
 32dJJJ	32ddJJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =19	=19	=19
 !	!	!LO:DY:rj
 32G' 32B-'LLL	16ddLL	sf
@@ -293,7 +293,7 @@
 32E-	.	.
 32G	16g 16cc 16ee-	.
 32CJJJ	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =21	=21	=21
 *^	*^	*
 (8d-L	2BB- 2d-	(16.ffLL	2g 2b- 2dd-	.
@@ -342,7 +342,7 @@
 .	32ff	.
 16A 16c 16fJJ	32eee-	.
 .	32cccJJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =26	=26	=26
 (8An 8c 8fL	(8.cccL	>
 8B-) 8d- 8fJ	.	.
@@ -391,7 +391,7 @@
 .	32bb-	.
 .	32ccc	.
 .	32ddd-JJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =30	=30	=30
 !!LO:TX:a:B:t=Poco ritard.
 2r	32cccLLL	.
@@ -452,7 +452,7 @@
 32c	32bn 32bbn)	.
 32E 32G	(32b 32bb	.
 32cJJJ	32cc 32cccJJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =33	=33	=33
 32En 32GLLL	(32bbnLLL	p
 32c	32ccc	.
@@ -500,7 +500,7 @@
 32c	32bn 32bbn)	.
 32E 32G	32b (32bb	.
 32cJJJ	32cc 32cccJJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =35	=35	=35
 32F' 32A-'LLL	16cc' 16aa-' 16ccc'LL	sf
 32c'	.	.
@@ -548,7 +548,7 @@
 8BBJ	.	.	.	.
 *v	*v	*	*	*
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =38	=38	=38
 2r	(16.ccLL	.
 .	32bnk	.

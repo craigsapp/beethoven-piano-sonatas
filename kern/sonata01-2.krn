@@ -53,7 +53,7 @@
 .	16f#	.
 .	16g	.
 .	16g#JJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =5	=5	=5
 *^	*	*
 (4c	2F	(4aSsS	.
@@ -103,7 +103,7 @@
 16A	.	.	.
 16c	.	.	.
 16AJJ)	.	16aaJk)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =10	=10	=10	=10
 !	!	!	!LO:DY:rj
 (16ELL	2.C	(4ccc	sf
@@ -160,7 +160,7 @@
 8b-	4f	8ee 8ggL	.
 8aJ)	.	8ffJ)	.
 *v	*v	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =14	=14	=14
 4.B- 4.f	4cc (4ee	.
 .	8b- 8dd)	.
@@ -203,7 +203,7 @@
 16f> (16a>LL	.	.
 16e> 16g>	.	.
 16d> 16f>JJ)	16dd 16dddJk	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =18	=18	=18
 16r>e	(>(>4dd/ 4ddd/	.
 (>16e> 16g>LL	.	.
@@ -244,7 +244,7 @@
 (>16d> 16f>LL	.	.
 16c#> 16e>	.	.
 16d> 16f>JJ)	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =21	=21	=21
 16r>g	4ddd/)	.
 16B> (>16d>LL	.	.
@@ -292,7 +292,7 @@
 .	.	16ddd	.
 8ccJ)	.	16eee	.
 .	.	16cccJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =24	=24	=24	=24
 !	!	!LO:S:a	!
 .	.	(32bbnqLLL	.
@@ -344,7 +344,7 @@
 .	32ff	.
 .	32ee	.
 .	32ddJJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =26	=26	=26
 8G 8c 8e	(32ccnXLLL	.
 .	32dd	.
@@ -393,7 +393,7 @@
 32EE	.	.	.
 32DDJJJ)	.	.	.
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =29	=29	=29
 8CC	8E 8c	.
 *	*clefG2	*
@@ -455,7 +455,7 @@
 .	.	32b-	.
 .	.	32a	.
 .	.	32gJJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =32	=32	=32	=32
 4c	2F	4aSsS	p
 .	.	(<ccq8	.
@@ -500,7 +500,7 @@
 .	24g'	.	.
 .	24g#'JJ)	.	.
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =36	=36	=36
 *^	*	*
 !LO:TUP:r=8	!	!	!
@@ -551,7 +551,7 @@
 .	32gg	.
 24cJJ)	.	.
 .	32ffJJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =38	=38	=38
 (24B-LL	(32eeLLL	.
 .	32dd	.
@@ -620,7 +620,7 @@
 24A	.	.
 .	16aaJk)	.
 24FJJ)	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =41	=41	=41
 (24CLL	(4ccc	.
 24E	.	.
@@ -671,7 +671,7 @@
 24A	.	.
 24FJJ)	.	.
 .	32bbJJk)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =43	=43	=43
 (24CLL	(8dddL	.
 24E	.	.
@@ -714,7 +714,7 @@
 24cc	.	(24ggLL	.
 24aJJ)	.	24ffJJ)	.
 *clefF4	*	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =45	=45	=45	=45
 2f	(4.B-	4cc (4ee	.
 .	.	4b- 4dd)	.
@@ -755,7 +755,7 @@
 .	.	16g	.
 .	.	16fJJ)	.
 *clefF4	*	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =48	=48	=48	=48
 *	*	*^	*
 !	!	!	!	!LO:DY:rj
@@ -797,7 +797,7 @@
 .	.	32e-JJJ)	.	.
 *v	*v	*	*	*
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =50	=50	=50
 !	!LO:S:a	!
 8BB- 8D	(32dLLL	.
@@ -860,7 +860,7 @@
 16AAJJ)	.	16fJJ)	.	.
 *	*	*v	*v	*
 *	*	*clefG2	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =53	=53	=53	=53
 *	*	*	*^
 !	!	!	!	!LO:DY:b=2:rj
@@ -927,7 +927,7 @@
 32A	.	.	.
 32GJJJ)	.	.	.
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =56	=56	=56
 (48FLLL	16r	p
 48A	.	.
@@ -984,7 +984,7 @@
 .	32bb-	.
 .	32aa	.
 .	32ggJJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =58	=58	=58
 8f 8a	8ff	.
 8r	8r	.

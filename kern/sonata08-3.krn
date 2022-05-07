@@ -55,7 +55,7 @@
 8B	.	.
 8d	(8ffL	.
 8gJ)	8ggJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =5	=5	=5
 .	(16ffqLL	.
 .	16ggqJJ	.
@@ -113,7 +113,7 @@
 8G	.	.
 8A-	(8ccL	.
 8F#J)	8ddJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =11	=11	=11
 8GGL	4ee-'	.
 8G	.	.
@@ -166,7 +166,7 @@
 .	16ddqJJ	.
 4C' 4c')	4ee-'))	.
 4GG'\ 4G'\	4bn' 4dd' 4bbn'	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =17	=17	=17
 4CC' 4C'	4cc' 4ee-' 4ccc'	.
 4r	4r	.
@@ -206,7 +206,7 @@
 .	8gg	.
 .	8ee-	.
 .	8bb-J)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =24	=24	=24
 4r	(8aa-L	.
 .	8gg	.
@@ -264,7 +264,7 @@
 8A-	.	8c	.
 8B-J	.	8dJ)	.
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =30	=30	=30
 8G-L	(8e- 8b-]L	.
 8B-	8cc	.
@@ -312,7 +312,7 @@
 .	12bb-	.
 .	12aaJ	.
 *clefG2	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =35	=35	=35
 4B- 4d 4f	12r	.
 .	(12bb-L	.
@@ -368,7 +368,7 @@
 12dL	.	.
 12c	.	.
 12B-J	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =39	=39	=39
 4e-	12ggL	.
 .	12ee-	.
@@ -417,7 +417,7 @@
 .	8ff)	.
 4r	8ee-'	.
 .	8dd'J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =43	=43	=43
 4e- 4g	4ee-	.
 4r	4r	.
@@ -455,7 +455,7 @@
 4r	4r	4r	.
 *clefG2	*	*	*
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =51	=51	=51
 12r	4g 4ee-	p
 12e-L	.	.
@@ -509,7 +509,7 @@
 .	12dL	.
 .	12c	.
 .	12B-J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =55	=55	=55
 12GGL	4e-	.
 12EE-	.	.
@@ -570,7 +570,7 @@
 .	20e-	.
 .	20d	.
 .	20cJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =60	=60	=60
 [1GG [1D [1F	[1Bn	sf
 =61	=61	=61
@@ -619,7 +619,7 @@
 8B	.	.
 8d	(8ffL	.
 8gJ)	8ggJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =66	=66	=66
 .	(16ffqLL	.
 .	16ggqJJ	.
@@ -677,7 +677,7 @@
 8G	.	.
 8A-	(8ccL	.
 8F#J)	8ddJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =72	=72	=72
 8GGL	4ee-'	.
 8G	.	.
@@ -730,7 +730,7 @@
 .	16ddqJJ	.
 4C' 4c')	4ee-'))	.
 4GG'\ 4G'\	4bn' 4dd' 4bbn'	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =78	=78	=78
 4CC' 4C'	4cc' 4ee-' 4ccc'	.
 4r	4r	.
@@ -769,7 +769,7 @@
 .	4a-	.
 4GG	4g	.
 4AA-	4f	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =86	=86	=86
 4AAn	4e-	.
 4BB-	4dn	.
@@ -819,7 +819,7 @@
 4E-)	4ff	4a-	.
 (4e-	4ee-)	4g	.
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =95	=95	=95
 4dn	2r	.
 4e-	.	.
@@ -862,7 +862,7 @@
 8B-'	.	.
 8A-'	.	.
 8G'J	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =101	=101	=101
 8F'L>	2aa-	<
 8E-'	.	.
@@ -909,7 +909,7 @@
 .	8G	.
 .	8A-	.
 .	8GJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =106	=106	=106
 2FFF] 2FF]	8FL	>
 .	8E-X	.
@@ -965,7 +965,7 @@
 8r	4g')	.
 (16E-LL>	.	.
 16CJJ)	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =110	=110	=110
 4GG'	16r	.
 .	(16GLL	.
@@ -1026,7 +1026,7 @@
 (12GL	4g'	.
 12D	.	.
 12BBnJ)	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =114	=114	=114
 4GG'	12r	.
 .	(12bnL<	.
@@ -1087,7 +1087,7 @@
 .	20e-	.
 .	20d	.
 .	20cJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =119	=119	=119
 [1GG [1D [1F	[1Bn	sf
 =120	=120	=120
@@ -1134,7 +1134,7 @@
 8B	.	.
 8d	(8ffL	.
 8gJ)	8ggJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =125	=125	=125
 .	(16ffqLL	.
 .	16ggqJJ	.
@@ -1193,7 +1193,7 @@
 .	(8ggL	.
 (8B-XL	8ee-	.
 8cJ)	8ccJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =131	=131	=131
 (2d-	8r	.
 .	(8enL	.
@@ -1245,7 +1245,7 @@
 .	.	8bbn	.
 .	4g	8aan	.
 .	.	8bbJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =137	=137	=137	=137
 2cc	4en	(8dddL	.
 .	.	8ccc	.
@@ -1294,7 +1294,7 @@
 4a)	.	8aa	.
 .	.	8ffJ)	.
 *v	*v	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =142	=142	=142
 (4f 4dd	(8eenL	.
 .	8dd	.
@@ -1351,7 +1351,7 @@
 .	12cc	.
 .	12bJ	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =146	=146	=146
 4G 4Bni 4dn 4f	12ffL	.
 .	12een	.
@@ -1404,7 +1404,7 @@
 4r	12ggL	.
 .	12ff	.
 .	12eeJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =150	=150	=150
 4En 4G 4B-X 4c	(12bb-XL	.
 .	12aan	.
@@ -1451,7 +1451,7 @@
 4f' 4g'	4b' 4dd'	.
 4f' 4g'	4b' 4dd'	.
 4f') 4g'	4b' 4dd')	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =155	=155	=155
 2.en 2.g	2.cc 2.gg	.
 4e 4g	4cc 4gg	.
@@ -1488,7 +1488,7 @@
 .	.	[2e-)	.
 4G	4b-	.	.
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =162	=162	=162
 4c	4e-] 4an	.
 (4c' 4e-'	(4f# 4a	.
@@ -1528,7 +1528,7 @@
 .	.	(4a#	.
 .	.	4bn	.
 .	.	4dd)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =169	=169	=169	=169
 1r	1ff#	4r	.
 .	.	4a#	.
@@ -1572,7 +1572,7 @@
 8A- 8c	4gg'	.
 8gJ	.	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =174	=174	=174
 (8GL	2.gg	.
 8Bn	.	.
@@ -1622,7 +1622,7 @@
 .	8een	.
 .	8ff	.
 .	8ggJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =179	=179	=179
 8FFL	(8aa-L	<
 8AA-	8gg	.
@@ -1678,7 +1678,7 @@
 .	12ddd	.
 8cJ)	.	.
 .	12cccJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =184	=184	=184
 (8A-L	4fff'z	.
 8c	.	.
@@ -1736,7 +1736,7 @@
 .	12d	.
 8CJ)	.	.
 .	12cJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =189	=189	=189
 4AA-	12f'L	p
 .	12c	.
@@ -1789,7 +1789,7 @@
 4GG' 4BBn' 4D' 4G'	12dL	.
 .	12c	.
 .	12BJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =193	=193	=193
 4CC 4C	4c 4cc	f
 2.E-z 2.Gz 2.cz	4r	.
@@ -1835,7 +1835,7 @@
 2F 2A- 2d-	4r	.
 .	[2fff	ff
 4F' 4A-' 4d-'	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =199	=199	=199
 [1Gz [1B-z [1d-z [1e-z	2.fff]	.
 .	12eee-L	.
@@ -1881,7 +1881,7 @@
 2r	4r	.
 .	(8a-L	.
 .	8b-J)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =205	=205	=205
 *^	*	*
 (2e-	[1A-	(4.cc	.

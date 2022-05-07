@@ -56,7 +56,7 @@
 8A 8c	(8.f#L	.
 8dJ	.	.
 .	16gJk)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =6	=6	=6
 8G 8BL	2g	.
 8d	.	.
@@ -105,7 +105,7 @@
 4r	4r	(8.ggL	.
 .	.	16ff#Jk)	.
 *v	*v	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =13	=13	=13
 8A 8cL	2ff#	.
 8d	.	.
@@ -153,7 +153,7 @@
 8G 8B	(8.ggL	.
 8dJ	.	.
 .	16bbJk)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =19	=19	=19
 4r	4ddd'	.
 4D 4c	(16dddLL	f
@@ -198,7 +198,7 @@
 8e	4cc 4dd	.
 8f#J	.	.
 *clefG2	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =24	=24	=24
 8gL	4b 4dd	.
 8d	.	.
@@ -250,7 +250,7 @@
 16c#	.	.
 16e	(16aaL	.
 16c#JJ	16ggJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =29	=29	=29
 16ALL	8ff#'L	.
 16d	.	.
@@ -303,7 +303,7 @@
 16c#	.	.
 16e	(16aaL	.
 16c#JJ	16ggJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =33	=33	=33
 16ALL	8ff#'L	.
 16d	.	.
@@ -354,7 +354,7 @@
 .	(8ff#L	.
 .	8ddJ)	.
 *clefG2	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =38	=38	=38
 4r	(2dd	.
 4A 4f#	.	.
@@ -393,7 +393,7 @@
 .	16ddk	.
 4d 4f#	8.ccn	.
 .	16ddJk)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =43	=43	=43
 4d 4g	(8.bL	.
 .	16ddJk	.
@@ -439,7 +439,7 @@
 8A 8c	(8.f#L	.
 8dJ	.	.
 .	16gJk)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =49	=49	=49
 8G 8BL	2g	.
 8d	.	.
@@ -485,7 +485,7 @@
 .	8cc#L	.
 4D 4c	8ccn	.
 .	8aJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =55	=55	=55
 4G 4B	4g	.
 4GG	4r	.
@@ -528,7 +528,7 @@
 8A 8c	(8.ff#L	.
 8dJ	.	.
 .	16ggJk)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =61	=61	=61
 8G 8BL	2gg	.
 8d	.	.
@@ -578,7 +578,7 @@
 .	16cccn	.
 .	16bb	.
 .	16aaJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =67	=67	=67
 4G 4B	4gg	.
 4GG	4r	.
@@ -629,7 +629,7 @@
 .	(8eeL	.
 4r	8dd	.
 .	8eeJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =74	=74	=74
 4r	(8ffL	.
 .	8gg	.
@@ -673,7 +673,7 @@
 4r	(8ccL	p
 .	8b	.
 8r	8ccJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =80	=80	=80
 4r	(8ddL	.
 .	8bJ)	.
@@ -716,7 +716,7 @@
 .	8a	.
 .	8g	.
 .	8f#J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =86||	=86||	=86||
 *k[f#]	*k[f#]	*
 4r	8eL	pp
@@ -764,7 +764,7 @@
 8G 8B	(8.gL	.
 8dJ	.	.
 .	16f#Jk)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =92	=92	=92
 8A 8cL	2f#	.
 8d	.	.
@@ -806,7 +806,7 @@
 4r	8.bL	.
 .	16bJk	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =98	=98	=98
 4r	(8bL	.
 .	8a	.
@@ -854,7 +854,7 @@
 8G 8B	(8.ggL	.
 8dJ	.	.
 .	16ff#Jk)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =104	=104	=104
 8A 8cL	2ff#	.
 8d	.	.
@@ -902,7 +902,7 @@
 8c	(8.eeL	.
 8eJ	.	.
 .	16ddJk)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =110	=110	=110
 8G#L	4dd	.
 8e	.	.
@@ -957,7 +957,7 @@
 *clefG2	*	*
 8g 8b	16bb	.
 .	16ggJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =116	=116	=116
 8a 8ccL>	8ff#	.
 8dd	4ddd	f
