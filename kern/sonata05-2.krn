@@ -10,7 +10,7 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
 *A-:	*A-:	*A-:
 *M2/4	*M2/4	*M2/4
@@ -1192,7 +1192,7 @@ N[4.AA-/	(8AA-L	.	.
 8r	8r	.
 8AAA-	8C< 8E-<	pp
 8r	8r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =112	=112	=112
 2AAA-;< 2AA-;<	2C<;	.
 ==	==	==

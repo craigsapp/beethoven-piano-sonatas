@@ -94,7 +94,7 @@
 .	16fJk)	.
 .	4f	.
 4r	4r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =12	=12	=12
 !	!LO:TX:a:B:t=Ritard.	!
@@ -103,7 +103,7 @@
 4AAA-') 4AA-'	4C' 4E-' 4F')	.
 =13	=13	=13
 2.AAAn 2.AAn	2.C 2.E- 2.G-	.
-*clefG2	*clefG2	*clefG2
+*clefG2	*clefG2	*
 =14	=14	=14
 (4an'	4cc' 4ee-' (4gg-'	<
 4a'	4cc' 4ee-' 4gg-'	.
@@ -932,7 +932,7 @@
 *v	*v	*	*
 =108	=108	=108
 8C 8En 8G	8c 8cc	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 8r	8En 8GL	p
 4r	8E 8G	.
 .	8E 8G	.
@@ -989,7 +989,7 @@
 (16BBLL	8F 8G	.
 16DD-JJ)	.	.
 8r	8F 8GJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 !!LO:LB:g=original
 =114	=114	=114
 4CC 4C	16r	f
@@ -1292,7 +1292,7 @@
 .	16fJk)	.
 .	4f	.
 4r	4r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =148	=148	=148
 !	!LO:TX:B:a:t=Ritard.	!
 (4AAA-' 4AA-'	4C' 4E-' (4F'	.
@@ -1300,7 +1300,7 @@
 4AAA-') 4AA-'	4C' 4E-' 4F')	.
 =149	=149	=149
 2.AAAn 2.AAn	2.C 2.E- 2.G-	.
-*clefG2	*clefG2	*clefG2
+*clefG2	*clefG2	*
 =150	=150	=150
 (4an'	4cc' 4ee-' (4gg-'	<
 4a'	4cc' 4ee-' 4gg-'	.
@@ -2140,7 +2140,7 @@
 .	16fJk)	.
 .	4f	.
 4r	4r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =239	=239	=239
 !	!LO:TX:a:B:t=Ritard.	!
@@ -2149,7 +2149,7 @@
 4AAA-' 4AA-')	4C 4E- 4F)	.
 =240	=240	=240
 2.AAAn 2.AAn	2.C 2.E- 2.G-	.
-*clefG2	*clefG2	*clefG2
+*clefG2	*clefG2	*
 =241	=241	=241
 4an 4cc	(4ee-' 4gg-'	.
 4a' 4cc'	4ee-' 4gg-'	.

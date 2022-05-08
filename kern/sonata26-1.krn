@@ -14,7 +14,7 @@
 *>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]
 *>I	*>I	*>I
 *Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
 *E-:	*E-:	*E-:
 *M2/4	*M2/4	*M2/4
@@ -488,7 +488,7 @@
 4D) 4F	.	4f)	8f	.
 .	.	.	8B-J	.
 *	*	*v	*v	*
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 =57	=57	=57	=57
 *	*	*^	*
 (<4D	1FF	(4f	8B-L	.
@@ -558,7 +558,7 @@
 .	4.d	.
 8E-	.	.
 4.D	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 .	8c	.
 .	[4B-	.
 8C	.	.
@@ -585,7 +585,7 @@
 1f 1a-	4BB-]	p
 .	4r	.
 .	2r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =67	=67	=67
 1e- 1g	1r	.
 =68	=68	=68
@@ -1270,7 +1270,7 @@
 .	4.B-	.
 8C	.	.
 4.BB-	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 .	8A-	.
 .	[4G	.
 8AA-	.	.
@@ -1291,7 +1291,7 @@
 .	2r	.
 =161	=161	=161
 1a- 1cc	1r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =162	=162	=162
 1g 1b-	1ee- 1bb-	<
 =163	=163	=163
@@ -1840,7 +1840,7 @@
 4E- (4G	4r	.
 4BB- 4F	2r	.
 4GG\ 4E-\)	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =241	=241	=241
 4r	2.F (2.B-	.
 (4BB- 4D	.	.
@@ -1867,7 +1867,7 @@
 .	2r	.
 =246	=246	=246
 1DD 1EE-	1r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 !!LO:LB:g=original
 =247	=247	=247
 1CC 1EE-	(8e-L	.
@@ -1937,7 +1937,7 @@
 *	*X8va	*
 .	4r	.
 .	2r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =256	=256	=256
 4BBB- 4DD 4FF 4BB-	4F 4A- 4B- 4d	f
 4r	4r	.

@@ -8,7 +8,7 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
 *f#:	*f#:	*f#:
 *M6/8	*M6/8	*M6/8
@@ -501,7 +501,7 @@
 16B/	.	.	.
 16G#/	.	8r	.
 16A/	.	.	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 16F#/	.	[8DD/	.
 16B/JJ	.	.	.
 16G#/LL	4D\]	4DD/]	.
@@ -529,7 +529,7 @@
 16B/	.	.	.
 16G#/	.	8r	.
 16A/	.	.	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 16F#/	.	[8dd\ [8ddd\	.
 16B/JJ	.	.	.
 16G#/LL	4D\]	4dd\] 4ddd\]	.
@@ -559,7 +559,7 @@
 24G#/LL	.	8r	.
 24B/	.	.	.
 24A/JJ	.	.	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 24F#/LL	.	[8DD/	.
 24B/	.	.	.
 24A/JJ)	.	.	.
@@ -598,7 +598,7 @@
 24G#/LL	.	8r	.
 24B/	.	.	.
 24A/JJ	.	.	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 24F#/LL	.	[8dd\ [8ddd\	.
 24B/	.	.	.
 24A/JJ	.	.	.
@@ -891,13 +891,13 @@
 16a-\	.	.	.
 16dd\	.	.	.
 *	*v	*v	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 *	*^	*
 16ff\	8r	16A-\LL	.
 16aa-\JJ	.	16F\JJ	.
 4.dd\ 4.ff\ 4.aa-\ 4.bb-\)	4.r	16D/LL	.
 .	.	16F/	.
-*	*clefG2	*clefG2	*clefG2
+*	*clefG2	*clefG2	*
 .	.	16B-/	.
 .	.	16d/	.
 .	.	16f/	.
@@ -1042,7 +1042,7 @@
 16CC#/	.	.
 16r	.	.
 16CC#/	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 8CC#/	8E#\ 8G#\ [8B\ ([8d\	pp
 =87	=87	=87
 *	*^	*
@@ -1902,7 +1902,7 @@
 16d#/	.	.	.
 16B#/	.	8r	.
 16c#/	.	.	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 16A#/	.	[8FF#/	.
 16d#/JJ	.	.	.
 16B#/LL	4F#\]	4FF#/]	.
@@ -1930,7 +1930,7 @@
 16d#/	.	.	.
 16B#/	.	8r	.
 16c#/	.	.	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 16A#/	.	[8ff#\ [8fff#\	.
 16d#/JJ	.	.	.
 16B#/LL	4F#\]	4ff#\] 4fff#\]	.
@@ -1959,7 +1959,7 @@
 24B#/L	.	8r	.
 24d#/	.	.	.
 24c#/J	.	.	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 24A#/L	.	[8FF#/	.
 24d#/	.	.	.
 24c#/JJ)	.	.	.
@@ -1999,7 +1999,7 @@
 24B#/L	.	8r	.
 24d#/	.	.	.
 24c#/J	.	.	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 24A#/L	.	[8ff#\ [8fff#\	.
 24d#/	.	.	.
 24c#/JJ)	.	.	.
@@ -2272,7 +2272,7 @@
 24c#/L	.	8r	.
 24e/	.	.	.
 24d/J	.	.	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 24B/L	.	[8GG/	.
 24e/	.	.	.
 24d/JJ	.	.	.
@@ -2312,7 +2312,7 @@
 24c#/L	.	8r	.
 24e/	.	.	.
 24d/J	.	.	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 24B/L	.	[8gg\ [8ggg\	.
 24e/	.	.	.
 24d/JJ	.	.	.

@@ -11,7 +11,7 @@
 *>[A,A,B]	*>[A,A,B]	*>[A,A,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[f#]	*k[f#]	*k[f#]
 *G:	*G:	*G:
 *M2/4	*M2/4	*M2/4
@@ -1384,7 +1384,7 @@
 24dLL	8r	.
 24f#	.	.
 24aJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 24dLL	16r	.
 24f#	.	.
 .	(16gg#LL	.
@@ -1401,7 +1401,7 @@
 24dLL	8r	.
 24a	.	.
 24ccJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 24dLL	16r	.
 24a	.	<
 .	(16BLL	.
@@ -1417,7 +1417,7 @@
 24dLL	8r	.
 24a	.	.
 24ccJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 24dLL	16r	.
 24a	.	.
 .	(16bbLL	.
@@ -1429,7 +1429,7 @@
 =119	=119	=119
 24dLL	16aa')	.
 24a	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 .	(16BLL	.
 24ccJJ	.	.
 24dLL	16c	.
@@ -1438,7 +1438,7 @@
 24ccJJ	.	.
 24dLL	16A')	.
 24a	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 .	(16bbLL	.
 24ccJJ	.	.
 24dLL	16ccc	.
@@ -1448,7 +1448,7 @@
 =120	=120	=120
 24dLL	16aa')	.
 24a	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 .	(16BLL	.
 24ccJJ	.	.
 24dLL	16c	.
@@ -1457,7 +1457,7 @@
 24ccJJ	.	.
 24dLL	16A')	.
 24a	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 .	(16bbLL	.
 24ccJJ	.	.
 24dLL	16ccc	.
@@ -2021,7 +2021,7 @@
 .	32B	.
 .	32A	.
 .	32GJJJ)	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =173	=173	=173
 *^	*	*
 (4D	2DD	4G (4B	rfz
@@ -2157,7 +2157,7 @@
 !	!LO:N:vis=8	!	!
 16GGLL	[[16GG	.	.
 [<16BBJJ	16BB	.	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4D	4GG]] 4BB]	16r	.
 .	.	(16dLL	.
 .	.	16dd	.

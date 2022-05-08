@@ -9,7 +9,7 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefF4	*clefF4
+*clefF4	*clefF4	*
 *k[b-]	*k[b-]	*k[b-]
 *F:	*F:	*F:
 *M3/4	*M3/4	*M3/4
@@ -45,7 +45,7 @@
 =4	=4	=4	=4
 4a	4f	4ff)	.
 4r	4r	4r	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 4r	4r	(8.CL>	.
 .	.	16EJk)	.
 *v	*v	*	*
@@ -79,7 +79,7 @@
 =8	=8	=8	=8
 4a	4f	4ff)	.
 4r	4r	4r	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 4r	4r	(8.FL	.
 .	.	16AJk	.
 *clefF4	*clefF4	*	*
@@ -93,7 +93,7 @@
 .	.	16AJk	.
 8AA] 8C	.	8F)	]
 8r	8r	8r	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4r	4r	(>8.fL	.
 .	.	16aJk	.
 !!LO:LB:g=original
@@ -153,7 +153,7 @@
 .	.	16AJk)	.
 8AA] 8C	.	8F	.
 8r	8r	8r	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4r	4r	(8.fLSSs	.
 .	.	16aJk)	.
 =19	=19	=19	=19
@@ -656,7 +656,7 @@
 12BBB-L	4r	.
 12DD	.	.
 12CCJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 12BBB-L	(8.CL>	.
 12AAA	.	.
 12GGGJ)	.	.
@@ -689,7 +689,7 @@
 =73	=73	=73	=73
 4a	4f	4ff)	.
 4r	4r	4r	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 .	.	(8Dq	.
 4r	4r	(16CLL)	.
 .	.	16BBn	.
@@ -1022,7 +1022,7 @@
 (12BBB-L	4r	p
 12EE	.	.
 12GGJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 !	!	!LO:DY:b:rj
 12BB-L	12C 12E 12G 12cL	p
 12GG	12C 12E 12G 12c	.
@@ -1040,7 +1040,7 @@
 8BBB-) 8FF]	.	8D)	.
 8r	.	8rD	.
 *	*v	*v	*
-*	*clefG2	*clefG2
+*	*clefG2	*
 *	*^	*
 4r	4ryy	(8.cL	.
 .	.	16eJk)	.
@@ -1066,7 +1066,7 @@
 =109	=109	=109	=109
 4a	4f	4ff)	.
 4r	4r	4r	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 .	.	(8Dq	.
 4r	4r	(16CLL)	.
 .	.	16BBn	.
@@ -1134,7 +1134,7 @@
 16C	.	.
 16AA	.	.
 16CJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 8FF	(8.FLsSSs	.
 8r	.	.
 .	16AJk)	.
@@ -1251,7 +1251,7 @@
 .	.	.	40B-	.
 .	.	.	40cJJJ)	.
 *	*	*v	*v	*
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 =122	=122	=122	=122
 4FF	(>2.FF	(16c#LL	.
 .	.	16d)	.

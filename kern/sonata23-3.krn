@@ -13,7 +13,7 @@
 *>[A,B,B1,B,B2,D,D1,D,D2,E,E1,E,E2,F]	*>[A,B,B1,B,B2,D,D1,D,D2,E,E1,E,E2,F]	*>[A,B,B1,B,B2,D,D1,D,D2,E,E1,E,E2,F]
 *>norep[A,B,B2,D,D2,E,E2,F]	*>norep[A,B,B2,D,D2,E,E2,F]	*>norep[A,B,B2,D,D2,E,E2,F]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
 *f:	*f:	*f:
 *M2/4	*M2/4	*M2/4
@@ -88,7 +88,7 @@
 .	16d-	.
 .	16c	.
 .	16BnJJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =12	=12	=12
 2r	16B-XLL	.
 .	16c	.
@@ -1079,7 +1079,7 @@
 .	16e-	.
 .	16c	.
 .	16AnJJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =115	=115	=115
 4r	16G-LL	.
@@ -1109,7 +1109,7 @@
 16CC	.	.
 *Xped	*	*
 16EE-JJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =118!|:	=118!|:	=118!|:
 *>B	*>B	*>B
 4FFF	16r	.
@@ -1584,7 +1584,7 @@
 16F	16f	.
 16E-	16e-	.
 16D-JJ	16d-JJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =166	=166	=166
 16CLL	16cLL	.
 16BB-	16B-	.
@@ -1689,7 +1689,7 @@
 16BB-LL	.	.
 16D-	8r	.
 16G-JJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =177	=177	=177
 8B-	16r	.
 .	16d-LL	.
@@ -1710,14 +1710,14 @@
 .	8r	.
 =179	=179	=179
 2r	2r	.
-*clefF4	*clefF4	*clefF4
+*clefF4	*clefF4	*
 =180	=180	=180
 *ped	*	*
 8CC 8GGn 8BB- 8C	16r	.
 .	16EnLL	ff
 8r	16Gn	.
 .	16B-JJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16r	8en	.
 16CLL	.	.
 16G	8r	.
@@ -1876,7 +1876,7 @@
 =210	=210	=210
 2CC_	4.gg 4.bb- 4.ccc 4.eeen	.
 .	8r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =211	=211	=211
 4CC]	4.GG 4.BB- 4.C 4.En	.
 8.CCL	.	.
@@ -1969,7 +1969,7 @@
 16A-JJ	.	.
 16cLL	8r	.
 16d-	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16c	(8en	<
 16B-JJ	.	.
 =221	=221	=221
@@ -2638,7 +2638,7 @@
 16G	16e-	.
 16F	16d-	.
 16E-JJ	16cJJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =290	=290	=290
 16D-LL	16B-LL	.
@@ -2661,7 +2661,7 @@
 16GGGJJ	.	.
 =292	=292	=292
 8FFF 8AAA- 8CC 8FF	16C 16F 16A- 16c	f
-*	*clefG2	*clefG2
+*	*clefG2	*
 .	16ccLL	.
 8r	16ff	.
 .	16aa-JJ	.
@@ -2811,7 +2811,7 @@
 16EE-	.	.
 16CC	.	.
 16AAAJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =308:|!	=308:|!	=308:|!
 *>B2	*>B2	*>B2
 4FF	16c 16f 16a- 16ccLL	.
@@ -3292,7 +3292,7 @@
 16AAA-	16f	.
 16CC	16c	.
 16FFJJ	16A-JJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =367	=367	=367
 16FFFLL	16fLL	.
 16AAA-	16c	.
@@ -3315,7 +3315,7 @@
 8FFF 8AAA- 8CC 8FF	8AA-\ 8C\ 8F\	.
 8r	8r	.
 4r	4r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =370	=370	=370
 8FFF 8AAA- 8CC 8FF	8f 8a- 8cc 8ff	.
 8r	8r	.

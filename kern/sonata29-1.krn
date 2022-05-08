@@ -12,7 +12,7 @@
 *>[A,A,B]	*>[A,A,B]	*>[A,A,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[b-e-]	*k[b-e-]	*k[b-e-]
 *B-:	*B-:	*B-:
 *M2/2	*M2/2	*M2/2
@@ -1227,7 +1227,7 @@
 2r	2r	.
 4r	4r	.
 8r	8r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 8G\	(8E-\	ff
 =142	=142	=142
 4.g\	4.e-\)	.
@@ -1303,7 +1303,7 @@
 .	.	8F\J	.
 4AAn/)	.	4E-\	.
 8F/L	4C\	8r	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 8E-/J	.	8f/	.
 =153	=153	=153	=153
 *	*	*^	*
@@ -3464,12 +3464,12 @@
 8FFF/	.	.	.
 8GGG-/	.	4d'/ 4f'/	.
 8FFF/J	.	.	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 8GG-/L	2BBB-\	4F'\ 4B-'\	f
 8FF/	.	.	.
 8GG-/	.	4D'\ 4F'\	.
 8FF/J	.	.	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 !!LO:LB:g=original
 =403	=403	=403	=403
 8GG-/L	1BBB-	1A 1e-	p
@@ -3510,7 +3510,7 @@
 8BBB-/	.	.
 8AAA/	4F'/ 4B-'/ 4d'/	.
 8BBB-/J	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =407	=407	=407
 8GGG-/L	4r	.
@@ -3539,7 +3539,7 @@
 8BBB-/	.	.
 8FF/ 8BB-/	.	.
 8BBB-/J	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =410	=410	=410
 8FF/ 8BB-/L	2r	.
 8BBB-/	.	.

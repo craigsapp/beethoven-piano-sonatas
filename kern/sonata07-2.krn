@@ -8,7 +8,7 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[b-]	*k[b-]	*k[b-]
 *d:	*d:	*d:
 *M6/8	*M6/8	*M6/8
@@ -1291,7 +1291,7 @@
 =84	=84	=84
 *^	*	*
 4D	4.DD	4r	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 8BB-' (8D'	.	8G' (8d'	pp <
 4AA' 4D'	4.DD	4F' 4d'	[[
 .	.	.	[[ >
@@ -1304,7 +1304,7 @@
 *v	*v	*	*
 =86	=86	=86
 4DD 4FF 4AA 4D	4F 4A 4d	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 8r	(8cc#	pp
 4r	8dd)	.
 .	8r	.

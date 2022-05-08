@@ -13,7 +13,7 @@
 *>[A,A1,A,A2,B,B1,B,B2,C,C1,C,C2,D,D1,D,D2,E,E1,E,E2,F,F1,F,F2,G,G1,G,G2,H,H1,H,H2,I]	*>[A,A1,A,A2,B,B1,B,B2,C,C1,C,C2,D,D1,D,D2,E,E1,E,E2,F,F1,F,F2,G,G1,G,G2,H,H1,H,H2,I]	*>[A,A1,A,A2,B,B1,B,B2,C,C1,C,C2,D,D1,D,D2,E,E1,E,E2,F,F1,F,F2,G,G1,G,G2,H,H1,H,H2,I]
 *>norep[A,A2,B,B2,C,C2,D,D2,E,E2,F,F2,G,G2,H,H2,I]	*>norep[A,A2,B,B2,C,C2,D,D2,E,E2,F,F2,G,G2,H,H2,I]	*>norep[A,A2,B,B2,C,C2,D,D2,E,E2,F,F2,G,G2,H,H2,I]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[]	*k[]	*k[]
 *C:	*C:	*C:
 *M9/16	*M9/16	*M9/16
@@ -1076,7 +1076,7 @@
 (48GG\	48B/ 48e/	32r	.
 96FF\JJJk	96A/ 96d/JJJk	.	.
 *	*v	*v	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 *	*^	*
 48EE\LLL	16c/	48G\LLL	.
 96FF\k	.	96A\k	.
@@ -1232,7 +1232,7 @@
 48GG/LLL	16r	.
 48CC/	.	.
 48GG/	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 48CC/	[16B-/ (16d-/ [16e/ [16g/LL	.
 48GG/	.	.
 48CC/	.	.
@@ -1253,7 +1253,7 @@
 48AA/LLL	16r	.
 48CC/	.	.
 48AA/	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 48CC/	[16F\ [16c\ [16f\LL	.
 48AA/	.	.
 48CC/	.	.
@@ -1297,7 +1297,7 @@
 48BB/	16D\ 16F\] 16G\JJ]	.
 48CC/	.	.
 48BB/JJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 !!LO:LB:g=original
 =81	=81	=81
 48BB\LLL	48G/LLL	<
@@ -1561,7 +1561,7 @@
 48EE/LLL	16r	.
 48E/	.	.
 48EE/	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 48E/	(16B\ [16c\LL	pp
 48EE/	.	.
 48E/	.	.
@@ -1751,7 +1751,7 @@
 48GGG/LLL	16r	.
 48GG/	.	.
 48GGG/	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 48GG/	(16c/ 16d/ [16g/LL	.
 48GGG/	.	.
 48GG/	.	.
@@ -1760,7 +1760,7 @@
 48GGG/JJJ	.	.
 !!LO:LB:g=original
 =97	=97	=97
-*	*clefF4	*clefF4
+*	*clefF4	*
 48GG/LLL	16r	.
 48GGG/	.	.
 48GG/	.	.
@@ -1782,7 +1782,7 @@
 48GG#/LLL	16r	.
 48BBB/	.	.
 48GG#/	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 48BBB/	(16dd/ 16ee/LL	.
 48GG#/	.	.
 48BBB/	.	.
@@ -2185,7 +2185,7 @@
 48GG\	.	.
 48F\	.	.
 48G\	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 48GG\	48GGG/LLL	.
 48AA\	48AAA/	.
 48BB\JJJ	48BBB/JJJ	.
@@ -2196,7 +2196,7 @@
 48C\LLL	16r	.
 48E\	.	.
 48G\JJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16r	48c/LLL	.
 .	48e/	.
 .	48g/JJJ	.
@@ -2221,14 +2221,14 @@
 48AAA/LLL	16r	.
 48CC/	.	.
 48EE/JJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16r	48AA/LLL	.
 .	48C/	.
 .	48E/JJJ	.
 48A\LLL	16r	.
 48c\	.	.
 48e\JJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 8.r	48a\LLL	.
 .	48cc\	.
 .	48ee\	.
@@ -2429,7 +2429,7 @@
 .	16A-/ 16B-/JJ	.	.
 *clefF4	*	*	*
 *	*v	*v	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =136	=136	=136
 *	*^	*
@@ -2471,7 +2471,7 @@
 48AA-/	.	.	.
 48AAA-/JJJ	.	.	.
 *	*v	*v	*
-*	*clefG2	*clefG2
+*	*clefG2	*
 !!LO:LB:g=original
 =139	=139	=139
 *	*^	*
@@ -3753,7 +3753,7 @@
 =186	=186	=186
 16r	8cc\ 8ee\ 8ccc\	pp
 (16GGG/ 16GG/LL	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16CC/) 16C/JJ	16r	.
 8CC/ 8C/	8E\ 8G\ 8c\	.
 16r	16r	.

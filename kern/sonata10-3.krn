@@ -8,7 +8,7 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[f#]	*k[f#]	*k[f#]
 *G:	*G:	*G:
 *M3/8	*M3/8	*M3/8
@@ -684,7 +684,7 @@
 16C	.	.
 16D	8r	.
 16EJJ)	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =97	=97	=97
 *^	*	*
 (4Fn	4.GG	16r	.
@@ -709,7 +709,7 @@
 .	.	16B	.
 8E-)	.	16c	rfz
 .	.	16F#JJ)	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 =100	=100	=100	=100
 4D	[4.GG	(16GLL	.
 .	.	16B	.
@@ -1577,7 +1577,7 @@
 24GLL	8dd'J	.
 24B	.	.
 24dJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =218	=218	=218
 24GLL	4.GG	.
 24B	.	.
@@ -1620,7 +1620,7 @@
 24GLL	8ddJ)	.
 24B	.	.
 24dJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =222	=222	=222
 24ALL	8FF#'	.
 24c	.	.
@@ -1631,7 +1631,7 @@
 24ALL	8DJ)	.
 24c	.	.
 24dJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =223	=223	=223
 24GLL	8g'	.
 24B	.	.
@@ -1642,7 +1642,7 @@
 24GLL	8ddJ)	.
 24B	.	.
 24dJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =224	=224	=224
 24ALL	8FF#'	.
 24c	.	.
@@ -1675,7 +1675,7 @@
 .	16B	.
 8FF#' 8F#'J	16A	.
 .	16cJJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =228	=228	=228
 8GG' 8G'	16BLL	.
 .	16c#	.

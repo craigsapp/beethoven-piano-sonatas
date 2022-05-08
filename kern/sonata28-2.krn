@@ -7,7 +7,7 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *>[I,A,A1,A,A2,B,B1,B,B2,Bx,C,A,A2,B,B2]	*>[I,A,A1,A,A2,B,B1,B,B2,Bx,C,A,A2,B,B2]	*>[I,A,A1,A,A2,B,B1,B,B2,Bx,C,A,A2,B,B2]
 *>norep[I,A,A2,B,B2,Bx,C,A,A2,B,B2]	*>norep[I,A,A2,B,B2,Bx,C,A,A2,B,B2]	*>norep[I,A,A2,B,B2,Bx,C,A,A2,B,B2]
 *>I	*>I	*>I

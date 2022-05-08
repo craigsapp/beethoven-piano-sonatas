@@ -12,7 +12,7 @@
 *>[A,B,B1,B,B2,C]	*>[A,B,B1,B,B2,C]	*>[A,B,B1,B,B2,C]
 *>norep[A,B,B2,C]	*>norep[A,B,B2,C]	*>norep[A,B,B2,C]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
 *kcancel	*kcancel	*
 *c:	*c:	*c:
@@ -187,7 +187,7 @@
 8FF 8AA-L	4r	.
 !	!	!LO:DY:b=2
 8FF 8GG	.	sfp
-*	*clefF4	*clefF4
+*	*clefF4	*
 *	*^	*
 8FF 8GG	(4G	8rBB	.
 8EE- 8GGJ	.	8C	p
@@ -270,10 +270,10 @@
 16AAA-	.	.
 16GGG	.	.
 16AAA-JJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =18	=18	=18
 16GGGLL	16G 16B 16d 16gLL	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16AAA-	16AA-	.
 16GGG	16GG	.
 16AAA-JJ	16AA-JJ	.
@@ -387,7 +387,7 @@
 16AA	16A	.
 16GG	16G	.
 16DJJ	16dJJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16CLL	16cLL	sf
 16BB	16Bn	.
 16Fn	16fn	.
@@ -756,7 +756,7 @@
 16A-	.	.
 16D- 16F	.	.
 16A-JJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16D- 16FLL	2DD-	sf
 16A-	.	.
 16D- 16F	.	.
@@ -777,7 +777,7 @@
 16c-	.	.
 16D 16F 16A-	.	.
 16c-JJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 *	*8va	*
 16D 16F 16A-LL	2cccc-	sf
 *	*X8va	*
@@ -1117,14 +1117,14 @@
 *clefF4	*	*
 4AAA-' 4AA-'	4r	.
 4r	4A-' 4a-'	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 8r	8r	.
 (24GGGLL	(24GGLL	.
 24AAA	24AA	.
 24BBBJJ)	24BBJJ)	.
 =70:|!	=70:|!	=70:|!
 *>B2	*>B2	*>B2
-*clefG2	*clefG2	*clefG2
+*clefG2	*clefG2	*
 *	*8va	*
 4a-	4aa- 4aaa-	ff
 *	*X8va	*
@@ -1792,7 +1792,7 @@
 16C	.	.
 16EE- 16GG	.	.
 16CJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16EE 16GG 16BB-LL	2CC	sf
 16C	.	.
 16EE 16GG 16BB-	.	.
@@ -1811,7 +1811,7 @@
 16C	.	.
 16FF 16AA-	.	.
 16CJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16FF# 16AAn 16CLL	2ccc	sf
 16E-	.	.
 16FF# 16AA 16C	.	.

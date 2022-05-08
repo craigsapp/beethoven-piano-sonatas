@@ -13,7 +13,7 @@
 *Ipiano	*Ipiano	*Ipiano
 *>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]
 *>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[]	*k[]	*k[]
 *C:	*C:	*C:
 *M4/4	*M4/4	*M4/4
@@ -2471,7 +2471,7 @@ ccq8	cccq8	.
 .	8AA-y	.	.
 .	8CC	.	.
 .	8EE-J	.	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 *v	*v	*	*
 !!LO:LB:g=original
 =223	=223	=223

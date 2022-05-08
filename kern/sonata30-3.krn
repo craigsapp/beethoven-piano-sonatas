@@ -67,7 +67,7 @@
 2E/	4CC#\ 4C#\	4.e^/	.
 .	4CCn\) 4Cn\	.	.
 .	.	8A#/)	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 =8	=8	=8	=8
 *	*	*^	*
 (4EE/	2CC#\	(2A#/	4Gn\	p
@@ -1404,7 +1404,7 @@ B32q/JJJ	.	.
 16BBB/J	16bb\J)	.
 8EE/J)	8gg#\J	.
 8r	8r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =120	=120	=120
 *>Var5	*>Var5	*>Var5
@@ -1445,7 +1445,7 @@ B32q/JJJ	.	.
 2r	4EE\	4B/	2G#\	.
 .	4BBB\	4e/	.	.
 *	*	*v	*v	*
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 !!LO:LB:g=original
 =126	=126	=126	=126
 4G#/	4BBB#\	(2.e/	.
@@ -1458,7 +1458,7 @@ B32q/JJJ	.	.
 4EE/	.	4g/ 4b-/	.
 4FF#/	4BBB\	4d#/ 4bn/)	.
 *v	*v	*	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 =128	=128	=128
 8r	2G#\	f
 8BBB'/L	.	.
@@ -1479,7 +1479,7 @@ B32q/JJJ	.	.
 8AA'/	.	4BB\	.
 8FF#'/J	.	.	.
 *	*v	*v	*
-*	*clefG2	*clefG2
+*	*clefG2	*
 =130	=130	=130
 *	*^	*
 8BB'\L	8r	2g#\	.
@@ -2567,14 +2567,14 @@ DD#q/JJ)	.	.
 4E/	4CC#\ 4C#\	4.e/	<
 4E/	4CCn\) 4Cn\	.	.
 .	.	8A#/	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 =203	=203	=203	=203
 *	*	*^	*
 (4EE/	2CCn\	(2A#/	4Gn\	p
 4GGn/	.	.	4E\	.
 4BB/)	4BBB\	4B/)	4D#\	.
 *	*	*v	*v	*
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 =204	=204	=204	=204
 *	*	*^	*
 4B/	4r	(4b/	4r	.

@@ -8,7 +8,7 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[f#]	*k[f#]	*k[f#]
 *e:	*e:	*e:
 *MM240	*MM240	*MM240
@@ -168,7 +168,7 @@
 4EE/ 4E/	4ee/)	4g\	>
 8r	8r	8r	.
 *	*v	*v	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 =25	=25	=25
 4GG/	(4G\	p
 8FF#/	8F#\	.
@@ -185,7 +185,7 @@
 =28	=28	=28
 (4.CC/	(4.C/	.
 4.BBB/)	4.BB/)	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =29	=29	=29
 4EE/	(4gg\	.
 8r	8ff#\	.
@@ -551,7 +551,7 @@
 8CC/	.	.	.
 8C/J	.	.	.
 *	*v	*v	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 =80	=80	=80
 *	*^	*
 8CC/L	2.A/	4.Fn\	.
@@ -561,7 +561,7 @@
 8CC/	.	.	.
 8C/J	.	.	.
 *	*v	*v	*
-*	*clefG2	*clefG2
+*	*clefG2	*
 =81	=81	=81
 *	*^	*
 8CC/L	2.g/	2.e\	.
@@ -760,7 +760,7 @@
 4.G\ 4.B\	4.g/)	4.d\	.
 *	*v	*v	*
 =124	=124	=124
-*	*clefF4	*clefF4
+*	*clefF4	*
 4EE/	(4En\	p
 8DD/	8D\	.
 4BBB/	4BB/	.
@@ -769,7 +769,7 @@
 4.GGG/	4.GG/)	.
 4GGG/ 4GG/	4r	.
 8GGG/ 8GG/	8r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =126	=126	=126
 2.GGG/ 2.GG/	(4e/	.
 .	8d/	.
@@ -974,7 +974,7 @@
 8F/	.	.	.
 8C/J	.	8r	.
 *v	*v	*	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 =156	=156	=156
 *	*^	*
 2.BBB-/ 2.BB-/	4r	8E\L	<
@@ -993,7 +993,7 @@
 8DD#/J	.	8r	8F#\J	.
 *v	*v	*	*	*
 *	*v	*v	*
-*	*clefG2	*clefG2
+*	*clefG2	*
 =158	=158	=158
 4BBB/ 4BB/	8B/L	f
 .	8c#/	.

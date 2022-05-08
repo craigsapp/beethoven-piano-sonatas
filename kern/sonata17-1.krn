@@ -13,7 +13,7 @@
 *>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]
 *>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[b-]	*k[b-]	*k[b-]
 *d:	*d:	*d:
 *M4/4	*M4/4	*M4/4
@@ -620,7 +620,7 @@
 =54	=54	=54
 4r	(8BnL	.
 .	8dJ)	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 (8GG#L	(8G#L	.
 8BBnJ	8BnJ	.
 8DDL	8DL	.
@@ -640,7 +640,7 @@
 *	*v	*v	*
 =57	=57	=57
 4CC' 4EE' 4AA')	4C' 4E' 4A')	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 4C' 4E' 4A'	4c' 4e' 4a'	.
 [2D [<2F [>2B-X	[2d [2f [2b-X	sf
 !!LO:LB:g=original
@@ -887,7 +887,7 @@
 =87	=87	=87
 4AA 4A	4aa'	.
 4r	4r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 2AAA 2AA	2A	p
 =88	=88	=88
 2AAA 2AA	2A	<
@@ -915,7 +915,7 @@
 [1GGG [1GG	[1G	p
 =96	=96	=96
 1GGG] 1GG]	1G]	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 !!LO:LB:g=original
 =97||	=97||	=97||
 !!FORM:	bars 97-147.1	development section
@@ -981,7 +981,7 @@
 =102	=102	=102
 1r;	1aa#;	.
 *Xped	*	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =103	=103	=103
 !!!OMD: Allegro
@@ -1182,7 +1182,7 @@
 4r	12B 12dL	.
 .	12G	.
 .	12B 12dJ	.
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 =117	=117	=117
 2CCnz	12GL	.
 .	12cn 12e	.
@@ -1376,7 +1376,7 @@
 8A	8a	.
 8BBn 8D	8Bn 8d	.
 8AJ)	8aJ)	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =133	=133	=133
 (8C# 8EL	8c# (8eL	.
 8AA	8A	.
@@ -1454,7 +1454,7 @@
 *MM40	*MM40	*MM40
 *ped	*	*
 1CC#: 1EEn: 1AA:	2C#: 2En: 2A:	pp
-*	*clefG2	*clefG2
+*	*clefG2	*
 .	(4c#'	.
 .	4e')	.
 =148	=148	=148
@@ -1801,7 +1801,7 @@
 .	8eJ)	.
 .	(8B-L	.
 .	8c#J)	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 .	(8GL	.
 .	8B-J)	.
 *clefF4	*	*
@@ -1828,7 +1828,7 @@
 *	*v	*v	*
 =191	=191	=191
 4FF' 4AA' 4D'	4F' 4A' 4d'	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 4F' 4A' 4d'	4f' 4a' 4dd'	.
 !	!	!LO:DY:rj
 [2G [2B- [2e-	[2g/ [</2b- [>/2ee-	sf
@@ -1869,11 +1869,11 @@
 4D' 4d')	4dd')	f
 4DD	4r	.
 [2EE-z	4r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 .	4F#' 4A'	.
 =198	=198	=198
 (2EE-]	4G' 4B-'	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 .	2B-z 2gz	.
 4DD	.	.
 4CC#)	4B-' 4g'	.
@@ -1881,11 +1881,11 @@
 4DD'	4A' 4f#'	.
 4DD'	4r	.
 [2EE-z	4r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 .	4F#' 4A'	.
 =200	=200	=200
 (2EE-]	4G' 4B-'	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 .	2gz 2b-z	.
 4DD	.	.
 4CC#)	4g' 4b-'	.
@@ -1894,11 +1894,11 @@
 4DD'	4f#' 4a'	.
 4DD'	4r	.
 [2EE-z	4r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 .	4F#' 4A'	.
 =202	=202	=202
 (2EE-]	4G' 4B-'	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 .	2gz 2b-z	.
 4DD	.	.
 4CC#)	[4gg [4bb-	ff
@@ -2086,7 +2086,7 @@
 =222	=222	=222
 2DD 2D	2d	.
 2DD 2D	2d	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =223	=223	=223
 *ped	*	*
 (8DDL	[1F [1A [1d	pp
@@ -2146,7 +2146,7 @@
 =229	=229	=229
 1DD	1F] 1A] 1d]	.
 *Xped	*	*
-*	*clefG2	*clefG2
+*	*clefG2	*
 =230	=230	=230
 *ped	*	*
 1DD 1AA 1D	1f 1a 1dd 1ff	.

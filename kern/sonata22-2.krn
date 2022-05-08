@@ -12,7 +12,7 @@
 *>[A,A1,A,A2,B,B1,B,B2,C]	*>[A,A1,A,A2,B,B1,B,B2,C]	*>[A,A1,A,A2,B,B1,B,B2,C]
 *>norep[A,A2,B,B2,C]	*>norep[A,A2,B,B2,C]	*>norep[A,A2,B,B2,C]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[b-]	*k[b-]	*k[b-]
 *F:	*F:	*F:
 *M2/4	*M2/4	*M2/4
@@ -235,7 +235,7 @@
 16d	.	.
 16G#	.	.
 16eJJ)	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 !!LO:LB:g=original
 =24!|:	=24!|:	=24!|:
 *>B	*>B	*>B
@@ -370,7 +370,7 @@
 16E	16d	.
 16AA	16G#	.
 16EJJ)	16c#JJ)	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =38	=38	=38
 2AAA-z 2AA-z	(16CnLL	f
 .	16E-	.
@@ -387,7 +387,7 @@
 .	16G	.
 .	16c	.
 .	16e-JJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 .	16dLL	.
 .	16e-X	.
 .	16G	.
@@ -653,7 +653,7 @@
 16D	16B	.
 16AA-	16F	.
 16DJJ	16BJJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =67	=67	=67
 16GGLL	16FLL	p
@@ -737,7 +737,7 @@
 16BB--	16Gn	.
 16BBB--	16D-	.
 16BB--JJ	16GJJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =76	=76	=76
 !	!LO:TX:a:i:t=expressivo	!
 8AAA- 8AA-	16C< (>16A-LL	p
@@ -1254,7 +1254,7 @@
 16D-	16d-	.
 16DD-	16E- 16G-	.
 16D-JJ	16cJJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =131	=131	=131
 2DDnz	16FLL	f
 .	16Bn	.
@@ -1301,7 +1301,7 @@
 16CC	16Bn	.
 16EE	16C	.
 16CCJJ	16cJJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =136	=136	=136
 16r	16cLL	.
 16CLL<	16e	.
@@ -1330,7 +1330,7 @@
 16f	16aan	.
 16dn	16b-	.
 16fJJ	16bb-JJ	]
-*	*clefF4	*clefF4
+*	*clefF4	*
 =139	=139	=139
 16r	16BB-LL	.
 16GLL	16D	.
@@ -1340,7 +1340,7 @@
 16G	16A	.
 16B-	16BB-	.
 16GJJ	16B-JJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 !!LO:LB:g=original
 =140	=140	=140
 *clefF4	*	*
@@ -1381,7 +1381,7 @@
 16AAA-	16G	.
 16CC	16AA-	.
 16AAA-JJ	16A-JJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =144	=144	=144
 16r	16A-LL	.
 16AA-LL	16c	.

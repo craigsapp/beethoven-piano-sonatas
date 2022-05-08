@@ -292,7 +292,7 @@
 !!LO:LB:g=original
 =:|!	=:|!	=:|!
 *>C	*>C	*>C
-*clefF4	*clefF4	*clefF4
+*clefF4	*clefF4	*
 *k[f#]	*k[f#]	*k[f#]
 !!LO:TX:a:i:t=TRIO
 *M3/4	*M3/4	*M3/4
@@ -437,7 +437,7 @@
 4AAA'	12GL	.
 .	12c#	.
 .	12eJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =67	=67	=67
 *	*	*center
 [2.AA/ [2.E/ [2.G/	(12gL	ff
@@ -471,7 +471,7 @@
 !	!	!LO:DY:rj
 4DD'	8B	f
 .	8AJ)	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =71	=71	=71
 *	*tuplet	*
 4GG'	(12GL	.
@@ -609,7 +609,7 @@
 (4AAA	12GL	ff
 .	12c#	.
 .	12eJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =83	=83	=83
 !	!	!LO:DY:c
 4AA')	12c#L	ff

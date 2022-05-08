@@ -10,7 +10,7 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefF4	*clefF4
+*clefF4	*clefF4	*
 *k[]	*k[]	*k[]
 *C:	*C:	*C:
 *M2/4	*M2/4	*M2/4
@@ -87,7 +87,7 @@
 8cc)	8r	.
 8r	(16ELL	.
 .	16GJJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 8.r	16cLL	.
 .	16e	.
 .	16d	.
@@ -1088,12 +1088,12 @@
 8r	8r	.
 4r	4r	.
 *Xped	*	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 =102	=102	=102
 *ped	*	*
 8FFF 8FF	8F	ff
 8r	8r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 4c''	4cc'' 4ccc''	.
 !!LO:LB:g=original
 =103	=103	=103
@@ -1136,7 +1136,7 @@
 4G	4GGG 4GG	2r	.
 4r	4r	.	.
 *v	*v	*	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 =114	=114	=114
 8CC	16r	.
 .	(16ELL	pp
@@ -1208,7 +1208,7 @@
 8cc)	8r	.
 8r	16ELL	.
 .	16GJJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 8.r	16cLL	.
 .	16e	.
 .	16d	.
@@ -2262,12 +2262,12 @@
 =224	=224	=224
 4A- 4c 4e- 4a-	4cc 4aa-	.
 4r	4r	.
-*clefF4	*clefF4	*clefF4
+*clefF4	*clefF4	*
 !!LO:LB:g=original
 =225	=225	=225
 8FFF 8FF	8F	ff
 8r	8r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 4FF'' 4AA-'' 4C'' 4F''	4c'' 4f'' 4a-'' 4cc''	.
 =226	=226	=226
 4.F 4.A- 4.c 4.f	4.cc 4.ff 4.aa- 4.ccc	>
@@ -2299,7 +2299,7 @@
 4D- 4A- 4c	4g- 4a-)	.
 =234	=234	=234
 4.D- 4.A- 4.d-	4.f 4.dd-	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 8DD- 8AA- 8D-	8A- 8f	.
 =235	=235	=235
 4DD- 4AA- 4C	4G-' (4e-'	pp
@@ -2315,7 +2315,7 @@
 4DD- 4AA- 4C	4G-' 4A-')	.
 =239	=239	=239
 8DD- 8AA- 8D-	8F 8d-	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 8r	4A- 4d- 4f	.
 4D-	.	.
 .	[8A- [8d- [8f	.
@@ -2708,7 +2708,7 @@
 16D	16d	.
 16BB	16B	.
 16GGJJ	16GJJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =286	=286	=286
 16CLL	16cLL	>
 16GG	16G	.
@@ -2846,7 +2846,7 @@
 .	16B	.
 .	16G	.
 .	16BJJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 !!LO:LB:g=original
 =301	=301	=301
 4r	16fLL	>
@@ -4118,7 +4118,7 @@
 4GG	4B 4b	.
 4BB	4G 4g	.
 4FF	4A 4a	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 4AA	4F 4f	.
 =439	=439	=439
 (4EE	4G 4g	.
@@ -4130,7 +4130,7 @@
 4r	4r	.
 4A-'' 4c'' 4e-''	2r	.
 4r	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =441	=441	=441
 1A- 1c 1e-	6r	.
 .	(6cc	.
@@ -4288,7 +4288,7 @@
 6AAAn	2r	ppp
 6CC	.	.
 6EE-	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 6FF#	6r	.
 6r	6AAn	.
 6r	6C	.
@@ -4296,7 +4296,7 @@
 1r	6E-	.
 .	6F#	.
 .	6An	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 .	6c	.
 .	6e-	.
 .	6f#	.
@@ -5187,7 +5187,7 @@
 4GG	4B 4b	.
 4BB	4G 4g	.
 4FF	4A 4a	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 4AA	4F 4f	.
 =580	=580	=580
 (4EE	4G 4g	.
@@ -5199,7 +5199,7 @@
 4r	4r	.
 4A-'' 4c'' 4e-''	2r	.
 4r	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =582	=582	=582
 1A- 1c 1e-	6r	.
 .	(6cc	.
@@ -5353,7 +5353,7 @@
 6AAAn	2r	ppp
 6CC	.	.
 6EE-	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 6FF#	6r	.
 6r	6AAn	.
 6r	6C	.
@@ -5361,7 +5361,7 @@
 1r	6E-	.
 .	6F#	.
 .	6An	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 .	6c	.
 .	6e-	.
 .	6f#	.

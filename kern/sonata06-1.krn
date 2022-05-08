@@ -540,7 +540,7 @@
 24F 24ALL	8r	.
 24c	.	.
 24dJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 24F# 24ALL	8FF#'L	f
 24c	.	.
 24dJJ	.	.
@@ -573,7 +573,7 @@
 32E	.	.
 32G	.	.
 32cJJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 32CLLL	(32gLLK	p
 32E	16.gg'JJ)	.
 32G	.	.
@@ -609,7 +609,7 @@
 32A	.	.
 32c	.	.
 32dJJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 32F#LLL	8FF#'L	f
 32A	.	.
 32c	.	.
@@ -644,7 +644,7 @@
 32E	.	.
 32G	.	.
 32cJJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 24CLL	8ff#'L	<
 24E-	.	.
 24GJJ	.	.
@@ -1946,7 +1946,7 @@
 24B- 24dLL	8r	.
 24f	.	.
 24gJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 !	!	!LO:DY:rj
 24Bn 24dLL	8BBn'L	f
 24f	.	.
@@ -1982,7 +1982,7 @@
 32A	.	.
 32c	.	.
 32fJJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 32FLLL	(32ccLLK	p
 32A	16.ccc'JJ)	.
 32c	.	.
@@ -2019,7 +2019,7 @@
 32d	.	.
 32f	.	.
 32gJJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 32BnLLL	8BBn'L	f
 32d	.	.
 32f	.	.
@@ -2055,7 +2055,7 @@
 32A	.	.
 32c	.	.
 32fJJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 24FLL	8bbn'L	p <
 24A-	.	.
 24cJJ	.	.

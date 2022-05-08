@@ -7,7 +7,7 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*clefG2	*clefG2	*clefG2
+*clefG2	*clefG2	*
 *k[b-e-]	*k[b-e-]	*k[b-e-]
 *B-:	*B-:	*B-:
 *M2/4	*M2/4	*M2/4
@@ -769,7 +769,7 @@
 8CC'\ 8C'\J	8en\ 8g\ 8een\	.
 =72	=72	=72
 16FF'/ 16F'/	16f'\ 16a-'\ 16ff'\)	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16EEn'/ 16GG'/LL	32c\LLL	p
 .	32B-\JJJ	.
 16FF'/ 16AA-'/	32c\LLL	.
@@ -2339,7 +2339,7 @@
 16E-\	16c/	.	.
 16D\JJ	16B-/JJ	.	.
 *	*v	*v	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 =197	=197	=197
 *^	*^	*
 16C/LL	4FF\	16A/LL	4.E-\	.
@@ -2354,7 +2354,7 @@
 *	*v	*v	*
 =198	=198	=198
 8BBB-'/	8D'\ 8B-'\)	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 8F'\ 8c'\L	8e-'/ 8a'/L	pp
 8B-'\J	8d'/ 8b-'/J	.
 8FF'\ 8F'\	8cc'\ 8ee-'\ 8aa'\	ff

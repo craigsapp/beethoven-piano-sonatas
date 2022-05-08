@@ -11,7 +11,7 @@
 *>[A,B,B,C,D,D1,D,D2,E,F,F1,F,F2,G]	*>[A,B,B,C,D,D1,D,D2,E,F,F1,F,F2,G]	*>[A,B,B,C,D,D1,D,D2,E,F,F1,F,F2,G]
 *>norep[A,B,C,D,D2,E,F,F2,G]	*>norep[A,B,C,D,D2,E,F,F2,G]	*>norep[A,B,C,D,D2,E,F,F2,G]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[]	*k[]	*k[]
 *C:	*C:	*C:
 *M4/4	*M4/4	*M4/4

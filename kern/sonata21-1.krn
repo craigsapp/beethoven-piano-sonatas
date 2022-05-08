@@ -11,7 +11,7 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 =1-	=1-	=1-
-*clefF4	*clefF4	*clefF4
+*clefF4	*clefF4	*
 *k[]	*k[]	*k[]
 *C:	*C:	*C:
 *M4/4	*M4/4	*M4/4
@@ -43,7 +43,7 @@
 8BBB 8GG	8G')	.
 8BBB 8GG	4r	.
 8BBB 8GGJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =4	=4	=4
 8BBB 8GGL	([4ddd	.
 8BBB 8GG	.	.
@@ -55,7 +55,7 @@
 8BBB 8GG	.	.
 8BBB 8GG	4r	.
 8BBB 8GGJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =5	=5	=5
 8BBB- 8FFL	8BB- 8DL	pp
@@ -85,7 +85,7 @@
 8AAA 8FF	4r	.
 8AAA 8FF	.	.
 8AAA 8FFJ	8F')	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =8	=8	=8
 8AAA- 8FFL	([4ccc)	.
 8AAA- 8FF	.	.
@@ -432,7 +432,7 @@
 .	16f#	.
 .	16d#	.
 .	16BJJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =30	=30	=30
 2r	16f#LL	.
 .	16d#	.
@@ -450,7 +450,7 @@
 16DD#	.	.
 16FF#	.	.
 16BBJJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =31	=31	=31
 8BBB''L	2r	.
 8BB''	.	.
@@ -615,7 +615,7 @@
 .	12f#	.	.
 .	12eJ)	.	.
 *	*v	*v	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 =48	=48	=48
 *	*^	*
 2GG# 2BB# 2D#	(12F#L	2F#	.
@@ -644,7 +644,7 @@
 .	12A	.	.
 .	12d#J)	.	.
 *	*v	*v	*
-*	*clefG2	*clefG2
+*	*clefG2	*
 =50	=50	=50
 4EE 4E	12G# (12eL	f
 .	12B	.
@@ -1155,7 +1155,7 @@
 .	.	8dL	.
 .	.	8BJ)	.
 *v	*v	*	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 =86	=86	=86
 8CC 8CL	8E 8cL	pp
 8CC 8GG	8C 8E	.
@@ -1174,7 +1174,7 @@
 8CC 8GG	8C 8E	.
 8CC 8AA	8D 8F#	.
 8CC 8AAJ	8D 8F#J	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 !!LO:LB:g=original
 =88:|!	=88:|!	=88:|!
 *^	*	*
@@ -1200,7 +1200,7 @@
 8GG	.	.	.
 8AA	.	8B-L	.
 8BB-J)	.	8GJ	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 =91	=91	=91	=91
 (2AA 2C	1CC	4c	p
 .	.	8AL	.
@@ -1238,7 +1238,7 @@
 8EE 8GG	8r	.
 8EE 8GG	4r	.
 8EE 8GGJ	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =95	=95	=95
 8EE- 8GGL	([4gg)	.
 8EE- 8GG	.	.
@@ -1250,7 +1250,7 @@
 8EE- 8GG	.	.
 8EE- 8GG	4cc')	.
 8EE- 8GGJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =96	=96	=96
 8DD 8AAL	(4.F#	.
 8DD 8AA	.	.
@@ -1261,7 +1261,7 @@
 8DD 8AA	4r	.
 8DD 8AA	.	.
 8DD 8AAJ	8F#')	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =97	=97	=97
 8FF# 8DL	([4eee-)	.
 8FF# 8D	.	.
@@ -1948,7 +1948,7 @@
 .	.	12B	.
 8r	8r	.	.
 .	.	12GJ	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 (4C	2.r	12cL	.
 .	.	12G	.
 .	.	12E-J	.
@@ -2057,7 +2057,7 @@
 16AAAJJ	.	.
 16GGGLL	8r	.
 16CC	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16BBB	(24dLL	.
 .	24e	.
 16AAAJJ	.	.
@@ -2227,7 +2227,7 @@
 16GJJ	16fJJ	.
 =158	=158	=158
 8C	8e	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 8CC 8GGL	8C 8EL	pp
 8CC 8GG	8C 8E	.
 8CC 8GGJ	8C 8EJ	.
@@ -2254,7 +2254,7 @@
 8BBB 8GG	4r	.
 8BBB 8GG	.	.
 8BBB 8GGJ	8G')	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 !!LO:LB:g=original
 =161	=161	=161
 8BBB 8GGL	([4ddd)	.
@@ -2267,7 +2267,7 @@
 8BBB 8GG	.	.
 8BBB 8GG	4r	.
 8BBB 8GGJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =162	=162	=162
 8BBB- 8FFL	8BB- 8DL	pp
 8BBB- 8FF	8BB- 8D	.
@@ -2296,7 +2296,7 @@
 8AAA 8FF	4r	.
 8AAA 8FF	.	.
 8AAA 8FFJ	8F')	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =165	=165	=165
 8AAA- 8FFL	([4ccc)	.
 8AAA- 8FF	.	.
@@ -3444,7 +3444,7 @@
 !!LO:LB:g=original
 =251	=251	=251
 8D- 8F 8A-	8f)	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 8DD- 8AA-L	8D- 8FL	pp
 8DD- 8AA-	8D- 8F	.
 8DD- 8AA-J	8D- 8FJ	.
@@ -3471,7 +3471,7 @@
 8CC 8EE- 8AA-	8r	.
 8CC 8EE- 8AA-	4r	.
 8CC 8EE- 8AA-J	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =254	=254	=254
 8CC 8EE- 8FF 8AAL	([4eee-)	f
 8CC 8EE- 8FF 8AA	.	.
@@ -3483,7 +3483,7 @@
 8CC 8EE- 8FF 8AA	.	.
 8CC 8EE- 8FF 8AA	4r	.
 8CC 8EE- 8FF 8AAJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =255	=255	=255
 8DD- 8FF 8BB-L	(4.B-	f
@@ -3495,7 +3495,7 @@
 8DD- 8FF 8BB-	8r	.
 8DD- 8FF 8BB-	4r	.
 8DD- 8FF 8BB-J	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =256	=256	=256
 8DD 8FF 8BBL	([4fff)	f
 8DD 8FF 8BB	.	.
@@ -3848,7 +3848,7 @@
 .	16d	.
 .	16c	.
 .	16BJJ	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16FFFLL]	16ALL	.
 16GGG	16G	.
 16AAA	16F	.
@@ -3875,7 +3875,7 @@
 .	16c	.
 .	16B	.
 .	16dJJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =281	=281	=281
 1r	16cLL	.
 .	16e	.
@@ -3980,7 +3980,7 @@
 1GG;] 1D;] 1F;]	2a-	2d_ 2f_	.
 .	2b;	2d] 2f]	p
 *	*v	*v	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =295	=295	=295
 *^	*^	*
@@ -3993,7 +3993,7 @@
 .	2D;] 2F;] 2B;)	.
 =297	=297	=297
 8CC 8C	8E 8c	pp
-*	*clefG2	*clefG2
+*	*clefG2	*
 8C 8GL	8c 8eL	.
 8C 8G	8c 8e	.
 8C 8GJ	8c 8eJ	.

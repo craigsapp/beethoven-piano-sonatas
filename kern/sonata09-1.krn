@@ -69,7 +69,7 @@
 16g#	.	.
 16cc#	.	.
 16aJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =6	=6	=6
 4b/)	(16G#LL	<
 .	16E	.
@@ -88,7 +88,7 @@
 16GG#	.	.
 16C#	.	.
 16AA#JJ)	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =7	=7	=7
 *^	*^	*
 4rA	1BB	8r	8r	.
@@ -145,7 +145,7 @@
 4AA#)	8d#	.	.
 .	8c#J	.	.
 *	*v	*v	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 =12	=12	=12
 *^	*^	*
 *	*	*	*^	*
@@ -174,7 +174,7 @@
 8EE 8AA#L	.	.
 8EE 8AA#	.	.
 8EE 8AA#J	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =15	=15	=15
 8r	2G#'> 2g#'>	.
 8EE 8BBL	.	<
@@ -307,7 +307,7 @@
 *	*v	*v	*
 =31	=31	=31
 (2B	2r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 4B#	(8F#L	p
 .	8E	.
 4c#)	8D#	.
@@ -315,7 +315,7 @@
 =32	=32	=32
 (4c##	4BB#	.
 4d#	4r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 4e	(8ff#L	.
 .	8ee	.
 4f#)	8dd#	.
@@ -338,7 +338,7 @@
 !!LO:LB:g=original
 =35	=35	=35
 (2A#	2r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 4B	(8EL	.
 .	8D#	.
 4B#	8C#	.
@@ -346,7 +346,7 @@
 =36	=36	=36
 4c#	4AA#	.
 4d#	4r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 4e	(8eeL	.
 .	8dd#	.
 [4e#)	8cc#	.
@@ -504,7 +504,7 @@
 4EE 4GG# 4C# 4E	4f## (4ff##	rfz
 4r	4g#' 4gg#')	.
 2r	2r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =56	=56	=56
 4FF#'	4r	p
 4r	4E' 4A#'	.
@@ -548,7 +548,7 @@
 .	8D# 8A 8B	8BB	.
 .	8D# 8A 8BJ	8BBJ	.
 *	*v	*v	*
-*	*clefG2	*clefG2
+*	*clefG2	*
 =61	=61	=61
 8EE	(2b	p
 8E 8G# 8BL	.	.
@@ -1041,7 +1041,7 @@
 16g#	.	.
 16cc#	.	.
 16aJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 !!LO:LB:g=original
 =96	=96	=96
 4b/)	(16G#LL	.
@@ -1061,7 +1061,7 @@
 16GG#	.	.
 16C#	.	.
 16AA#JJ)	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =97	=97	=97
 *^	*^	*
 4r	1BB	8r	8r	.
@@ -1306,7 +1306,7 @@
 *	*v	*v	*
 =122	=122	=122
 2e	2r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 4f#	8BL	p
 .	8A	.
 4g#	8G#	.
@@ -1314,7 +1314,7 @@
 =123	=123	=123
 4a	4E#	.
 4a#	4r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 4b/	8bbL	.
 .	8aa	.
 [4b#/)	8gg#	.
@@ -1333,7 +1333,7 @@
 8f#	.	.	.
 8eJ	.	.	.
 *v	*v	*	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 =126	=126	=126
 2d#	2r	.
 4e	8AL	.
@@ -1344,7 +1344,7 @@
 =127	=127	=127
 4f##	4D#	.
 4g#	4r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 4a	(8aaL	.
 .	8gg#	.
 [4a#)	8ff#	.
@@ -1513,7 +1513,7 @@
 2r	2r	.
 =147	=147	=147
 4BBB' 4BB'	4r	p
-*	*clefF4	*clefF4
+*	*clefF4	*
 4r	4A' 4d#'	.
 2r	2r	.
 !!LO:LB:g=original
@@ -1581,7 +1581,7 @@
 .	8E 8A 8d# 8eL	.
 .	8E 8A 8d# 8e	.
 .	8E 8A 8d# 8eJ	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =155	=155	=155
 *	*^	*
 8r	(2e	8r	p

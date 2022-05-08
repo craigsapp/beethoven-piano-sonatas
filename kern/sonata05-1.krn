@@ -1450,7 +1450,7 @@
 8C	.	.
 8FF	.	.
 8C	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 8GG	4En	.
 8CJ	.	.
 =249	=249	=249
@@ -1490,7 +1490,7 @@
 .	8G	.
 4r	8c	.
 .	8e-J	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 =254	=254	=254
 2.r	8gL	.
 .	8e-	.
@@ -1612,7 +1612,7 @@
 !	!	!	!LO:DY:a=2
 [>/2GG	4GG	4r	fp
 .	4FF#	4r	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 =272	=272	=272	=272
 2.GG]	4FFn	4r	.
 .	4EE-	4Bn 4d 4f 4g	p

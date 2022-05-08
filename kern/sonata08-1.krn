@@ -11,7 +11,7 @@
 *>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]
 *>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]
 *>I	*>I	*>I
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
 *c:	*c:	*c:
 *M4/4	*M4/4	*M4/4
@@ -599,7 +599,7 @@
 4e- 4g-	.	4F'	.
 =52	=52	=52	=52
 4r	1B-	4G-'	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4e- 4g-	.	4b-'	.
 4e- 4g-	.	4ee-'	.
 4e- 4g-	.	4ff'	.
@@ -617,13 +617,13 @@
 4e- 4g-	.	4ee-)	.
 =55	=55	=55	=55
 4r	1B-	4dd'	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 4f 4a-	.	4BB-'	.
 4f 4a-	.	4F'	.
 4f 4a-	.	4G-'	.
 =56	=56	=56	=56
 4r	1B-	4A-'	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4f 4a-	.	(4b-	.
 4f 4a-	.	4aa-	.
 4f 4a-	.	4gg-)	.
@@ -640,13 +640,13 @@
 4f 4a-	.	4dd'	.
 =59	=59	=59	=59
 4r	1B-	4ee-'	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 4e- 4g-	.	4BB-'\	.
 4e- 4g-	.	4E-'	.
 4e- 4g-	.	4F'	.
 =60	=60	=60	=60
 4r	1B-	4G-'	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4e- 4g-	.	4b-'	.
 4e- 4g-	.	4ee-'	.
 4e- 4g-	.	4ff'	.
@@ -664,13 +664,13 @@
 4e- 4g-	.	4ee-)	.
 =63	=63	=63	=63
 4r	1A-	4cc'	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 4e- 4g-	.	4AA-'	.
 4e- 4g-	.	4E-'	.
 4e- 4g-	.	4F'	.
 =64	=64	=64	=64
 4r	1A-	4G-'	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4e- 4g-	.	(4a-\	.
 4e- 4g-	.	4gg-	.
 4e- 4g-	.	4ff)	.
@@ -687,13 +687,13 @@
 4e- 4g-	.	4cc'	.
 =67	=67	=67	=67
 4r	1A-	4dd-	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 4d- 4f	.	4AA-'	.
 4d- 4f	.	4D-'	.
 4d- 4f	.	4E-'	.
 =68	=68	=68	=68
 4r	1A-	4F'	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4d- 4f	.	4a-'	.
 4d- 4f	.	4dd-'	.
 4d- 4f	.	4ee-'	.
@@ -734,7 +734,7 @@
 4e- 4g-	.	4cc'	.
 =75	=75	=75	=75
 4r	2d-	4dd-'	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 4f 4a-	.	(4D-z	.
 4r	2c-	4A-)	.
 4f 4a-	.	4C-'	.
@@ -763,7 +763,7 @@
 4f 4b-	.	4D-'	.
 =80	=80	=80	=80
 4r	1c	4C'	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4gn 4b-	.	(4cc	.
 4g 4b-	.	4bb-	.
 4g 4b-	.	4aa-)	.
@@ -1549,7 +1549,7 @@
 =173	=173	=173
 8GGGL	4BBn 4D 4G)	.
 8GG	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 8GGG	4en'	.
 8GGJ	.	<
 8GGGL	4f'	.
@@ -1585,7 +1585,7 @@
 8GG	.	.
 8GGG	4r	.
 8GGJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 8GGGL	(8C#L	pp
 8GG	8A-	.
 8GGG	8En	.
@@ -1621,7 +1621,7 @@
 =181	=181	=181
 8GGGL	4BBn 4D 4G)	.
 8GG	.	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 8GGG	4e'	<
 8GGJ	.	.
 8GGGL	4f'	.
@@ -2019,13 +2019,13 @@
 4f 4a-	.	4ff)	.
 =227	=227	=227	=227
 4r	1c	4een'	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 4g 4b-	.	4C'\	.
 4g 4b-	.	4G'	.
 4g 4b-	.	4A-'	.
 =228	=228	=228	=228
 4r	1c	4B-'	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4g 4b-	.	(4cc	.
 4g 4b-	.	4bb-	.
 4g 4b-	.	4aa-)	.
@@ -2041,14 +2041,14 @@
 4g 4b-	.	4ee'	.
 =231	=231	=231	=231
 4r	1c	4ff'	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 4f 4a-	.	4C'\	.
 4f 4a-	.	4F'	.
 4f 4a-	.	4G'	.
 !!LO:LB:g=original
 =232	=232	=232	=232
 4r	1c	4A-'	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4f 4a-	.	4cc'	.
 4f 4a-	.	4ff'	.
 4f 4a-	.	4aa-'	.
@@ -2066,13 +2066,13 @@
 4c 4f	.	4ccc)	.
 =235	=235	=235	=235
 4r	1G	4bbn'	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 4d 4f	.	4GG'	.
 4d 4f	.	4D'	.
 4d 4f	.	4E-'	.
 =236	=236	=236	=236
 4r	1G	4F'	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4d 4f	.	(4g	.
 4d 4f	.	4ff	.
 4d 4f	.	4ee-)	.
@@ -2089,13 +2089,13 @@
 !!LO:LB:g=original
 =239	=239	=239	=239
 4r	1G	4cc'	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 4c 4e-	.	4GG'	.
 4c 4e-	.	4C'	.
 4c 4e-	.	4D'/	.
 =240	=240	=240	=240
 4r	1G	4E-'	.
-*	*	*clefG2	*clefG2
+*	*	*clefG2	*
 4c 4e-	.	4gg'	.
 4c 4e-	.	4ccc'	.
 4c 4e-	.	4ddd'	.
@@ -2667,7 +2667,7 @@
 4G' 4c' 4e-'	4g' 4cc' 4ee-' 4gg'	.
 4r	4r	.
 2r	2r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =310	=310	=310
 4GGG'< 4BBBn'< 4DD'< 4GG'<	4D<'> 4F<'> 4G<'> 4Bn<'>	ff
 4rDD	4r	.

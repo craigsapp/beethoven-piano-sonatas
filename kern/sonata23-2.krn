@@ -13,7 +13,7 @@
 *>[A,A,B,B,C,D,D1,D,D2,E,E1,E,E2,F,F1,F,F2,G,G1,G,G2,H]	*>[A,A,B,B,C,D,D1,D,D2,E,E1,E,E2,F,F1,F,F2,G,G1,G,G2,H]	*>[A,A,B,B,C,D,D1,D,D2,E,E1,E,E2,F,F1,F,F2,G,G1,G,G2,H]
 *>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]	*>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]	*>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]
 *>A	*>A	*>A
-*clefF4	*clefF4	*clefF4
+*clefF4	*clefF4	*
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
 *D-:	*D-:	*D-:
 *M2/4	*M2/4	*M2/4
@@ -94,7 +94,7 @@
 *	*v	*v	*
 =15	=15	=15
 4GG-	(>4G- 4B- 4e-	p
-*	*clefF4	*clefF4
+*	*clefF4	*
 [4AA-	4C 4E- 4A-	.
 =16	=16	=16
 (16.AA-LL]	4.D- 4.F 4.d-)	.
@@ -221,13 +221,13 @@
 16DD- 16D-LL	16r	.
 16rD	16G- 16g-	.
 16EE- 16E-	16r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16rD	16A- 16a-	.
 [16FF [16FJJ	16r	.
 =33	=33	=33
 8FF] 8F]	8B- 8b-	p
 (4GG-	8r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 .	8C 8E- 8A-	.
 [8AA-)	8r	.
 =34	=34	=34
@@ -1007,7 +1007,7 @@
 4GGG-	4D- 4G- 4B-	.
 =87	=87	=87
 4.DD-	4.D- 4.F 4.A-)	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 8G-'	8d- 8e- 8b-	.
 =88	=88	=88
 [4A-	(4d-' 4e-' 4a-'	.
@@ -1024,13 +1024,13 @@
 16AA-	.	.
 16GG-	.	.
 16EE-JJ)	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =90	=90	=90
 (4DD- 4D-	4F 4A- 4d-	.
 4GGG- 4GG-	4G- 4B- 4d-	sfp
 =91	=91	=91
 4.DD-) 4.D-	4.F 4.A- 4.d-	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 (8B--	8en 8gn 8dd-	.
 !!LO:LB:g=original
 =92	=92	=92
@@ -1048,18 +1048,18 @@
 16DD-	.	.
 16FF	.	.
 16DD-JJ)	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 =94	=94	=94
 (4GG- 4AA-	4C 4E- 4A-	.
 8..EE- 8..AA-L	8..C 8..G- 8..A-L	.
 32GG- 32AA-Jkk	32C 32E- 32A-Jkk	.
 =95	=95	=95
 8.FF) 8.AA-	8.D- 8.F 8.A-	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 (16d-	(16f 16a- 16dd-	<
 8e-L	8g- 8a- 8ccL	[ >
 8d-J)	8f 8a- 8dd-J)	]
-*	*clefF4	*clefF4
+*	*clefF4	*
 =96	=96	=96
 4GG- 4AA-	4C 4E- 4A-	.
 (8..EE- 8..AA-L	8..C 8..G- 8..A-L	.
@@ -1069,19 +1069,19 @@
 *	*^	*
 8.FF) 8.AA-	8.ryy	8.D- 8.F 8.A-	.
 *	*v	*v	*
-*	*clefG2	*clefG2
+*	*clefG2	*
 *	*^	*
 (16d-	(16a- 16ff	16f	<
 8cL	16ffLL	8g- 8a-L	[ >
 .	16ee-J	.	.
 8d-J)	8dd-J)	8f 8a-J	]
 *	*v	*v	*
-*	*clefF4	*clefF4
+*	*clefF4	*
 =98	=98	=98
 4GG- 4AA-	4C 4E- 4A-	<
 8..EE- 8..AA-L	8..C 8..G- 8..A-L	.
 32GG- 32AA-Jkk	32C 32E- 32A-Jkk	.
-*clefG2	*clefG2	*clefG2
+*clefG2	*clefG2	*
 =99	=99	=99
 *	*^	*
 (8.fL	4ryy	8.a- 8.dd- (8.aa-L	rfz
