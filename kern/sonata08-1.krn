@@ -12,10 +12,10 @@
 *>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]
 *>I	*>I	*>I
 *clefF4	*clefG2	*
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*c:	*c:	*c:
-*M4/4	*M4/4	*M4/4
-*MM40	*MM40	*MM40
+*k[b-e-a-]	*k[b-e-a-]	*
+*c:	*c:	*
+*M4/4	*M4/4	*
+*MM40	*MM40	*
 =1-	=1-	=1-
 !!!OMD: Grave
 !	!	!LO:DY:rj
@@ -238,8 +238,8 @@
 =11||	=11||	=11||
 *>A	*>A	*>A
 !!!OMD: Allegro molto e con brio
-*M2/2	*M2/2	*M2/2
-*MM320	*MM320	*MM320
+*M2/2	*M2/2	*
+*MM320	*MM320	*
 8CCL	2.c	p
 8C	.	.
 8CC	.	.
@@ -1261,9 +1261,9 @@
 !!LO:LB:g=original
 =139||	=139||	=139||
 !!!OMD: Allegro molto e con brio
-*k[]	*k[]	*k[]
-*M2/2	*M2/2	*M2/2
-*MM320	*MM320	*MM320
+*k[]	*k[]	*
+*M2/2	*M2/2	*
+*MM320	*MM320	*
 *Xtremolo	*	*
 8EEL	4e'	p
 8E	.	.
@@ -2555,8 +2555,8 @@
 1FF#; 1AAn; 1C; 1E-;	1F#; 1An; 1c; 1e-;	ff
 =297||	=297||	=297||
 !!!OMD: Grave
-*M4/4	*M4/4	*M4/4
-*MM40	*MM40	*MM40
+*M4/4	*M4/4	*
+*MM40	*MM40	*
 4r	4r	.
 16r	16r	.
 32e-LLK	32f# 32an 32ccLLK	p
@@ -2598,8 +2598,8 @@
 8rGG	8D< 8F< 8B<	.
 =301||	=301||	=301||
 !!!OMD: Allegro molto e con brio
-*M2/2	*M2/2	*M2/2
-*MM320	*MM320	*MM320
+*M2/2	*M2/2	*
+*MM320	*MM320	*
 *tremolo	*	*
 8CCL	2.c	p
 8C	.	.

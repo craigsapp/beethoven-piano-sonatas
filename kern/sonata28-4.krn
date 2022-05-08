@@ -11,10 +11,10 @@
 *>[A,B,B2,C]	*>[A,B,B2,C]	*>[A,B,B2,C]
 *>A	*>A	*>A
 *clefG2	*clefG2	*
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*A:	*A:	*A:
-*M2/4	*M2/4	*M2/4
-*MM132	*MM132	*MM132
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
+*M2/4	*M2/4	*
+*MM132	*MM132	*
 =1-	=1-	=1-
 4r	[2ee\	mf
 8r	.	.
@@ -705,7 +705,7 @@
 4r	4r	.
 !!LO:LB:g=original
 =96	=96	=96
-*k[]	*k[]	*k[]
+*k[]	*k[]	*
 4r	2r	pp
 8r	.	.
 8EE'/	.	.
@@ -1053,7 +1053,7 @@
 *	*clefG2	*
 !!LO:LB:g=original
 =144	=144	=144
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*k[f#c#g#]	*k[f#c#g#]	*
 *^	*	*
 [4AA/	2DD\	16g#/LL	.
 .	.	16f#/	.
@@ -1109,7 +1109,7 @@
 *v	*v	*	*
 !!LO:LB:g=original
 =150	=150	=150
-*k[]	*k[]	*k[]
+*k[]	*k[]	*
 *^	*	*
 8c'/L	8r	8ee'\L	.
 8B'/J	8D'\L	8dd'\J	.
@@ -1564,7 +1564,7 @@
 *	*X8va	*
 !!LO:LB:g=original
 =205	=205	=205
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*k[f#c#g#]	*k[f#c#g#]	*
 8AAA/ 8AA/L	[4cc#\ [4ee\ [4aa\ [4ccc#\	.
 *clefG2	*	*
 8B'/ 8b'/J	.	.

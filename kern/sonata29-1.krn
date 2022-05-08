@@ -13,10 +13,10 @@
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[b-e-]	*k[b-e-]	*k[b-e-]
-*B-:	*B-:	*B-:
-*M2/2	*M2/2	*M2/2
-*MM138	*MM138	*MM138
+*k[b-e-]	*k[b-e-]	*
+*B-:	*B-:	*
+*M2/2	*M2/2	*
+*MM138	*MM138	*
 =	=	=
 8BBB-/	8r	ff
 =1	=1	=1
@@ -390,7 +390,7 @@
 .	4ccc\ 4fff#\ 4aaa\ 4cccc\	.
 8D/	.	.
 =45	=45	=45
-*k[f#]	*k[f#]	*k[f#]
+*k[f#]	*k[f#]	*
 4DD/ 4D/	4ccc\ 4fff#\ 4aaa\ 4cccc\	.
 *	*X8va	*
 *clefG2	*	*
@@ -1190,7 +1190,7 @@
 8A-/J	.	.	.
 *	*v	*v	*
 =136	=136	=136
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+*k[b-e-a-]	*k[b-e-a-]	*
 *	*8va	*
 8GG\L	4gg\ 4eee-\ 4ggg\	.
 8G\	.	.
@@ -1681,7 +1681,7 @@
 *	*v	*v	*
 !!LO:LB:g=original
 =199	=199	=199
-*k[]	*k[]	*k[]
+*k[]	*k[]	*
 4r	[2bb\ [2ddd\ [2fffn\ [2ggg#\ [2bbb\	.
 8r	.	.
 *clefG2	*	*
@@ -1720,7 +1720,7 @@
 8D\ 8d\	(8dd\	>
 !!LO:LB:g=original
 =204	=204	=204
-*k[f#c#]	*k[f#c#]	*k[f#c#]
+*k[f#c#]	*k[f#c#]	*
 4.D\ 4.d\	4.ddd\)	.
 8DD/ 8D/	(8dd\	.
 4.DD/ 4.D/	4.ddd\)	.
@@ -1737,7 +1737,7 @@
 *clefG2	*	*
 8b\	8dd#\	.
 =207	=207	=207
-*k[f#c#]	*k[f#c#]	*k[f#c#]
+*k[f#c#]	*k[f#c#]	*
 *	*^	*
 6B/	(1ddd#	2ddd#\	p
 6b/	.	.	.
@@ -1864,7 +1864,7 @@
 *v	*v	*	*
 !!LO:LB:g=original
 =220	=220	=220
-*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*k[f#c#g#d#a#]
+*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*
 *^	*	*
 4.A#/	4AAA#\	2r	.
 .	4FFF#\	.	.
@@ -1958,7 +1958,7 @@
 (8AA#\	.	.
 !!LO:LB:g=original
 =231	=231	=231
-*k[b-e-]	*k[b-e-]	*k[b-e-]
+*k[b-e-]	*k[b-e-]	*
 4.E-\)	8eee\]	.
 .	8A#/	.
 .	4.e-/	.
@@ -1981,7 +1981,7 @@
 *clefF4	*	*
 8BBB-/ 8BB-/	.	.
 =233	=233	=233
-*k[b-e-]	*k[b-e-]	*k[b-e-]
+*k[b-e-]	*k[b-e-]	*
 4BB-\ 4B-\	4.dd\ 4.ff\ 4.bb-\ 4.ddd\	ff
 (8c\L	.	.
 8B-\J)	8dd\ 8ff\ 8bb-\ 8ddd\	.
@@ -2353,7 +2353,7 @@
 8BBBn/	8r	ff
 !!LO:LB:g=original
 =273	=273	=273
-*k[f#c#]	*k[f#c#]	*k[f#c#]
+*k[f#c#]	*k[f#c#]	*
 4.F#\ 4.B\ 4.d\	4r	.
 .	8r	.
 8F#\ 8B\ 8d\	8dd\ 8ff#\ 8bb\ 8ddd\	ff
@@ -2396,7 +2396,7 @@
 8CC/	.	.
 !!LO:LB:g=original
 =279	=279	=279
-*k[b-e-]	*k[b-e-]	*k[b-e-]
+*k[b-e-]	*k[b-e-]	*
 4.E-\	4r	.
 .	4ee-\ 4gg\ 4ccc\ 4eee-\	.
 8CC/	.	.

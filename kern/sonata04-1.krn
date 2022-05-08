@@ -17,8 +17,8 @@
 *>[A,A,B]	*>[A,A,B]	*>[A,A,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*M6/8	*M6/8	*M6/8
-*MM154	*MM154	*MM154
+*M6/8	*M6/8	*
+*MM154	*MM154	*
 =1-	=1-	=1-
 !	!	!LO:DY:rj
 8EE-L	2.B- 2.e- 2.g	p
@@ -1341,7 +1341,7 @@
 .	8bn)	.
 !!LO:LB:g=original
 =169||	=169||	=169||
-*k[]	*k[]	*k[]
+*k[]	*k[]	*
 !	!	!LO:DY:rj
 8EEL	[2.c [2.e 2.cc	pp
 8E	.	.
@@ -1476,7 +1476,7 @@
 8r	8r	.
 !!LO:LB:g=original
 =189||	=189||	=189||
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+*k[b-e-a-]	*k[b-e-a-]	*
 !	!	!LO:DY:rj
 8EE-L	2.G< 2.B-< 2.e- 2.g	ff
 8E-	.	.

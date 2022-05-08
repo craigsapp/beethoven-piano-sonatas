@@ -14,10 +14,10 @@
 *>norep[A,B,C,D,A,B]	*>norep[A,B,C,D,A,B]	*>norep[A,B,C,D,A,B]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*A:	*A:	*A:
-*M3/4	*M3/4	*M3/4
-*MM144	*MM144	*MM144
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
+*M3/4	*M3/4	*
+*MM144	*MM144	*
 4r	16aaLL	p
 .	16ee	.
 .	16ccc#	.
@@ -304,7 +304,7 @@
 !!LO:LB:g=original
 =:|!|:	=:|!|:	=:|!|:
 *>C	*>C	*>C
-*k[]	*k[]	*k[]
+*k[]	*k[]	*
 !!LO:TX:a:B:t=Minore
 4r	4e	p
 =45	=45	=45

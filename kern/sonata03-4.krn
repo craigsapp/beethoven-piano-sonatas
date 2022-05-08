@@ -11,10 +11,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*M6/8	*M6/8	*M6/8
-*MM180	*MM180	*MM180
+*k[]	*k[]	*
+*C:	*C:	*
+*M6/8	*M6/8	*
+*MM180	*MM180	*
 8r	8g	p
 =1	=1	=1
 4CC 4C	8e' 8g' 8cc'L	.

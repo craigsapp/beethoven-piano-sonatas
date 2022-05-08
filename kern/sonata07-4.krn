@@ -9,10 +9,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*M4/4	*M4/4	*M4/4
-*MM120	*MM120	*MM120
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M4/4	*M4/4	*
+*MM120	*MM120	*
 *	*^	*
 8D/	(8f#/	8A\ [8d\	p
 =1	=1	=1	=1
@@ -456,7 +456,7 @@
 *	*v	*v	*
 !!LO:LB:g=original
 =35	=35	=35
-*k[]	*k[]	*k[]
+*k[]	*k[]	*
 16BB-\LL)	8r	.
 16F\	.	.
 16D\	4fff\	.
@@ -718,7 +718,7 @@
 [2AA\ [2E\ [2G\	[2A/ 2d/ [2g/	.
 4.AA;\] 4.E;\] 4.G;\]	4.A;/] 4.c#;/ 4.g;/]	.
 =	=	=
-*k[f#c#]	*k[f#c#]	*k[f#c#]
+*k[f#c#]	*k[f#c#]	*
 *	*^	*
 8D/	(8f#/	8A\ [8d\	p
 =56	=56	=56	=56

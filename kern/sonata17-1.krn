@@ -14,14 +14,14 @@
 *>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[b-]	*k[b-]	*k[b-]
-*d:	*d:	*d:
-*M4/4	*M4/4	*M4/4
+*k[b-]	*k[b-]	*
+*d:	*d:	*
+*M4/4	*M4/4	*
 =1-	=1-	=1-
 !!!OMD: Largo
 !!FORM:	bars 1-96:	exposition
 !!FORM:	bars 1-6:	first subject in D minor (tonic)
-*MM40	*MM40	*MM40
+*MM40	*MM40	*
 *ped	*	*
 !	!	!LO:DY:rj
 [1CC#: [1EE: [1AA:	2C#<: 2E<: 2A<:	pp
@@ -31,11 +31,11 @@
 *Xped	*	*
 2.CC#;] 2.EE;] 2.AA;]	2.a;	.
 !!!OMD: Allegro
-*MM168	*MM168	*MM168
+*MM168	*MM168	*
 4C#' 4A'	(8aL	p
 .	8gJ)	.
 =3	=3	=3
-*MM168	*MM168	*MM168
+*MM168	*MM168	*
 4D' 4A'	(8gL	.
 .	8fJ)	.
 4E 4A	(8fL	.
@@ -65,7 +65,7 @@
 !!LO:LB:g=original
 =6	=6	=6
 !!!OMD: Adagio
-*MM60	*MM60	*MM60
+*MM60	*MM60	*
 *	*^	*
 2A 2d	(4.g#SsS	2fn	f >
 .	16bnLL)	.	.
@@ -75,7 +75,7 @@
 =7	=7	=7
 !!FORM:	bars 7-41.1:	Connecting episode between 1st and 2nd themes
 !!!OMD: Largo
-*MM40	*MM40	*MM40
+*MM40	*MM40	*
 *ped	*	*
 *	*	*^
 !	!	!	!LO:DY:b=2:rj
@@ -87,11 +87,11 @@
 *Xped	*	*
 2.EE;] 2.GG] 2.C]	2.cc;	.
 !!!OMD: Allegro
-*MM168	*MM168	*MM168
+*MM168	*MM168	*
 4E' 4c'	(8ccL	p
 .	8b-XJ)	.
 =9	=9	=9
-*MM168	*MM168	*MM168
+*MM168	*MM168	*
 4F' 4c'	(8b-L	.
 .	8g#J)	<
 4r	(8g#L	.
@@ -921,7 +921,7 @@
 !!FORM:	bars 97-147.1	development section
 *>B	*>B	*>B
 !!!OMD: Largo
-*MM40	*MM40	*MM40
+*MM40	*MM40	*
 *ped	*	*
 (16FFF#qLL	.	pp
 16AAAq	.	.
@@ -985,7 +985,7 @@
 !!LO:LB:g=original
 =103	=103	=103
 !!!OMD: Allegro
-*MM168	*MM168	*MM168
+*MM168	*MM168	*
 *	*tuplet	*
 2FFF#	12F# (12AnL	ff
 .	12c#	.
@@ -1451,7 +1451,7 @@
 !!FORM: bars 147-232	recapitulation
 !!FORM:	bars 147-156	first subject in original key of D minor
 !!!OMD: Largo
-*MM40	*MM40	*MM40
+*MM40	*MM40	*
 *ped	*	*
 1CC#: 1EEn: 1AA:	2C#: 2En: 2A:	pp
 *	*clefG2	*
@@ -1486,12 +1486,12 @@
 .	4f	.
 4r;	4r;	.
 !!!OMD: Allegro
-*MM168	*MM168	*MM168
+*MM168	*MM168	*
 4C#' 4A'	(8aL	p
 .	8gJ)	.
 !!LO:LB:g=original
 =153	=153	=153
-*MM168	*MM168	*MM168
+*MM168	*MM168	*
 4D' 4A'	(8gL	.
 .	8fJ)	.
 4E' 4A'	(8fL	.
@@ -1520,7 +1520,7 @@
 .	8g#J)	.
 =156	=156	=156
 !!!OMD: Adagio
-*MM60	*MM60	*MM60
+*MM60	*MM60	*
 *	*^	*
 2A 2d	(4.g#SsS	2f	sf
 .	16bnLL	.	.
@@ -1530,7 +1530,7 @@
 =157	=157	=157
 !!FORM:	bars 157-175.1	connecting episode between first and second themes
 !!!OMD: Largo
-*MM40	*MM40	*MM40
+*MM40	*MM40	*
 *ped	*	*
 !	!	!LO:DY:b=2:rj
 [1EE: [1GG: [1Cn:	2E<: 2G<: 2cn<:	pp
@@ -1562,7 +1562,7 @@
 1r;	1a-;	.
 =163	=163	=163
 !!!OMD: Allegro
-*MM168	*MM168	*MM168
+*MM168	*MM168	*
 !	!	!LO:DY:rj
 4EEE#' 4CC#' 4EE#'	4G#' 4c#' 4g#'	pp
 4r	4r	.

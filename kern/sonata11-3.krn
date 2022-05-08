@@ -11,10 +11,10 @@
 *>norep[A,B,C,D,A,B]	*>norep[A,B,C,D,A,B]	*>norep[A,B,C,D,A,B]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[b-e-]	*k[b-e-]	*k[b-e-]
-*B-:	*B-:	*B-:
-*M3/4	*M3/4	*M3/4
-*MM110	*MM110	*MM110
+*k[b-e-]	*k[b-e-]	*
+*B-:	*B-:	*
+*M3/4	*M3/4	*
+*MM110	*MM110	*
 !	!	!LO:DY:rj
 4r	(8.dL	p
 .	16e-Jk)	.
@@ -340,7 +340,7 @@ A8q	.	.	.
 =:|!|:	=:|!|:	=:|!|:
 *>C	*>C	*>C
 !!!OMD: Minore
-*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*
 16dLL	4r	.
 16e-	.	.
 16d	.	.

@@ -11,10 +11,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
-*M6/8	*M6/8	*M6/8
-*MM138	*MM138	*MM138
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M6/8	*M6/8	*
+*MM138	*MM138	*
 8r	8d'	p
 8r	8d'L	.
 8B' 8d'L	8g'	.
@@ -167,8 +167,8 @@
 .	8f#'J	.
 !!LO:LB:g=original
 =20||	=20||	=20||
-*k[b-e-]	*k[b-e-]	*k[b-e-]
-*g:	*g:	*g:
+*k[b-e-]	*k[b-e-]	*
+*g:	*g:	*
 16GLL	4g	.
 16d	.	.
 16B-	.	.
@@ -774,8 +774,8 @@
 8Bn' 8d'L	8g	.
 8A' 8c'J	8aJ	.
 =81||	=81||	=81||
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
+*k[f#]	*k[f#]	*
+*G:	*G:	*
 4G 4B	(8bL	.
 .	8gJ)	.
 8r	8e	.

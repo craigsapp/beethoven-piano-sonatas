@@ -9,10 +9,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
-*k[b-e-]	*k[b-e-]	*k[b-e-]
-*g:	*g:	*g:
-*M9/8	*M9/8	*M9/8
-*MM72	*MM72	*MM72
+*k[b-e-]	*k[b-e-]	*
+*g:	*g:	*
+*M9/8	*M9/8	*
+*MM72	*MM72	*
 =1-	=1-	=1-
 !	!LO:TX:i:a:t=espressivo	!LO:DY:rj
 8GGL	4.B- 4.g	p <
@@ -102,7 +102,7 @@
 4.BB- 4.F	4.A- 4.B- 4.d	.
 !!LO:LB:g=original
 =10||	=10||	=10||
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+*k[b-e-a-]	*k[b-e-a-]	*
 16E-LL	8G 8B- 8e-	.
 16G	.	.
 16B-	8r	.
@@ -337,7 +337,7 @@
 *	*v	*v	*
 !!LO:LB:g=original
 =21||	=21||	=21||
-*k[b-e-]	*k[b-e-]	*k[b-e-]
+*k[b-e-]	*k[b-e-]	*
 8DDL	4.d (4.f#	pp
 8D	.	.
 8DJ	.	.

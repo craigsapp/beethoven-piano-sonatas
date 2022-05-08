@@ -13,10 +13,10 @@
 *>norep[A,B,B2,C,C2,D,E,F]	*>norep[A,B,B2,C,C2,D,E,F]	*>norep[A,B,B2,C,C2,D,E,F]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*E-:	*E-:	*E-:
-*M4/4	*M4/4	*M4/4
-*MM100	*MM100	*MM100
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M4/4	*M4/4	*
+*MM100	*MM100	*
 =1-	=1-	=1-
 2r	(4B-' 4g' 4b-'	pp
 .	4B-') 4g' 4b-'	.
@@ -492,9 +492,9 @@
 =39||	=39||	=39||
 *>E	*>E	*>E
 !!!OMD: Allegro
-*k[]	*k[]	*k[]
-*M6/8	*M6/8	*M6/8
-*MM120	*MM120	*MM120
+*k[]	*k[]	*
+*M6/8	*M6/8	*
+*MM120	*MM120	*
 8r	16G<LL	f
 .	16F<JJ	.
 =40	=40	=40
@@ -819,9 +819,9 @@
 =65	=65	=65
 2.B-; 2.f;	2.dd; 2.aa-;	sf
 =66||	=66||	=66||
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*M4/4	*M4/4	*M4/4
-*MM100	*MM100	*MM100
+*k[b-e-a-]	*k[b-e-a-]	*
+*M4/4	*M4/4	*
+*MM100	*MM100	*
 !!!OMD: Tempo 1<sup>o</sup> (Andante)
 2r	(4B-' 4g' 4b-'	pp
 .	4B-') 4g' 4b-'	.

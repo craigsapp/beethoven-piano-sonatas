@@ -9,10 +9,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
-*k[b-e-]	*k[b-e-]	*k[b-e-]
-*B-:	*B-:	*B-:
-*M6/4	*M6/4	*M6/4
-*MM40	*MM40	*MM40
+*k[b-e-]	*k[b-e-]	*
+*B-:	*B-:	*
+*M6/4	*M6/4	*
+*MM40	*MM40	*
 =1-	=1-	=1-
 16r	16r	.
 48FF\LLL	48r	.
@@ -95,8 +95,8 @@
 *	*v	*v	*
 !!LO:LB:g=original
 =3	=3	=3
-*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*k[f#c#g#d#a#]
-*M5/4	*M5/4	*M5/4
+*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*
+*M5/4	*M5/4	*
 32r	32r	.
 32F#\LLL	32r	.
 32G#\	16r	.
@@ -163,7 +163,7 @@
 16r	.	.
 .	[32dd#\ [32gg#\ [32bb\ [32ddd#\	.
 =5	=5	=5
-*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*
 8GGG#/ 8GG#/	16dd#\] 16gg#\] 16bb\] 16ddd#\LL]	.
 .	16dd#\	.
 8r	16g#\	.
@@ -201,7 +201,7 @@
 *clefF4	*	*
 !!LO:LB:g=original
 =7	=7	=7
-*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*
 16c#\LL	4ee\	.
 16G#\	.	.
 16C#\	.	.
@@ -257,7 +257,7 @@
 *	*v	*v	*
 !!LO:LB:g=original
 =10	=10	=10
-*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*
 8r;	8..r;	.
 8r	.	.
 .	[32b\ [32dd#\ [32gg#\ [32bb\	p
@@ -279,7 +279,7 @@
 16r	.	.
 .	[32cc#\ [32ee\ [32aan\ [32ccc#\	.
 =11	=11	=11
-*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*
 48r	16cc#\] 16ee\] 16aa\] 16ccc#\]	.
 48AAAn/LLL	.	.
 48AAn/JJJ	.	.
@@ -294,7 +294,7 @@
 48r	48aa\LLL_	.
 48r	48aa\_ [48aaa#\	.
 48AAA/ 48AA/	48aa\_ 48aaa#\JJJ_	.
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*k[f#c#g#]	*k[f#c#g#]	*
 2AAA/ 2DD/ 2EE/ 2BB/	12aa\] (12aaa#\L]	.
 .	12gg#\ 12ggg#\	.
 .	12ee\ 12eee\J	.
@@ -303,7 +303,7 @@
 .	12b\ 12bb\J)	.
 !!LO:LB:g=original
 =12	=12	=12
-*M10/4	*M10/4	*M10/4
+*M10/4	*M10/4	*
 [1AAA [1DD [1EE [1BB	24gg#\LL	.
 .	24ee\	.
 .	24dd#\	.
@@ -351,8 +351,8 @@
 *	*clefG2	*
 !!LO:LB:g=original
 =13	=13	=13
-*k[]	*k[]	*k[]
-*M6/4	*M6/4	*M6/4
+*k[]	*k[]	*
+*M6/4	*M6/4	*
 16r	[16B/ [16d/LL	.
 16GG\ 16G\	16B/] 16d/JJ]	.
 32.r	32B/ 32d/LLK	.
@@ -387,7 +387,7 @@
 16r	16a\ 16dd\ 16ff\JJ	.
 !!LO:LB:g=original
 =14	=14	=14
-*M6/4	*M6/4	*M6/4
+*M6/4	*M6/4	*
 16r	16a\ [16cc#\ ([16ee\ [16aa\LL	.
 16AAA/ 16CC#/ 16EE/ 16AA/	16a\ 16cc#\] 16ee\]) 16aa\JJ]	.
 32r	32a\ 32cc#\ 32ee\ 32aa\LLK	ff
@@ -420,9 +420,9 @@
 16r	16a\ 16aa\JJ	.
 !!LO:LB:g=original
 =15	=15	=15
-*k[b-e-]	*k[b-e-]	*k[b-e-]
-*M3/4	*M3/4	*M3/4
-*MM110	*MM110	*MM110
+*k[b-e-]	*k[b-e-]	*
+*M3/4	*M3/4	*
+*MM110	*MM110	*
 8FFF/ 8FF/	[2.aa\	pp
 8r	.	.
 8F\ 8A\	.	.
@@ -988,7 +988,7 @@ cq/JJ)	.	.	.
 16BB-/JJ	.	.	.
 *	*v	*v	*
 =60	=60	=60
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
 16AA-/LL	4.g-\ 4.ee-\	.
 16BB-/	.	.
 16C/	.	.
@@ -1361,7 +1361,7 @@ Fq/JJ)	.	.
 *	*v	*v	*
 !!LO:LB:g=original
 =90	=90	=90
-*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]
+*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]	*
 *	*^	*
 16G-\LL	4r	4b-\	.
 16BB-\	.	.	.
@@ -1599,7 +1599,7 @@ Fq/JJ)	.	.
 *	*v	*v	*
 !!LO:LB:g=original
 =115	=115	=115
-*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
 *	*^	*
 8BB-/ 8G-/L	2r	2e-/]	.
 8AA-/ 8F/	.	.	.
@@ -1693,7 +1693,7 @@ CCq/JJ)	.	ee-q/JJ)	.
 .	.	[8dd-\J	.
 !!LO:LB:g=original
 =128	=128	=128	=128
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
+*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]	*
 2D-\]	4r	2dd-\]	.
 .	4r	.	.
 (Cq/LL	.	.	.
@@ -1941,7 +1941,7 @@ E-q/JJ	.	.	.
 16GG-/JJ	.	.	.
 *	*v	*v	*
 =149	=149	=149
-*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
 *	*^	*
 8FF'\ 8F'\L	4ddd-/	16dd-\LL	.
 .	.	16ff\	.
@@ -2011,7 +2011,7 @@ E-q/JJ	.	.	.
 *	*v	*v	*
 !!LO:LB:g=original
 =154	=154	=154
-*k[f#c#]	*k[f#c#]	*k[f#c#]
+*k[f#c#]	*k[f#c#]	*
 *	*^	*
 16D/LL	4.b/	8d\	.
 16BB/	.	.	.
@@ -2690,7 +2690,7 @@ C#q\JJ	.	.
 .	.	16d\JJ	.
 *	*v	*v	*
 =209	=209	=209
-*k[f#]	*k[f#]	*k[f#]
+*k[f#]	*k[f#]	*
 *	*^	*
 (4G#\	(8ee/L]	16cn\LL	.
 .	.	16d\	.
@@ -3019,7 +3019,7 @@ Dq/JJ	.	.	.
 .	16cc/	.	.
 .	16dd/JJ	.	.
 =234	=234	=234	=234
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*
 4EE-/	4ee-/	16a-\LL]	.
 .	.	16g\	.
 .	.	16b-\	.
@@ -3212,7 +3212,7 @@ Dq/JJ	.	.	.
 8r	8bb-\J	.
 8en\	8ggg/	.
 =250	=250	=250
-*k[b-]	*k[b-]	*k[b-]
+*k[b-]	*k[b-]	*
 8C#/	8ee/	.
 8r	8cc#\L	.
 8r	8eee\J	.
@@ -3235,7 +3235,7 @@ Dq/JJ	.	.	.
 =253	=253	=253
 2.r	2.r	.
 =254	=254	=254
-*k[f#c#]	*k[f#c#]	*k[f#c#]
+*k[f#c#]	*k[f#c#]	*
 *	*^	*
 2.r	4r	2.r	.
 .	4a/	.	pp
@@ -3361,7 +3361,7 @@ Dq/JJ	.	.	.
 4En/	4BB-\	4dd-/)	.
 *v	*v	*	*
 =283	=283	=283
-*k[b-e-]	*k[b-e-]	*k[b-e-]
+*k[b-e-]	*k[b-e-]	*
 *^	*^	*
 8F/	4AA\	8cc/	4r	pp
 8r	.	8r	.	.

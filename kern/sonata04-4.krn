@@ -13,10 +13,10 @@
 *>[A,B,B1,B,B2,C,C1,C,C2,D]	*>[A,B,B1,B,B2,C,C1,C,C2,D]	*>[A,B,B1,B,B2,C,C1,C,C2,D]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*E-:	*E-:	*E-:
-*M2/4	*M2/4	*M2/4
-*MM60	*MM60	*MM60
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M2/4	*M2/4	*
+*MM60	*MM60	*
 4r	(8.ff\L	p
 .	16ee-\Jk)	.
 =1	=1	=1
@@ -1926,7 +1926,7 @@
 *	*v	*v	*
 !!LO:LB:g=original
 =153	=153	=153
-*k[b-e-]	*k[b-e-]	*k[b-e-]
+*k[b-e-]	*k[b-e-]	*
 *^	*	*
 16E-/LL	8EE-\	8g\ 8ee-\	.
 16BB-/	.	.	.

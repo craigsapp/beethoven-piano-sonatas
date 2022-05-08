@@ -15,10 +15,10 @@
 *>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*A:	*A:	*A:
-*M2/4	*M2/4	*M2/4
-*MM120	*MM120	*MM120
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
+*M2/4	*M2/4	*
+*MM120	*MM120	*
 8A`	8a` 8aa`	p
 =1	=1	=1
 4E`	4e\` 4ee\`	.
@@ -851,7 +851,7 @@
 !!LO:LB:g=original
 =!|:	=!|:	=!|:
 *>B	*>B	*>B
-*k[]	*k[]	*k[]
+*k[]	*k[]	*
 8c`	8cc` 8ccc`	f
 =126	=126	=126
 4G`	4g 4gg	.
@@ -1617,7 +1617,7 @@
 4r;	4r;	.
 8r	8r	.
 =||	=||	=||
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*k[f#c#g#]	*k[f#c#g#]	*
 8A`	8a` 8aa`	f
 =229	=229	=229
 4E`	4e\` 4ee\`	.

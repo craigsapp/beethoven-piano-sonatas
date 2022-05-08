@@ -8,10 +8,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
-*k[]	*k[]	*k[]
-*a:	*a:	*a:
-*M2/4	*M2/4	*M2/4
-*MM60	*MM60	*MM60
+*k[]	*k[]	*
+*a:	*a:	*
+*M2/4	*M2/4	*
+*MM60	*MM60	*
 =1-	=1-	=1-
 *	*^	*
 (8GGG#/ 8GG#/L	4e/	(8B\L	pp
@@ -212,8 +212,8 @@
 =20	=20	=20
 4EE\ 4GG#\ 4BB\ 4E\	4E/ 4G#/ 4B/ 4e/ 4g#/	p
 =21	=21	=21
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*M6/8	*M6/8	*M6/8
+*k[f#c#g#]	*k[f#c#g#]	*
+*M6/8	*M6/8	*
 *^	*	*
 .	.	g#q/L	.
 .	.	eq/	.
@@ -310,7 +310,7 @@
 8f#/	8aa\	.
 8e/J)	8gg#\J)	.
 =28	=28	=28
-*M7/4	*M7/4	*M7/4
+*M7/4	*M7/4	*
 4e/ 4g#/ 4b/ 4dd/	36ee\ 36eee\LLL	f
 .	36ddd#\	.
 .	36dddn\	.

@@ -14,10 +14,10 @@
 *>norep[A,B,B2,D,D2,E,E2,F]	*>norep[A,B,B2,D,D2,E,E2,F]	*>norep[A,B,B2,D,D2,E,E2,F]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
-*f:	*f:	*f:
-*M2/4	*M2/4	*M2/4
-*MM144	*MM144	*MM144
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*f:	*f:	*
+*M2/4	*M2/4	*
+*MM144	*MM144	*
 =1-	=1-	=1-
 *ped	*	*
 4.BB- 4.G	4.en 4.dd-	ff
@@ -2891,7 +2891,7 @@
 =316!|:	=316!|:	=316!|:
 *>D	*>D	*>D
 !!!OMD: Presto
-*MM180	*MM180	*MM180
+*MM180	*MM180	*
 2FFF 2AAA- 2CC 2FF	2A- 2c 2f	ff
 =317	=317	=317
 2FFF 2AAA- 2CC 2FF	2A- 2c 2a-	sf

@@ -12,10 +12,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
-*k[f#]	*k[f#]	*k[f#]
-*e:	*e:	*e:
-*M3/4	*M3/4	*M3/4
-*MM144	*MM144	*MM144
+*k[f#]	*k[f#]	*
+*e:	*e:	*
+*M3/4	*M3/4	*
+*MM144	*MM144	*
 !!LO:TX:i:a:t=con vivacità ed espressione
 8EE 8E	8G 8B 8e 8g	f
 8r	8r	.
@@ -846,7 +846,7 @@
 .	16aa	.
 .	16cccJJ	.
 =118||	=118||	=118||
-*k[]	*k[]	*k[]
+*k[]	*k[]	*
 4AA]	16aaLL	.
 .	16ff	.
 .	16aa	.

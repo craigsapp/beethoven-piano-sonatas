@@ -13,10 +13,10 @@
 *>norep[A,B,C,D,D2,E,A,B]	*>norep[A,B,C,D,D2,E,A,B]	*>norep[A,B,C,D,D2,E,A,B]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
-*A-:	*A-:	*A-:
-*M3/4	*M3/4	*M3/4
-*MM220	*MM220	*MM220
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*A-:	*A-:	*
+*M3/4	*M3/4	*
+*MM220	*MM220	*
 !	!LO:TX:i:a:t=La prima parte senza repetizione.	!
 4r	(8a-L	p
 .	8b-J)	.
@@ -386,8 +386,8 @@
 !!LO:LB:g=original
 =:|!	=:|!	=:|!
 *>C	*>C	*>C
-*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
-*M3/4	*M3/4	*M3/4
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
+*M3/4	*M3/4	*
 *^	*	*
 !	!	!LO:TX:i:a:t=TRIO	!
 4A-	4r	4ryy	.

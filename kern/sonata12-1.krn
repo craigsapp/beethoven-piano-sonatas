@@ -11,10 +11,10 @@
 *Ipiano	*Ipiano	*Ipiano
 *>Theme	*>Theme	*>Theme
 *clefF4	*clefG2	*
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
-*A-:	*A-:	*A-:
-*M3/8	*M3/8	*M3/8
-*MM72	*MM72	*MM72
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*A-:	*A-:	*
+*M3/8	*M3/8	*
+*MM72	*MM72	*
 8E-	8e-	p
 =1	=1	=1
 *^	*^	*
@@ -224,8 +224,8 @@
 !!LO:LB:g=original
 =||	=||	=||
 *>VarI	*>VarI	*>VarI
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
-*M3/8	*M3/8	*M3/8
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*M3/8	*M3/8	*
 *^	*	*
 !	!	!LO:TX:i:a:t=Variation 1	!
 [8E-	8rEE	8ryy	.
@@ -542,7 +542,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 !!LO:LB:g=original
 =||	=||	=||
 *>VarTwo	*>VarTwo	*>VarTwo
-*M3/8	*M3/8	*M3/8
+*M3/8	*M3/8	*
 16EE- 16E-LL	32r	.
 .	32c 32e-LLL	p
 16EE- 16E-JJ	32r	.
@@ -996,8 +996,8 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 !!LO:LB:g=original
 =||	=||	=||
 *>VarThree	*>VarThree	*>VarThree
-*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]
-*M3/8	*M3/8	*M3/8
+*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*
+*M3/8	*M3/8	*
 *^	*	*
 !	!	!LO:TX:i:a:t=Variation III	!
 16E-LL	8r	8r	p
@@ -1440,7 +1440,7 @@ N[16B--Jk	.	.	.
 =||	=||	=||
 *>VarFive	*>VarFive	*>VarFive
 !	!LO:TX:i:a:t=Variation V	!
-*M3/8	*M3/8	*M3/8
+*M3/8	*M3/8	*
 !	!	!LO:TX:pos=a:i:t=dolce
 8r	(>(<24cLL	p
 .	24f	.

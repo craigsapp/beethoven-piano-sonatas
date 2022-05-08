@@ -10,10 +10,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
-*M4/4	*M4/4	*M4/4
-*MM160	*MM160	*MM160
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M4/4	*M4/4	*
+*MM160	*MM160	*
 .	(8eeq	.
 2r	(8ddL)	p
 .	8cc#	.

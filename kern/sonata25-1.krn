@@ -12,10 +12,10 @@
 *>norep[I,A,A2,B,B2,C]	*>norep[I,A,A2,B,B2,C]	*>norep[I,A,A2,B,B2,C]
 *>I	*>I	*>I
 *clefF4	*clefG2	*
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
-*M3/4	*M3/4	*M3/4
-*MM200	*MM200	*MM200
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M3/4	*M3/4	*
+*MM200	*MM200	*
 =1-	=1-	=1-
 8G 8BL	4g' 4gg'	f
 8d	.	.

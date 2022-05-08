@@ -14,10 +14,10 @@
 *>norep[A,B,B2,C]	*>norep[A,B,B2,C]	*>norep[A,B,B2,C]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*A:	*A:	*A:
-*M4/4	*M4/4	*M4/4
-*MM120	*MM120	*MM120
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
+*M4/4	*M4/4	*
+*MM120	*MM120	*
 =1-	=1-	=1-
 16AALL	4r	p
 16C#	.	.
@@ -834,8 +834,8 @@
 *v	*v	*	*
 =57!|:	=57!|:	=57!|:
 *>B	*>B	*>B
-*k[]	*k[]	*k[]
-*a:	*a:	*a:
+*k[]	*k[]	*
+*a:	*a:	*
 !	!LO:TX:a:i:t=sempre staccato	!LO:DY:rj
 4AA 4C 4E 4A	12r	ff
 .	12a'L<	.
@@ -1467,8 +1467,8 @@
 12BB'	.	.
 12AA#J	.	.
 =100||	=100||	=100||
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*A:	*A:	*A:
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
 12D'L	1ryy	.
 12C#'	.	.
 12BB'J	.	.

@@ -14,10 +14,10 @@
 *>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]	*>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]	*>norep[A,B,C,D,D2,E,E2,F,F2,G,G2,H]
 *>A	*>A	*>A
 *clefF4	*clefF4	*
-*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
-*D-:	*D-:	*D-:
-*M2/4	*M2/4	*M2/4
-*MM60	*MM60	*MM60
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
+*D-:	*D-:	*
+*M2/4	*M2/4	*
+*MM60	*MM60	*
 =1-	=1-	=1-
 !	!	!LO:DY:t=%s e dolce
 4DD-	4D- 4F 4A-	p

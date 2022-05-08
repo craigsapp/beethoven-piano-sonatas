@@ -11,10 +11,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefF4	*
-*k[b-]	*k[b-]	*k[b-]
-*F:	*F:	*F:
-*M6/8	*M6/8	*M6/8
-*MM40	*MM40	*MM40
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M6/8	*M6/8	*
+*MM40	*MM40	*
 =1-	=1-	=1-
 4.FFF 4.FF	8r	pp
 .	16.CLL<	.

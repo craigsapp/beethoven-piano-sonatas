@@ -11,10 +11,10 @@
 *>[I,A,A1,A,A2,B,B1,B,B2,Bx,C,A,A2,B,B2]	*>[I,A,A1,A,A2,B,B1,B,B2,Bx,C,A,A2,B,B2]	*>[I,A,A1,A,A2,B,B1,B,B2,Bx,C,A,A2,B,B2]
 *>norep[I,A,A2,B,B2,Bx,C,A,A2,B,B2]	*>norep[I,A,A2,B,B2,Bx,C,A,A2,B,B2]	*>norep[I,A,A2,B,B2,Bx,C,A,A2,B,B2]
 *>I	*>I	*>I
-*k[b-]	*k[b-]	*k[b-]
-*F:	*F:	*F:
-*M4/4	*M4/4	*M4/4
-*MM160	*MM160	*MM160
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M4/4	*M4/4	*
+*MM160	*MM160	*
 16FFF 16FF	16A 16c 16f 16a	f
 =1!|:	=1!|:	=1!|:
 *>A	*>A	*>A

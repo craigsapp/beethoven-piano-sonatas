@@ -12,10 +12,10 @@
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
-*M2/4	*M2/4	*M2/4
-*MM104	*MM104	*MM104
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M2/4	*M2/4	*
+*MM104	*MM104	*
 !	!	!LO:DY:t=%s legato
 4r	16r	p
 .	(16dLL	.
@@ -114,7 +114,6 @@
 .	16ddqJJ)	.
 !!LO:LB:g=original
 =10	=10	=10
-
 (16AALL	(4ee	rfz >
 16C	.	.
 16F#	.	.

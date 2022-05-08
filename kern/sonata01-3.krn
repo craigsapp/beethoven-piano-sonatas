@@ -13,11 +13,11 @@
 *>norep[A,B,C,D,A,B]	*>norep[A,B,C,D,A,B]	*>norep[A,B,C,D,A,B]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
-*kcancel	*	*kcancel
-*f:	*f:	*f:
-*M3/4	*M3/4	*M3/4
-*MM118	*MM118	*MM118
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*kcancel	*kcancel	*
+*f:	*f:	*
+*M3/4	*M3/4	*
+*MM118	*MM118	*
 !	!	!LO:DY:rj
 4r	4c' 4a-'	p
 =1	=1	=1
@@ -227,8 +227,8 @@
 =:|!	=:|!	=:|!
 !!!OMD: TRIO
 *>C	*>C	*>C
-*k[b-]	*k[b-]	*k[b-]
-*M3/4	*M3/4	*M3/4
+*k[b-]	*k[b-]	*
+*M3/4	*M3/4	*
 =!|:	=!|:	=!|:
 4r	4c	p
 =41	=41	=41

@@ -13,11 +13,11 @@
 *>norep[I,A,A2,B,B2]	*>norep[I,A,A2,B,B2]	*>norep[I,A,A2,B,B2]
 *>I	*>I	*>I
 *clefF4	*clefG2	*
-*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]
-*F#:	*F#:	*F#:
-*M2/4	*M2/4	*M2/4
-*MM120	*MM120	*MM120
-*MM60	*MM60	*MM60
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
+*F#:	*F#:	*
+*M2/4	*M2/4	*
+*MM120	*MM120	*
+*MM60	*MM60	*
 =1-	=1-	=1-
 2FFF# 2FF#	4A# (>4c#	pp
 .	8.A# 8.c# 8.f#L	.
@@ -40,7 +40,7 @@
 *	*v	*v	*
 =||	=||	=||
 !!!OMD: Allegro ma non troppo
-*MM120	*MM120	*MM120
+*MM120	*MM120	*
 !	!	!LO:DY:i:t=%s dolce
 4r	(8.a#L	p
 .	16bJk)	.

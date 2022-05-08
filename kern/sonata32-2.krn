@@ -14,10 +14,10 @@
 *>norep[A,A2,B,B2,C,C2,D,D2,E,E2,F,F2,G,G2,H,H2,I]	*>norep[A,A2,B,B2,C,C2,D,D2,E,E2,F,F2,G,G2,H,H2,I]	*>norep[A,A2,B,B2,C,C2,D,D2,E,E2,F,F2,G,G2,H,H2,I]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*M9/16	*M9/16	*M9/16
-*MM40	*MM40	*MM40
+*k[]	*k[]	*
+*C:	*C:	*
+*M9/16	*M9/16	*
+*MM40	*MM40	*
 *	*^	*
 8.CC/ 8.GG/	8cc/L	8.e\	p
 .	16g/Jk	.	.
@@ -341,7 +341,7 @@
 *v	*v	*	*
 =!|:	=!|:	=!|:
 *>E	*>E	*>E
-*M6/16	*M6/16	*M6/16
+*M6/16	*M6/16	*
 (16c\LL	8.r	.
 32G\k	.	.
 16F#\	.	.
@@ -609,8 +609,8 @@
 !!LO:LB:g=original
 =	=	=
 *>G	*>G	*>G
-*M12/32	*M12/32	*M12/32
-*MM30	*MM30	*MM30
+*M12/32	*M12/32	*
+*MM30	*MM30	*
 *clefF4	*	*
 8r	(48ccc\LLL	f
 .	96gg\k	.
@@ -1085,8 +1085,8 @@
 *	*v	*v	*
 =73	=73	=73
 *>I	*>I	*>I
-*M9/16	*M9/16	*M9/16
-*MM40	*MM40	*MM40
+*M9/16	*M9/16	*
+*MM40	*MM40	*
 48CC/LLL	16E\ 16c\LL	pp
 48GG/	.	.
 48CC/	.	.
@@ -2330,7 +2330,7 @@
 8.r	[8.ccc\J	.
 *clefF4	*	*
 =125	=125	=125
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+*k[b-e-a-]	*k[b-e-a-]	*
 8.r	8.ccc\L]	.
 8.r	8.ccc#\	.
 [8.BBB-/	[8.ddd\J	>
@@ -2533,7 +2533,7 @@
 *	*v	*v	*
 !!LO:LB:g=original
 =141	=141	=141
-*k[]	*k[]	*k[]
+*k[]	*k[]	*
 *	*^	*
 48BB\LLL	4.g/	16d\LL	.
 48D\	.	.	.

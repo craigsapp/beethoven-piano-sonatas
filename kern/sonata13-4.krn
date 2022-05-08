@@ -10,10 +10,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*E-:	*E-:	*E-:
-*M2/4	*M2/4	*M2/4
-*MM144	*MM144	*MM144
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M2/4	*M2/4	*
+*MM144	*MM144	*
 *^	*	*
 8BB-'	8r	8ryy	p
 =1	=1	=1	=1
@@ -2144,8 +2144,8 @@
 !!LO:LB:g=original
 =256||	=256||	=256||
 !!!OMD: Adagio
-*M3/4	*M3/4	*M3/4
-*MM60	*MM60	*MM60
+*M3/4	*M3/4	*
+*MM60	*MM60	*
 *	*^	*
 8EE- 8E-L	2B- 2e- 2g	2ryy	p
 8EE- 8E-	.	.	.
@@ -2291,8 +2291,8 @@
 *	*tuplet	*
 =266||	=266||	=266||
 !!!OMD: Presto
-*M2/4	*M2/4	*M2/4
-*MM208	*MM208	*MM208
+*M2/4	*M2/4	*
+*MM208	*MM208	*
 *^	*	*
 =	=	=	=
 (4E-	8rEE	2ryy	p

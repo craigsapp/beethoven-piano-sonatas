@@ -14,10 +14,10 @@
 *>norep[I,A,B]	*>norep[I,A,B]	*>norep[I,A,B]
 *>I	*>I	*>I
 *clefF4	*clefG2	*
-*k[b-]	*k[b-]	*k[b-]
-*d:	*d:	*d:
-*M3/8	*M3/8	*M3/8
-*MM116	*MM116	*MM116
+*k[b-]	*k[b-]	*
+*d:	*d:	*
+*M3/8	*M3/8	*
+*MM116	*MM116	*
 16r	(16a\LL	p
 8r	16ff\	.
 .	16ee\JJ	.

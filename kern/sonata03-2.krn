@@ -11,10 +11,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
-*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]
-*E:	*E:	*E:
-*M2/4	*M2/4	*M2/4
-*MM50	*MM50	*MM50
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*E:	*E:	*
+*M2/4	*M2/4	*
+*MM50	*MM50	*
 =1-	=1-	=1-
 *	*^	*
 !	!	!	!LO:DY:rj
@@ -106,8 +106,8 @@
 *v	*v	*	*
 !!LO:LB:g=original
 =11||	=11||	=11||
-*k[f#]	*k[f#]	*k[f#]
-*e:	*e:	*e:
+*k[f#]	*k[f#]	*
+*e:	*e:	*
 4EE 4E	32r	.
 .	(32eLLL	.
 .	32g	.
@@ -722,8 +722,8 @@
 16D#Jk)	32B	.
 .	32aJJJ	.
 =43||	=43||	=43||
-*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]
-*E:	*E:	*E:
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*E:	*E:	*
 *^	*	*
 4B	4EE 4E	(16.g#LL	.
 .	.	32f#k)	.
@@ -1093,10 +1093,10 @@
 16g#>LL	32eeLLL)	.
 .	64rff	.
 .	(<64bJJJk	.
-16d#> 16f#>	32ff#LLL)		.
+16d#> 16f#>	32ff#LLL)	.
 .	64rff	.
 .	(<64bJJJk	.
-16e> 16g#>	32gg#LLL)		.
+16e> 16g#>	32gg#LLL)	.
 .	64rff	.
 .	(<64bJJJk	.
 16A 16f#>JJ	16cc#) 16aa	.

@@ -12,10 +12,10 @@
 *Ipiano	*Ipiano	*Ipiano
 =1-	=1-	=1-
 *clefF4	*clefF4	*
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4
-*MM144	*MM144	*MM144
+*k[]	*k[]	*
+*C:	*C:	*
+*M4/4	*M4/4	*
+*MM144	*MM144	*
 8CCL	8r	.
 8CC 8GG	8C 8EL	pp
 8CC 8GG	8C 8E	.
@@ -1534,7 +1534,7 @@
 12FJ	.	.
 !!LO:LB:g=original
 =113	=113	=113
-*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*
 12EEL	(8cccL	.
 12GG	.	.
 .	16eeeL	.
@@ -1876,7 +1876,7 @@
 *v	*v	*	*
 !!LO:LB:g=original
 =137	=137	=137
-*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*
 *^	*	*
 12cL	[4c	12ee-L	.
 [12e-	.	12cc	.

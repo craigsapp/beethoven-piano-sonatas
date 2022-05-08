@@ -11,10 +11,10 @@
 *>[TA,TA,TB,TB,1A,1A1,1A,1A2,1B,1B1,1B2,Var2,Var3,4I,4A,4A1,4A,4A2,4B,4B1,4B,4B2,Var5,Var6,Theme]	*>[TA,TA,TB,TB,1A,1A1,1A,1A2,1B,1B1,1B2,Var2,Var3,4I,4A,4A1,4A,4A2,4B,4B1,4B,4B2,Var5,Var6,Theme]	*>[TA,TA,TB,TB,1A,1A1,1A,1A2,1B,1B1,1B2,Var2,Var3,4I,4A,4A1,4A,4A2,4B,4B1,4B,4B2,Var5,Var6,Theme]
 *>norep[TA,TB,1A,1A2,1B,1B2,Var2,Var3,4I,4A,4A2,4B,4B2,Var5,Var6,Theme]	*>norep[TA,TB,1A,1A2,1B,1B2,Var2,Var3,4I,4A,4A2,4B,4B2,Var5,Var6,Theme]	*>norep[TA,TB,1A,1A2,1B,1B2,Var2,Var3,4I,4A,4A2,4B,4B2,Var5,Var6,Theme]
 *>TA	*>TA	*>TA
-*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]
-*E:	*E:	*E:
-*M3/4	*M3/4	*M3/4
-*MM84	*MM84	*MM84
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*E:	*E:	*
+*M3/4	*M3/4	*
+*MM84	*MM84	*
 *clefF4	*clefG2	*
 =1-	=1-	=1-
 *	*^	*
@@ -132,7 +132,7 @@ B32q/JJJ	.	.
 !!LO:LB:g=original
 =17:|!	=17:|!	=17:|!
 *>1A	*>1A	*>1A
-*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*
 .	(bq/	.
 4EE/	(2bb\)	p
 4BB\ 4E\ 4G#\ 4B\	.	.
@@ -293,7 +293,7 @@ B32q/JJJ	.	.
 !!LO:LB:g=original
 =36	=36	=36
 *>Var2	*>Var2	*>Var2
-*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*
 16EE/LL	16r	.
 16r	(16B/LL	p
 16r	16g#/JJ)	.
@@ -703,7 +703,7 @@ B32q/JJJ	.	.
 !!LO:LB:g=original
 =68	=68	=68
 *>Var3	*>Var3	*>Var3
-*M2/4	*M2/4	*M2/4
+*M2/4	*M2/4	*
 16G#\LL	8e/	f
 16B\	.	.
 16A\	8r	.
@@ -1003,7 +1003,7 @@ B32q/JJJ	.	.
 !!LO:LB:g=original
 =100	=100	=100
 *>4I	*>4I	*>4I
-*M9/8	*M9/8	*M9/8
+*M9/8	*M9/8	*
 *^	*	*
 4g#/	4.r	(16b\LL]	.
 .	.	16dd#\	.
@@ -1408,7 +1408,7 @@ B32q/JJJ	.	.
 !!LO:LB:g=original
 =120	=120	=120
 *>Var5	*>Var5	*>Var5
-*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*
 4r	2G#\	f
 4EE'/	.	.
 [2GG#/	[2E\	.
@@ -1777,7 +1777,7 @@ B32q/JJJ	.	.
 !!LO:LB:g=original
 =160	=160	=160
 *>Var6	*>Var6	*>Var6
-*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*
 *^	*^	*
 (4BB'/	4EE\	(4b'/	4g#'\	p
 4BB'/	4GG#\	4b/	4e\	.
@@ -1803,7 +1803,7 @@ B32q/JJJ	.	.
 *v	*v	*	*	*
 *	*v	*v	*
 =164	=164	=164
-*M9/8	*M9/8	*M9/8
+*M9/8	*M9/8	*
 *^	*^	*
 8BB/L	4.GG#\	4.ee/ (4.bb/	8b\L	.
 8BB/	.	.	8b\	.
@@ -1870,7 +1870,7 @@ B32q/JJJ	.	.
 *v	*v	*	*	*
 *	*v	*v	*
 =168	=168	=168
-*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*
 *^	*^	*
 (32BBB/LLL	4r	4bb/	(32dd#\LLL	.
 32BB/	.	.	32cc#\	.

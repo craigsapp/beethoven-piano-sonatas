@@ -11,8 +11,8 @@
 *clefF4	*clefG2	*
 *k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
 *F#:	*F#:	*
-*M2/4	*M2/4	*M2/4
-*MM120	*MM120	*MM120
+*M2/4	*M2/4	*
+*MM120	*MM120	*
 =1-	=1-	=1-
 4.Dn (4.F#	(4.f# 4.b#	f
 8C# 8G#)	8e#) 8cc#	.
@@ -1419,7 +1419,6 @@
 20BB	.	.
 20C#JJ	.	.
 !	!LO:TX:a:i:t=m.d.	!
-
 !LO:TUP:b	!	!
 20E#LL>	4ryy	.
 20G#	.	.

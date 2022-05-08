@@ -9,10 +9,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*f#:	*f#:	*f#:
-*M6/8	*M6/8	*M6/8
-*MM46	*MM46	*MM46
+*k[f#c#g#]	*k[f#c#g#]	*
+*f#:	*f#:	*
+*M6/8	*M6/8	*
+*MM46	*MM46	*
 =1-	=1-	=1-
 (4.AAA/ 4.AA/	(4.A/	p
 4.CC#/) 4.C#/	4.c#/)	.
@@ -436,7 +436,7 @@
 *v	*v	*	*	*
 *	*v	*v	*
 =41	=41	=41
-*k[f#c#]	*k[f#c#]	*k[f#c#]
+*k[f#c#]	*k[f#c#]	*
 *^	*^	*
 8B#/ (8d#/L	4A\	16aa/LL)	8dd#\L	.
 .	.	16ff#/	.	.
@@ -884,7 +884,7 @@
 !!LO:LB:g=original
 =76	=76	=76
 *clefG2	*	*
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+*k[b-e-a-]	*k[b-e-a-]	*
 *	*^	*
 (16d\LL	4bbn/	4ff\ 4aa-\	.
 16f\	.	.	.
@@ -976,7 +976,7 @@
 16G#/JJ	.	.
 !!LO:LB:g=original
 =82	=82	=82
-*k[]	*k[]	*k[]
+*k[]	*k[]	*
 16EE/LL	4gg#\ 4ggg#\)	.
 16GG#/	.	.
 16C#/	.	.
@@ -1020,7 +1020,7 @@
 *	*v	*v	*
 !!LO:LB:g=original
 =85	=85	=85
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*k[f#c#g#]	*k[f#c#g#]	*
 16r	4b\ 4bb\)	.
 16G#/ 16g#/	.	.
 16r	.	.
@@ -1836,7 +1836,7 @@
 *v	*v	*	*
 !!LO:LB:g=original
 =126	=126	=126
-*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
 *^	*	*
 8d##/ (8f##/L	4c#\	16cc#\] (16ccc#\LL]	.
 .	.	16a#\ 16aa#\	.
@@ -2256,7 +2256,7 @@
 8AAAn/ 8AAn/J	.	.
 !!LO:LB:g=original
 =157	=157	=157
-*k[f#]	*k[f#]	*k[f#]
+*k[f#]	*k[f#]	*
 &(8BBB/&) 8BB/L	[4.gg\ [4.ggg\)	<
 8BB/ (8G/	.	.
 8C/ 8A/J	.	.
@@ -2414,7 +2414,7 @@
 *clefG2	*	*
 !!LO:LB:g=original
 =165	=165	=165
-*k[f#c#]	*k[f#c#]	*k[f#c#]
+*k[f#c#]	*k[f#c#]	*
 (32B#/LLL	16ff#\ 16fff#\	f
 32a/	.	.
 32d#/ 32f#/	[16fff#\LL	.
@@ -2451,7 +2451,7 @@
 48D#\ 48F#\	.	.
 48A\JJJ)	.	.
 =166	=166	=166
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*k[f#c#g#]	*k[f#c#g#]	*
 (4c#\	(4cc#/	.
 8A\)	8a/)	.
 (8A\L	(8a/L	.

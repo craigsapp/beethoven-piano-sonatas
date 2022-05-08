@@ -13,10 +13,10 @@
 *>norep[A,B,C,C2,D]	*>norep[A,B,C,C2,D]	*>norep[A,B,C,C2,D]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]
-*a-:	*a-:	*a-:
-*M4/4	*M4/4	*M4/4
-*MM52	*MM52	*MM52
+*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*
+*a-:	*a-:	*
+*M4/4	*M4/4	*
+*MM52	*MM52	*
 4r	8.E-< 8.e-L	p
 .	16E-< 16e-Jk	.
 =1	=1	=1
@@ -261,7 +261,7 @@
 !!LO:LB:g=original
 =31	=31	=31
 *>B	*>B	*>B
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
 *^	*	*
 32cLLL	32AAA-LLL	4r	p
 32E-	32AA-	.	.
@@ -427,7 +427,7 @@
 16E-Jk	16e-Jk	.
 =40	=40	=40
 *>D	*>D	*>D
-*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]
+*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*
 *^	*	*
 *	*^	*	*
 4E- 4A- 4c-	2AAA-	1AA-	4e-	.

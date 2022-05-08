@@ -13,10 +13,10 @@
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[b-]	*k[b-]	*k[b-]
-*F:	*F:	*F:
-*M2/4	*M2/4	*M2/4
-*MM152	*MM152	*MM152
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M2/4	*M2/4	*
+*MM152	*MM152	*
 8C'	8r	mf
 =1	=1	=1
 8F'L	2r	.

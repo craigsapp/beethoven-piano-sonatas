@@ -9,10 +9,10 @@
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
-*M3/8	*M3/8	*M3/8
-*MM120	*MM120	*MM120
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M3/8	*M3/8	*
+*MM120	*MM120	*
 8r	(16BLL	p
 .	16cJJ	.
 =1	=1	=1

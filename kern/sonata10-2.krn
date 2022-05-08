@@ -12,10 +12,10 @@
 *>norep[A,B,C,D,D2,E,F,F2,G]	*>norep[A,B,C,D,D2,E,F,F2,G]	*>norep[A,B,C,D,D2,E,F,F2,G]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4
-*MM112	*MM112	*MM112
+*k[]	*k[]	*
+*C:	*C:	*
+*M4/4	*M4/4	*
+*MM112	*MM112	*
 16r	16G	p
 =1	=1	=1
 *^	*	*

@@ -14,10 +14,10 @@
 *>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]
 *>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]
 *clefF4	*clefG2	*
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4
-*MM132	*MM132	*MM132
+*k[]	*k[]	*
+*C:	*C:	*
+*M4/4	*M4/4	*
+*MM132	*MM132	*
 *>A	*>A	*>A
 =1-	=1-	=1-
 1C 1G	2c 2e	p

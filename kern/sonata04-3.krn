@@ -14,11 +14,11 @@
 *>norep[A,B,C,D,A,B]	*>norep[A,B,C,D,A,B]	*>norep[A,B,C,D,A,B]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*E-:	*E-:	*E-:
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*E-:	*E-:	*E-:
-*M3/4	*M3/4	*M3/4
-*MM132	*MM132	*MM132
+*E-:	*E-:	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M3/4	*M3/4	*
+*MM132	*MM132	*
 =1-	=1-	=1-
 !	!	!LO:DY:t=%s dolce
 4r	2B- 2e- 2g (>2b-	p
@@ -530,8 +530,8 @@
 !!LO:TX:b:i:rj:t=Fin
 =96:|!|:	=96:|!|:	=96:|!|:
 *>C	*>C	*>C
-*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]
-*e-:	*e-:	*e-:
+*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]	*
+*e-:	*e-:	*
 !!LO:TX:a:B:t=Minore
 4r	4B-	pp
 =97	=97	=97

@@ -12,10 +12,10 @@
 *>norep[A,X,B,B2,C,D,D2,E]	*>norep[A,X,B,B2,C,D,D2,E]	*>norep[A,X,B,B2,C,D,D2,E]
 *>A	*>A	*>A
 *clefF4	*clefG2	*
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
-*f:	*f:	*f:
-*M2/4	*M2/4	*M2/4
-*MM240	*MM240	*MM240
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*f:	*f:	*
+*M2/4	*M2/4	*
+*MM240	*MM240	*
 =1-	=1-	=1-
 4FF/ 4F/	(4a-/ 4cc/	p
 4GG/ 4G/	4en/ 4b-/	.
@@ -157,7 +157,7 @@
 !!LO:LB:g=original
 =43	=43	=43
 *>C	*>C	*>C
-*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
 4DD-/	(8fff\L]	f
 .	8ccc\	.
 4F\	8eee-\	.
@@ -441,7 +441,7 @@
 .	8dd-;\J	.
 *clefF4	*	*
 =98	=98	=98
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
 4FF\ 4F\	(4a-/ 4cc/	p
 4GG\ 4G\	4en/ 4b-/	.
 =99	=99	=99

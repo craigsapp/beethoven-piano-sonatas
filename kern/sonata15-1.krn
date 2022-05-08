@@ -12,10 +12,10 @@
 *>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]
 *>I	*>I	*>I
 *clefF4	*clefG2	*
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*M3/4	*M3/4	*M3/4
-*MM240	*MM240	*MM240
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M3/4	*M3/4	*
+*MM240	*MM240	*
 =1-	=1-	=1-
 4DD	2.r	p
 4DD	.	.
