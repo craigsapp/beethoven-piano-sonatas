@@ -44,6 +44,7 @@
 4CC/ 4C/	4gg/	4een\	f
 4BBBn/ 4BBn/	4gg/	4ddn\	.
 *	*v	*v	*
+!!LO:LB:g=original
 =10!|:	=10!|:	=10!|:
 *>B	*>B	*>B
 *	*^	*
@@ -81,6 +82,7 @@
 4B-\ 4d-\	8g/ 8b-/L	.
 .	8f/ 8a-/J	.
 4r	4e-/) 4g/	.
+!!LO:LB:g=original
 =21	=21	=21
 4r	4cc\ 4ee-\	.
 4AAA-/ 4AA-/	4cc\ (4ee-\	.
@@ -113,6 +115,7 @@
 =30	=30	=30
 4GG\ 4G\	4g/ 4b-/	.
 4AA-\ 4A-\	4f/ 4a-/	.
+!!LO:LB:g=original
 =31	=31	=31
 4BB-\ 4B-\	4en/ 4g/	.
 4BBn\ 4Bn\	4f/ 4a-/	.
@@ -151,6 +154,7 @@
 *>B2	*>B2	*>B2
 4FF/) 4F/	4ff'\	.
 4r	[4fff\	.
+!!LO:LB:g=original
 =43	=43	=43
 *>C	*>C	*>C
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
@@ -193,6 +197,7 @@
 4ddd-\	4f/	.
 4r	(4ggg-\	.
 *clefF4	*	*
+!!LO:LB:g=original
 =51	=51	=51
 4DD-/	(8fff\L)	f
 .	8ccc\	.
@@ -233,6 +238,7 @@
 4ggg-\	4b-\	.
 4r	[4bbb-\	.
 *clefF4	*	*
+!!LO:LB:g=original
 =59	=59	=59
 4GG-/	(8bbb-\L]	.
 .	8fff\	.
@@ -273,6 +279,7 @@
 4ggg-\	4b-\	.
 4r	[4bbb-\	.
 *clefF4	*	*
+!!LO:LB:g=original
 =67	=67	=67
 4GG-/	(8bbb-\L]	f
 .	8fff\	.
@@ -313,6 +320,7 @@
 4eee-\	4g-/	.
 4r	[4ggg-\	.
 *clefF4	*	*
+!!LO:LB:g=original
 =75	=75	=75
 4EE-/	(8ggg-\L]	.
 .	8dddn\	.
@@ -349,6 +357,7 @@
 .	8ddn\	.
 4c\	8ff\	.
 .	8ee-\J	.
+!!LO:LB:g=original
 =83	=83	=83
 4r	8bn\L	.
 .	8dd-\	.
@@ -389,6 +398,7 @@
 .	8dn/	.
 4c\	8f/	.
 .	8e-/J	.
+!!LO:LB:g=original
 =91	=91	=91
 4r	8Bn/L	.
 .	8d-/	.
@@ -437,6 +447,7 @@
 =99	=99	=99
 4AA-\ 4A-\	4f/ 4a-/	.
 4BB-\ 4B-\	4d-/) 4en/ 4g/	.
+!!LO:LB:g=original
 =100	=100	=100
 4BBn'\ 4Bn'\	4A-'/ 4dn'/ 4f'/	.
 4BB'\ 4B'\	4A-'/ 4d'/ 4f'/	.
@@ -464,6 +475,7 @@
 4BB'\ 4B'\	4A-'/ 4d'/ 4f'/	.
 =109	=109	=109
 2C\ 2c\	2G/ 2en/	.
+!!LO:LB:g=original
 =110	=110	=110
 4CC/ (4C/	4cc\ 4een\ (4gg\	f
 4EEn/ 4En/	4g\ 4cc\ 4ee\)	.
@@ -497,6 +509,7 @@
 =119	=119	=119	=119
 4EE-/] 4E-/]	4gg/ (4bb-/	2ee-\]	.
 4AAA-/ 4AA-/	4aa-/ 4ccc/)	.	.
+!!LO:LB:g=original
 =120	=120	=120	=120
 4DD-'/ 4D-'/	4bb-'/ 4ddd-'/	4ff\	.
 4EE-'/ 4E-'/	4gg'/ 4bb-'/	4dd-\	.
@@ -529,6 +542,7 @@
 =129	=129	=129
 4EE-/ 4E-/	4g/ 4b-/	.
 4EEn/ 4En/	4g/ 4cc/)	.
+!!LO:LB:g=original
 =130	=130	=130
 4FF/ 4F/	4f/	.
 4F\ 4A-\	(4f/	.
@@ -565,6 +579,7 @@
 =140	=140	=140	=140
 4A-/	2C\	(4ff'\	.
 4G/	.	4een'\)	.
+!!LO:LB:g=original
 =141	=141	=141	=141
 [4F/	(4D-\	4a-\ (4ff\	ff
 4F/]	4BB-\)	4dd-\ 4gg\)	.
@@ -600,6 +615,7 @@
 2FF/ 2C/ 2F/	2a-\ 2cc\ 2ff\ 2aa-\	.
 =153	=153	=153
 2r	2r	.
+!!LO:LB:g=original
 =154	=154	=154
 2BBB-/ 2BB-/	2dd-\ 2ff\ 2bb-\ 2ddd-\	.
 =155	=155	=155

@@ -43,6 +43,7 @@
 .	32b-	.	.
 .	32ccJJJ)	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =5	=5	=5
 (8FL	4a-X (4dd-	<
 8f	.	.
@@ -76,6 +77,7 @@
 32Fk	.	32fk	.	.
 16.G	.	16.g	.	.
 32E-JJk)	.	32e-JJk)	.	.
+!!LO:LB:g=original
 =11	=11	=11	=11	=11
 4A-	8rBB	(4a-	8rc	.
 .	(8CL	.	8e-L	.
@@ -111,6 +113,7 @@
 8AA-`L	8c) 8a-	.
 8AAA-`J	8r	.
 [8fz	8r	.
+!!LO:LB:g=original
 =17	=17	=17
 4f]	8an (8ccL<	.
 .	8g 8b-	.
@@ -144,6 +147,7 @@
 .	16A-JJ)	.	.	.
 .	.	32ffJJk)	.	.
 *v	*v	*	*	*
+!!LO:LB:g=original
 =23	=23	=23	=23
 *	*	*^	*
 4BB- (4B-	(4ee-X	4g	8gL>	p
@@ -182,6 +186,7 @@
 32Fk	.	32fk	.	.
 16.G	.	16.g	.	.
 32E-JJk)	.	32e-JJk)	.	.
+!!LO:LB:g=original
 =29	=29	=29	=29	=29
 4A-	8rBB	(4a-	8rc	<
 .	(8CL	.	8e-L	.
@@ -216,6 +221,7 @@
 =34	=34	=34
 8AA-`L	8c) 8a-	.
 8AAA-`J	8r	.
+!!LO:LB:g=original
 =||	=||	=||
 *>VarI	*>VarI	*>VarI
 *k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
@@ -272,6 +278,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 8D- 8G	8ffL	sf
 8C 8A-J)	16ee-Jk)	.
 .	16r	.
+!!LO:LB:g=original
 =41	=41	=41
 *^	*	*
 32r	(8FFL	4.ryy	<
@@ -321,6 +328,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32B-	.	.
 .	32cJJJ)	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =47	=47	=47
 8FF'L	(32d-'LLL	.
 .	32d-	.
@@ -371,6 +379,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 8BB-	16r	.
 .	32b- (32dd-LLL	.
 .	32a-X 32ccJJJ)	.
+!!LO:LB:g=original
 =53	=53	=53
 32e-LLL	8g (8b-L<	.
 (32E-	.	.
@@ -426,6 +435,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 32G'	.	.
 32An'JJJ	.	.
 8Bn'	8f 8a- 8ddn	sf
+!!LO:LB:g=original
 =58	=58	=58
 32r	4e- 4g 4ee-	.
 32CC'LLL	.	.
@@ -478,6 +488,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32gJJJ	.
 .	8dd-^<L	.
 .	8gJ)	.
+!!LO:LB:g=original
 =63	=63	=63
 *^	*^	*
 8ryy	8CC\ 8EE-\ 8C\	32a-'>LLL	4ryy	.
@@ -528,6 +539,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 =68	=68	=68
 8AA-`L)	8c 8a-	.
 8AAA-`J	8r	.
+!!LO:LB:g=original
 =||	=||	=||
 *>VarTwo	*>VarTwo	*>VarTwo
 *M3/8	*M3/8	*M3/8
@@ -561,6 +573,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32B- 32d- 32e-	.
 16EE-' 16E-'JJ	32r	.
 .	32B- 32d- 32e-JJJ	.
+!!LO:LB:g=original
 =71	=71	=71
 16EE-' 16E-'LL	32re	.
 .	32c 32e-LLL	.
@@ -601,6 +614,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32a- 32aa-	.
 16c'JJ	32r	.
 .	32a- 32aa-JJJ	.
+!!LO:LB:g=original
 =74	=74	=74
 16Dn'LL	32r	.
 .	32a- 32aa-LLL	.
@@ -640,6 +654,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32e- 32ee-	.
 16EE- 16E-JJ	32r	.
 .	32e- 32ee-JJJ	.
+!!LO:LB:g=original
 =77	=77	=77
 16EE- (16E-LL	32r	.
 .	32e- 32cc 32ee-LLL	.
@@ -679,6 +694,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32e- 32b- 32ee-	.
 16B-'JJ	32r	.
 .	32e- 32dd- 32ee-JJJ	.
+!!LO:LB:g=original
 =80	=80	=80
 16AA-' 16E-'LL	32r	.
 .	32e- 32a- 32cc 32ee-LLL<	.
@@ -719,6 +735,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32a- 32aa-	.
 16e-'JJ	32r	.
 .	32a- 32aa-JJJ	.
+!!LO:LB:g=original
 =83	=83	=83
 16E-'LL	32rg	.
 .	32e- 32cc 32ee-LLL	.
@@ -755,6 +772,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32ee- 32eee-	.
 16c'JJ	32rdd	.
 .	32ee- 32eee-JJJ	.
+!!LO:LB:g=original
 =86	=86	=86
 16BB-'LL	32rb	.
 .	32dd- 32ddd-LLL	.
@@ -794,6 +812,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32a- 32aa-	.
 16E-'JJ	32rb	.
 .	32a- 32aa-JJJ	.
+!!LO:LB:g=original
 =89	=89	=89
 16C'LL<	32r	.
 .	32a- 32aa-LLL	.
@@ -833,6 +852,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32a- 32ff 32aa-	.
 16Dn'JJ	32r	.
 .	32a- 32ff 32aa-JJJ	.
+!!LO:LB:g=original
 =92	=92	=92
 16C'LL	32rb	.
 .	32g 32ff 32ggLLL	.
@@ -872,6 +892,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32e- 32b- 32dd-	.
 16E-'JJ	32r	.
 .	32e- 32b- 32dd-JJJ	.
+!!LO:LB:g=original
 =95	=95	=95
 16AA- (16E-LL	32r	.
 .	32e- 32a- 32ccLLL<	.
@@ -911,6 +932,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32e- 32g 32dd- 32ee-	.
 16BB-' 16B-'JJ	32r	.
 .	32e- 32g 32dd- 32ee-JJJ	.
+!!LO:LB:g=original
 =98	=98	=98
 16EE-' 16E-'LL<	32r	.
 .	32e- 32a- 32ee-LLL<	.
@@ -938,6 +960,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 .	32a- 32aa-	.
 16c'JJ	32r	.
 .	32a- 32aa-JJJ	.
+!!LO:LB:g=original
 =100	=100	=100
 16Dn'LL	32r	.
 .	32a- 32aa-LLL	.
@@ -970,6 +993,7 @@ N(32E-LLL]	4.AAA- 4.EE- 4.AA-	4.ryy	p
 16A-'JJ	32rg	.
 .	32c 32e- 32a-JJJ	.
 8AAA-	8r	.
+!!LO:LB:g=original
 =||	=||	=||
 *>VarThree	*>VarThree	*>VarThree
 *k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]
@@ -1014,6 +1038,7 @@ N[16B--Jk	.	.	.
 .	8c	.
 8E- 8G- 8B--J	.	.
 .	[16cJk	.
+!!LO:LB:g=original
 =108	=108	=108
 8F- 8A-L	16cLK]	.
 .	8d-	.
@@ -1056,6 +1081,7 @@ N[16B--Jk	.	.	.
 .	8A- 8a-	.
 8C-` 8E-`J	.	.
 .	[16A- [16a-Jk	.
+!!LO:LB:g=original
 =114	=114	=114
 8DD-`zL	16A-] 16a-LK]	.
 .	8B-- 8b--	.
@@ -1095,6 +1121,7 @@ N[16B--Jk	.	.	.
 (8cnL	.	8a-	[4a-\	.
 8A-J	.	8ccnJ	.	.
 *	*	*v	*v	*
+!!LO:LB:g=original
 =120	=120	=120	=120
 8d-L	8dd- 8gg-L]	4a-]	.
 8D-J)	8ff-J	.	.
@@ -1132,6 +1159,7 @@ N[16B--Jk	.	.	.
 .	16e- 16ee-Jk	.
 8BBB-` 8BB-`	16dn 16ddnLL<	.
 .	[16dz [16ddzJJ	.
+!!LO:LB:g=original
 =126	=126	=126
 8CC-` 8C-`L	16dn] 16ddnLK]	.
 .	8e- 8ee-	.
@@ -1167,6 +1195,7 @@ N[16B--Jk	.	.	.
 .	8G 8g	.
 8BB-` 8D-`J	.	.
 .	[16G [16gJk	.
+!!LO:LB:g=original
 =131	=131	=131
 8CC-`zL<	16G] 16gLK]	.
 .	8A- 8a-	.
@@ -1205,6 +1234,7 @@ N[16B--Jk	.	.	.
 =136	=136	=136
 8AA-' 8A-'L	8a-	p
 8AAA-'J	8r	.
+!!LO:LB:g=original
 =||	=||	=||
 *>VarFour	*>VarFour	*>VarFour
 *M3/8	*M3/8	*
@@ -1233,6 +1263,7 @@ N[16B--Jk	.	.	.
 8A-' 8c'J	8e-') 8cc'J	.
 *clefG2	*	*
 8dn' 8a-'	[8ffn [8fffn	< [
+!!LO:LB:g=original
 =142	=142	=142
 8d-X' 8g' 8b-'L	8ff] (8fffL]	>
 8c' 8a-' 8cc'J	8ee-' 8eee-'J)	]
@@ -1262,6 +1293,7 @@ N[16B--Jk	.	.	.
 *clefG2	*	*
 16c' 16e-'LL	[8aa- [8ccc	.
 16c' 16e-'JJ	.	.
+!!LO:LB:g=original
 =148	=148	=148
 16dn' 16f'LL	8aa-] (8cccL]	.
 16d' 16f'JJ	.	.
@@ -1296,6 +1328,7 @@ N[16B--Jk	.	.	.
 8ryy	8BB- 8D-	[8g- [>8G-<	.	.
 *v	*v	*	*	*
 *	*v	*v	*
+!!LO:LB:g=original
 =153	=153	=153
 8AAn'<\ 8C'<\	8G-<] (>8g-L]	.
 8rGG	8F< 8fJ)	.
@@ -1328,6 +1361,7 @@ N[16B--Jk	.	.	.
 4ryy	8B-'L	(8ffL]	4g 4b-	.
 .	8BB-'J	8ee-J)	.	.
 8ryy	8BBn	8ryy	[8dn [>8F< [>8A-X<	sf
+!!LO:LB:g=original
 =160	=160	=160	=160	=160
 8ryy	8C'L	4ryy	(>8d 8F<] 8A-<L]	.
 8ryy	8CC'<J	.	8e- 8E-< 8G<J)	.
@@ -1368,6 +1402,7 @@ N[16B--Jk	.	.	.
 *clefG2	*	*
 16c' 16e-'LL	[8aa- [8ccc	.
 16c' 16e-'JJ	.	.
+!!LO:LB:g=original
 =166	=166	=166
 16dn' 16f'LL	(8aa-] 8cccL]	.
 16d' 16f'JJ	.	.
@@ -1401,6 +1436,7 @@ N[16B--Jk	.	.	.
 8AA-'L	8a-)	8A- 8c)	.
 8AAA-'J	8r	8r	.
 *	*v	*v	*
+!!LO:LB:g=original
 =||	=||	=||
 *>VarFive	*>VarFive	*>VarFive
 !	!LO:TX:i:a:t=Variation V	!
@@ -1440,6 +1476,7 @@ N[16B--Jk	.	.	.
 24GGLL	24e-LL	.
 24E-	24cc	.
 24GJJ	24b-JJ)	.
+!!LO:LB:g=original
 =174	=174	=174
 24AA-LL	(24e-LL<	.
 24E-	24b- 24dd-y	.
@@ -1484,6 +1521,7 @@ N[16B--Jk	.	.	.
 24AA-LL	24e-LL<	.
 24A-	24b- 24dd-	.
 24cJJ	24a- 24ccJJ)	.
+!!LO:LB:g=original
 =178	=178	=178
 (24EE-LL<	(8f# 8anL	p
 24E-	.	.
@@ -1538,6 +1576,7 @@ N[16B--Jk	.	.	.
 32E-	32ee-	.	.
 32G	32ff	.	.
 32E-JJJ	32ee-JJJ)	.	.
+!!LO:LB:g=original
 =182	=182	=182	=182
 32AA-LLL	(32ccLLL	(8a-L	.
 32E-	32ee-	.	.
@@ -1592,6 +1631,7 @@ N[16B--Jk	.	.	.
 32E-	32ff	.	.
 32GJJJ	32ee-JJJ	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =186	=186	=186
 32AA-LLL	8a-)	.
 32C	.	.
@@ -1641,6 +1681,7 @@ N[16B--Jk	.	.	.
 32e-	.	.
 32B-	[16ddd-^Jk	.
 32e-JJJ	.	.
+!!LO:LB:g=original
 =190	=190	=190
 32A-LLL	(32ddd-LLL]	.
 32e-	32ccc	.
@@ -1695,6 +1736,7 @@ N[16B--Jk	.	.	.
 16BnJJ)	.	32g	.
 .	.	32fJJJ)	.
 *	*v	*v	*
+!!LO:LB:g=original
 =194	=194	=194
 *	*^	*
 (<16CLL	4ee-	(32e-LLL	.
@@ -1748,6 +1790,7 @@ N[16B--Jk	.	.	.
 32E-	32ee-	.	.
 32A-	32ff	16a-JJ	.
 32E-JJJ)	32ee-JJJ)	.	.
+!!LO:LB:g=original
 =198	=198	=198	=198
 32BB-LLL	(32ffLLL	(16a-LL	.
 32E-	32ee-	.	.
@@ -1788,6 +1831,7 @@ N[16B--Jk	.	.	.
 32E-	32an	.	.
 32G-	32b-	.	.
 32E-JJJ	32ccJJJ	.	.
+!!LO:LB:g=original
 =201	=201	=201	=201
 32FFLLL	(32dd-yLLL	8dd-yL	.
 32F	32aa-	.	.
@@ -1828,6 +1872,7 @@ N[16B--Jk	.	.	.
 32E-	32ff	.	.
 32GJJJ	32ee-JJJ)	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =204	=204	=204
 8AA- 8C 8E- 8A-	16a-)	.
 .	16e-LL	p
@@ -1866,6 +1911,7 @@ N[16B--Jk	.	.	.
 .	.	16c 16e-	.
 8AA-' 8A-'J	8r	16c 16e-	.
 .	.	16c 16e-JJ	.
+!!LO:LB:g=original
 =209	=209	=209	=209
 8r	(16cc'LL	16c 16e-LL	.
 .	16bn'	16c 16e-	.
@@ -1901,6 +1947,7 @@ N[16B--Jk	.	.	.
 .	.	16d- 16e-	.
 8GGJ)	16r	16d- 16e-	.
 .	(16cc	16d- 16e-JJ	.
+!!LO:LB:g=original
 =214	=214	=214	=214
 !	!	!LO:TX:i:t=calando	!
 8r	8a-X)	16c 16e-LL	.

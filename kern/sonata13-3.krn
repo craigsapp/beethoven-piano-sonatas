@@ -56,6 +56,7 @@
 .	8BB- 8D- 8E-	8G 8B- 8e-	.	.
 .	8AA- 8C 8E-J)	8A-) 8c 8e-J	.	.
 *	*	*v	*v	*
+!!LO:LB:g=original
 =5	=5	=5	=5
 8BB- 8E-L	8GGL	4.d-X 4.dd-X	fp
 8BB- 8E-	8GG	.	.
@@ -102,6 +103,7 @@
 8G 8B-	4g 4gg	.
 8G 8B-	.	.
 8G 8B-J	8e-\ 8ee-\)	.
+!!LO:LB:g=original
 =10	=10	=10
 8F 8A- 8B-L	4e- (>4ee-	<
 8F 8A- 8B-	.	.
@@ -152,6 +154,7 @@
 .	8dd 8ddd	.
 8AA' 8E-' 8F'J	.	.
 .	[16cc [16cccJk	.
+!!LO:LB:g=original
 =15	=15	=15
 8BB-' 8E-' 8G'L	16cc] 16cccLK]	>
 .	8bn 8bbn	.
@@ -206,6 +209,7 @@
 .	.	16g	.
 8AA- 8E- 8G-J	8ccJ)	16e-	.
 .	.	16g-JJ	.
+!!LO:LB:g=original
 =19	=19	=19	=19
 *^	*	*	*
 8D- 8FL	8AA-L	4dd-	16fLL	fp
@@ -251,6 +255,7 @@
 *clefG2	*	*
 8g- 8a-	16b- 16bb-	.
 .	16cc 16cccJJ)	.
+!!LO:LB:g=original
 =23	=23	=23
 8f 8a-L	16dd- 16ddd-LL	.
 .	16dd-T (16ddd-	.
@@ -300,6 +305,7 @@ N(128BB-LLLLL	.	.	.
 .	.	88aa-	.
 .	.	88ggJJJJN)	.
 *v	*v	*	*
+!!LO:LB:g=original
 =25	=25	=25
 2.DDn 2.FF 2.BB-	(64ggLLLL	<
 .	64aa-	.

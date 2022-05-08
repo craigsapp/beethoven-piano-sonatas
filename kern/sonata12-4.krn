@@ -59,6 +59,7 @@
 8FJ	.	16ddn	.
 .	.	16e-JJ	.
 *v	*v	*	*
+!!LO:LB:g=original
 =5	=5	=5
 8E-L	16ee-LL	.
 .	16e-	.
@@ -104,6 +105,7 @@
 16E-	.	.
 16A-	8cc 8cccJ	.
 16E-JJ	.	.
+!!LO:LB:g=original
 =10	=10	=10
 16B-LL	8b- 8bb-L	.
 16E-	.	.
@@ -147,6 +149,7 @@
 16B-	.	.
 16Dn	8ffJ	.
 16B-JJ	.	.
+!!LO:LB:g=original
 =15	=15	=15
 16FLL	8ddnL	.
 16Bn	.	.
@@ -192,6 +195,7 @@
 .	16cc	.
 8EE-J)	16d- 16g	.
 .	16b-JJ	.
+!!LO:LB:g=original
 =20	=20	=20
 8AA-L	8c' 8a-'	.
 8AAA-J	8r	.
@@ -235,6 +239,7 @@
 16E-	.	.
 16GG	8b- 8bb-J	.
 16E-JJ	.	.
+!!LO:LB:g=original
 =25	=25	=25
 16BB-LL	8g 8ggL	.
 16E-	.	.
@@ -278,6 +283,7 @@
 16F	.	.
 16B-	.	.
 16DnJJ)	.	.
+!!LO:LB:g=original
 =30	=30	=30
 8E-' 8G'	8r	.
 8r	8g' 8b-' 8ee-' 8gg'	sf
@@ -328,6 +334,7 @@
 16B-	.	.
 16F	8ff' 8fff'	.
 16dJJ	.	.
+!!LO:LB:g=original
 =36	=36	=36
 16A-LL	8ddn' 8dddn'L	.
 16B-	.	.
@@ -382,6 +389,7 @@
 .	16ff	.
 8BBB-' 8BB-'	16bb-	.
 .	16ddJJ)	.
+!!LO:LB:g=original
 =42	=42	=42
 8EE-' 8E-'	8gg'L	.
 (4.GGG 4.GG	(16ee-L	sf
@@ -439,6 +447,7 @@
 .	16A-	.
 .	16G	.
 .	16FJJ	.
+!!LO:LB:g=original
 =48	=48	=48
 *^	*	*
 (8EE-	2EE-	8E-)	.
@@ -489,6 +498,7 @@
 .	16a-X	.
 .	16dd-	.
 .	16fJJ	.
+!!LO:LB:g=original
 =54	=54	=54
 2EE-] 2E-]	16b-LL	.
 .	16g	.
@@ -536,6 +546,7 @@
 16c	16ee-	.
 16f	16an	.
 16AnJJ	16ffJJ	.
+!!LO:LB:g=original
 =59	=59	=59
 16d-LL	16b-LL	.
 16B-	16dd-	.
@@ -588,6 +599,7 @@
 .	16cc	.
 8GJ	16en	.
 .	16ccJJ	.
+!!LO:LB:g=original
 =65	=65	=65
 8EnL	16gLL	.
 .	16cc	.
@@ -642,6 +654,7 @@
 .	16ee-	.
 8CJ	16a- 16cc	.
 .	16ee-JJ	.
+!!LO:LB:g=original
 =71	=71	=71
 8D-L<	16f 16ccLL	.
 .	16ee-	.
@@ -696,6 +709,7 @@
 16E-	.	.
 16GG	8b- 8bb-J	.
 16E-JJ	.	.
+!!LO:LB:g=original
 =77	=77	=77
 16BB-LL	8g 8ggL	.
 16E-	.	.
@@ -740,6 +754,7 @@
 16GG	16c	.
 16CC	16f	.
 16GGJJ	16dJJ	.
+!!LO:LB:g=original
 =82	=82	=82
 16CCLL	16gLL	.
 16GG	16e-	.
@@ -785,6 +800,7 @@
 16GG	16an	.
 16CC	16ddn	.
 16GGJJ	16bJJ	.
+!!LO:LB:g=original
 =87	=87	=87
 16CCLL	16ee-LL	.
 16GG	16cc	.
@@ -833,6 +849,7 @@
 16D	16g	.
 16FFn	16b-	.
 16D-JJ	16gJJ	.
+!!LO:LB:g=original
 =92	=92	=92
 16EEnLL	16b-LL<	.
 16C	16g	.
@@ -887,6 +904,7 @@
 .	16e-	.
 .	16g	.
 .	16e-JJ	.
+!!LO:LB:g=original
 =98	=98	=98
 !	!LO:TX:i:t=legato	!
 2r	16gLL	.
@@ -942,6 +960,7 @@
 .	16f	.
 .	16b-	.
 .	16dnJJ)	.
+!!LO:LB:g=original
 =104	=104	=104
 *^	*	*
 4r	[2E-	16gLL	.
@@ -998,6 +1017,7 @@
 16F	16a-	.
 16B-	16dn	.
 16DnJJ)	16b-JJ)	.
+!!LO:LB:g=original
 =110	=110	=110
 16GLL	8e-	.
 16E-X	.	.
@@ -1050,6 +1070,7 @@
 16B-	.	.
 16Dn	8ffJ	.
 16B-JJ	.	.
+!!LO:LB:g=original
 =116	=116	=116
 16FLL	8ddnL	.
 16B-	.	.
@@ -1102,6 +1123,7 @@
 16c	.	.
 16En	8g 8ggJ	.
 16cJJ	.	.
+!!LO:LB:g=original
 =122	=122	=122
 16GLL	8en 8eenL	.
 16c	.	.
@@ -1158,6 +1180,7 @@
 16G	16eee-	.
 16AA-	16ee- 16aa- 16ccc	.
 16A-JJ	16eee-JJ	.
+!!LO:LB:g=original
 =128	=128	=128
 16FFLL	16ee- 16cccLL	.
 16F	16eee-	.
@@ -1208,6 +1231,7 @@
 16B-	16dd-	.
 16e-	16g	.
 16GJJ	16ee-JJ	.
+!!LO:LB:g=original
 =134	=134	=134
 16cLL	16a-LL	.
 16A-	16cc	.
@@ -1253,6 +1277,7 @@
 16E-	.	.
 16BB-	8e-'\ 8ee-'\	.
 16GJJ	.	.
+!!LO:LB:g=original
 =140	=140	=140
 16D-LL	8r	.
 16E-	.	.
@@ -1308,6 +1333,7 @@
 8E-' 8e-'	16gg	.
 .	16eee-JJ	.
 *clefG2	*	*
+!!LO:LB:g=original
 =146	=146	=146
 8r	16bb-LL	.
 .	16ddd-	.
@@ -1363,6 +1389,7 @@
 .	24ee-L	.
 .	24dd-	.
 .	24ccJJ	.
+!!LO:LB:g=original
 =152	=152	=152
 4DD- 4D-	16b-LL	.
 .	16a-	.
@@ -1421,6 +1448,7 @@
 .	.	.	16ff-	.
 .	.	.	16gnJJ	.
 *	*	*v	*v	*
+!!LO:LB:g=original
 =158	=158	=158	=158
 2AA-]	2AAA-]	16b-LL	.
 .	.	16g	.
@@ -1481,6 +1509,7 @@
 16f-	.	.	.	.
 16GJJ	.	.	.	.
 *	*v	*v	*	*
+!!LO:LB:g=original
 =164	=164	=164	=164
 16B-LL	2FFF 2AA-]	2ryy	.
 16G	.	.	.
