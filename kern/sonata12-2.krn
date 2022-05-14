@@ -4,7 +4,7 @@
 !!!OTP: funeral march
 !!!OPS: 26
 !!!OMV: 2
-!!!OMD: Allegro molto
+!!!OMD: SCHERZO\nAllegro molto
 !!!ONB: Scherzo
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -22,6 +22,7 @@
 .	8b-J)	.
 =1	=1	=1
 *	*^	*
+!	!	!	!LO:DY:rj
 (2.f	(2cc	2.a-	sf
 .	4ddn	.	.
 =2	=2	=2	=2
@@ -57,6 +58,7 @@
 .	8b-J)	.	.
 *clefF4	*	*	*
 =9	=9	=9	=9
+!	!	!	!LO:DY:rj
 2.f	4cc'	2.a-	sf
 .	4dd-'	.	.
 .	4ddn'	.	.
@@ -215,8 +217,8 @@
 (4G	4r	.
 4g)	4r	.
 =44	=44	=44
-4r	4en 4b- 4cc	.
-4G'	4r	<
+4r	4en 4b- 4cc	<
+4G'	4r	.
 (8A-L	4r	.
 8B-J)	.	.
 =45	=45	=45
@@ -233,6 +235,7 @@
 .	8ff	.
 4r	8ee-	.
 .	8ddn	.
+!LO:DY:rj	!	!
 [4Enz [4enz	8cc	.
 .	8b-J	.
 !!LO:LB:g=original
@@ -300,7 +303,7 @@
 8GG	.	.
 8AA-	4f 4ff)	.
 8C	.	.
-8BB-	4dn''\ 4ddn''\	.
+8BB-	4dn`\ 4ddn`\	.
 8AA-J	.	.
 =56	=56	=56
 8GGL	4e-X\ 4ee-X\	.
@@ -317,7 +320,7 @@
 8E-	4g 4gg	.
 8D-J	.	.
 =58	=58	=58
-8CL	4a-'' 4aa-'')	.
+8CL	4a-` 4aa-`)	.
 8BB-	.	.
 8AA-	4r	.
 8GG	.	.
@@ -328,7 +331,7 @@
 8CC	.	.
 8DD-	4b- 4bb-))	.
 8FF	.	.
-8EE-	4g'' 4gg''	.
+8EE-	4g` 4gg`	.
 8DD-J	.	.
 =60	=60	=60
 8CCL	4a-X 4aa-X	.
@@ -339,11 +342,11 @@
 8EE-J	.	.
 !!LO:LB:g=original
 =61	=61	=61
-8DD-L	4cc] 4aan] (<(4ccc]	.
+8DD-L	4cc] 4aan] (>(4ccc]	.
 8BBB-	.	.
 8DD-	4dd- 4bb- 4ddd-))	.
 8BBB-	.	.
-8EE-	4b-'' 4gg'' 4bb-''	.
+8EE-	4b-` 4gg` 4bb-`	.
 8DD-J	.	.
 =62	=62	=62
 8CCL	4cc 4aa-X 4ccc	.
@@ -357,57 +360,52 @@
 8BBB-	.	.
 8DD-	4b- 4dd- 4bb-))	.
 8BBB-	.	.
-8EE-	4g'' 4b-'' 4gg''	.
+8EE-	4g` 4b-` 4gg`	.
 8EE-J	.	.
 =64	=64	=64
 (8AAA-L	4a-X 4cc 4aa-X	.
 8CC	.	.
 8EE-	4r	.
 8DD-	.	.
-8CC	4b-'' 4gg'' 4bb-''	<
+8CC	4b-` 4gg` 4bb-`	<
 8BBB-J	.	.
 =65	=65	=65
-8AAA-L	4cc'' 4aa-'' 4ccc''	.
+8AAA-L	4cc` 4aa-` 4ccc`	.
 8CC	.	.
 8EE-	4r	.
 8DD-	.	.
-8CC	4g'' 4b-'' 4gg''	.
+8CC	4g` 4b-` 4gg`	.
 8BBB-J	.	.
 =66	=66	=66
-8AAA-L	4a-'' 4cc'' 4aa-''	.
+8AAA-L	4a-` 4cc` 4aa-`	.
 8CC	.	.
 8EE-	4r	.
 8DD-	.	.
-8CC	4G'' 4B-'' 4g''	ff
+8CC	4G` 4B-` 4g`	ff
 8BBB-J	.	.
 =67	=67	=67
-4AAA-)	4A-'' 4c'' 4a-''	.
+4AAA-)	4A-` 4c` 4a-`	.
 4r	4r	.
+!!LO:TX:a:i:t=Fin:rj
 !!LO:LB:g=original
 =:|!	=:|!	=:|!
 *>C	*>C	*>C
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
+!!!OMD: Trio
 *M3/4	*M3/4	*
 *^	*	*
-!	!	!LO:TX:i:a:t=TRIO	!
-4A-	4r	4ryy	.
+4A-	4r	4ryy	p
 =68	=68	=68	=68
-!	!	!LO:TX:i:t=sempre legato	!
-(<2D-\	2DD-	(>2f 2F<	p
-4A-	4AA-	4ryy	.
-*v	*v	*	*
-=69	=69	=69
-*^	*	*
+!	!	!LO:TX:i:b:t=sempre legato	!
+(<2D-\	2DD-	(>2f 2F<	.
+4A-/	4AA-	4ryy	.
+=69	=69	=69	=69
+2C\	2CC	2e- 2E-<	.
+4A-/	4AA-	4ryy	.
+=70	=70	=70	=70
 *	*^	*	*
-2C\	2CC	2CC	2e- 2E-<	.
-*	*v	*v	*	*
-4A-	4AA-	4ryy	.
-*v	*v	*	*
-=70	=70	=70
-*^	*	*
-*	*^	*	*
-2E-\	2ryy	2.EE-	2c 2g- 2G-<	.
-4A-	4AA-	.	4ryy	.
+2E-\	2ryy	2.EE-\	2c 2g- 2G-<	.
+4A-/	4AA-	.	4ryy	.
 *	*v	*v	*	*
 =71	=71	=71	=71
 2D-\	2DD-	2f 2A-< 2F<	.
@@ -418,7 +416,7 @@
 4D-\	.	4d-	.
 *v	*v	*	*
 =73	=73	=73
-2GG-\ 2D-\ 2G-\	2d- 2b- 2B-	.
+2GG-\ 2D-\ 2G-\	2d- 2b- 2B-	sf > ]
 4FF\ 4F\	4B- 4d- 4e-	.
 =74	=74	=74
 2GG-\ 2G-\	2B- 2d- 2e-	p
@@ -438,7 +436,7 @@
 2B-	2.BB-	2d- 2dd-	.
 4E-	.	4gn	.
 =78	=78	=78	=78
-2c	2.C	2e- 2g- 2ee-	.
+2c	2.C	2e-\ 2g-X\ 2ee-\	.
 4A-	.	4a-	.
 =79	=79	=79	=79
 2d-	2.D-	2f 2ff	.
@@ -470,11 +468,11 @@
 2g-	2.G-	2bb-	2.b-	.
 4d-	.	4dd-	.	.
 =88	=88	=88	=88	=88
-[2f-	2.Gn	2.ff-	[2b-	.
+[2f-	2.Gn	2.ff-	[2b-	sf > ]
 4d- 4f-]	.	.	4b-] 4dd-	.
 =89	=89	=89	=89	=89
-2fn	2.A-	[2.ffn	2a-	p
-4d-	.	.	4a- 4dd-	.
+2fn	2.A-	[2.ffn	[2a-	p
+4d-	.	.	4a-] 4dd-	.
 =90	=90	=90	=90	=90
 2A-)	2.AA-)	4ff]	2g- 2cc	.
 .	.	4gg-	.	.
@@ -504,19 +502,20 @@
 .	.	[2d-z [2dd-z	.
 4Gn	.	.	.
 =94	=94	=94	=94
-4A-)	4AA-	((>4d-] 4dd-]	.
+4A-)	4AA-	(<(>4d-] 4dd-]	.
 4rc	4rBB	4c 4cc))	.
 (8A-L	4r	4r	.
 8B-J)	.	.	.
 =95	=95	=95	=95
 (2c	2.F	4r	.
+!	!	!LO:DY:rj	!
 .	.	[2a-z [2aa-z	.
 4dn	.	.	.
 =96	=96	=96	=96
 4e-)	4E-	((<4a-] 4aa-]	.
 4r	4r	4gn 4ggn))	.
 *v	*v	*	*
-!! D.C. Scherzo\nsenza repetizione
+!!LO:TX:i:rj:b:t=D.C. Scherzo\nsenza repetizione
 =||	=||	=||
 *-	*-	*-
 !!!RDF**kern: > = above
@@ -528,5 +527,5 @@
 !!!URL-pdf: https://github.com/craigsapp/beethoven-piano-sonatas/blob/master/reference-edition/sonata12-2.pdf
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/02/10
-!!!ENC: Craig Stuart Sapp
-!!!END: 2018/07/06
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2022/05/13
