@@ -874,47 +874,48 @@
 [32ALLL	(48cccLLL	p
 .	96gg#k	.
 48A]	48aa	.
-96A 96c [96ek	96eek	.
-[32A [32c 32e_	48dd	.
+[96A [96c [96ek	96eek	.
+32A_ 32c_ 32e_	48dd	.
 .	96cck	.
 48A] 48c] 48e]	48ee	.
-96A 96c [96eJJJk	96ccJJJk	.
-[32A [32c 32eLLL_	48bLLL	.
+[96A [96c [96eJJJk	96ccJJJk	.
+32A_ 32c_ 32e_LLL	48bLLL	.
 .	96ak	.
 48A] 48c] 48e]	48cc	.
-96A 96c [96ek	96ak	.
-[32A [32c 32e_	48b	.
+[96A [96c [96ek	96ak	.
+32A_ 32c_ 32e_	48b	.
 .	96ak	.
-48A] 48c] 48eJJJ]	48cc	.
+48A] 48c] 48e]JJJ	48cc	.
+=-	=-	=-
 96AAA 96AA	96d 96f 96bJJJk)	.
 =65	=65	=65
 (48GGG#LLL	[32d [32e [32bLLL	f
 96BBBk	.	.
 48EE	48d] 48e] 48b]	.
-96GG#k	[96d 96e [96bk	.
-48BB	32d_ [32e 32b_	.
+96GG#k	[96d [96e [96bk	.
+48BB	32d_ 32e_ 32b_	.
 96Ek	.	.
 48G#	48d] 48e] 48b]	.
 96AJJJk)	96d 96e 96bJJJk	.
-[32G# [32B [32eLLL	48cccLLL	p
+[32G# [32B [32eLLL	(48cccLLL	p
 .	96bbk	.
 48G#] 48B] 48e]	48eee	.
 [96G# 96B [96ek	96bbk	.
 32G#_ [32B 32e_	48aa	.
 .	96gg#k	.
 48G#] 48B] 48e]	48bb	.
-[96G# 96B [96eJJJk	96eeJJJk	.
-32G#] ([32B 32eLLL_	48bbLLL	.
+[96G# [96B [96eJJJk	96eeJJJk	.
+32G#_ 32B_ 32eLLL_	48bbLLL	.
 .	96eek	.
-48G# 48B]) 48e]	48ff	.
+48G#] 48B] 48e]	48ff	.
 [96G# 96B [96ek	96ddk	.
 32G#_ [32B 32e_	48cc	.
 .	96bk	.
 48G#] 48B] 48e]	48ee	.
-96G# 96B 96eJJJk	96bJJJk	.
+96G# 96B 96eJJJk	96bJJJk)	.
 !!LO:LB:g=original
 =66	=66	=66
-[32GG#LLL	(48ccLLL	.
+[32GG#LLL	(48ccLLL	<
 .	96bk	.
 48GG#]	48ee	.
 96G#k	96bk	.
@@ -936,13 +937,13 @@
 96dk	96bk	.
 [32D#	48aa	.
 .	96ff#k	.
-48D#]	48aa	.
-96dJJJk	[96ccJJJk	.
+48D#]	[[48aa	.
+96d#JJJk	[<96ccJJJk	.
 =67	=67	=67
-[16eLL	48cc] (48aaLLL)	f
+[16eLL	48cc] 48aa]]LLL	f
 .	96bk	.
 .	48aa	.
-.	96ggJk)	.
+.	96gg#Jk)	sf
 48eL]	[16dd [16bbJJ	.
 96Ek	.	.
 48F	.	.
@@ -951,93 +952,94 @@
 .	96cck	.
 .	48bb	.
 .	96aaJk)	.
-48AL]	[16ee [16cccJJ	.
+48AL]	[16ee [16cccJJ	sf
 96AAk	.	.
 48BB	.	.
 96AAJJJk	.	.
-[16GGnLL	48ee] (48cccLLL]	.
+[16GGnLLz	48ee] (48cccLLL]	.
 .	96ddk	.
 .	48ccc	.
 .	96bbJJJk)	.
-48GGL]	[32ffn [32dddLLL	.
+48GGL]	[32ffn [32dddLLL	sf
 (96GGGk	.	.
 48AAA-	48ff] 48ddd]	.
 [96GGGJJJk)	96ff 96dddJJJk	.
 !!LO:LB:g=original
 =68	=68	=68
-48GGGLLL]	32ff 32gg ([32bb [32dddLLL	.
+48GGGLLL]	[32ff [32gg [32bb [32dddLLL	.
 (96BBBk	.	.
-48DD	(48ff) 48gg 48bb] 48ddd]	.
-96GGk	[96ff 96gg 96bb [96dddk	.
-48BB	32ff] 32gg ([32bb 32ddd_	.
+48DD	48ff] 48gg] 48bb] 48ddd]	.
+96GGk	[96ff [y96gg [y96bb [96dddk	.
+48BB	32ff_ 32gg_ 32bb_ 32ddd_	.
 96Dk	.	.
-48F#	(48ff) 48gg 48bb]) 48ddd]	.
-96GJJJk)	[96ff 96gg 96bb [96dddJJJk	.
-[32GG [32BB [32D [32FnLLL	48ff] 48gg 48bb (48dddLLL]	.
+48F#	48ff] 48gg] 48bb] 48ddd]	.
+96GJJJk)	[96ff [96gg [96bb [96dddJJJk	.
+[32GG [32BB [32D [32FnLLL	48ff] 48gg] 48bb] (48dddLLL]	.
 .	96bbk	.
 48GG] 48BB] 48D] 48F]	48fff	.
-[96GG 96BB 96D [96Fk	96dddJJJk	.
-32GG_ [32BB [32D 32F_	48cccLLL	.
+[96GG [96BB [96D [96Fk	96dddJJJk	.
+32GG_ 32BB_ 32D_ 32F_	48cccLLL	.
 .	96bbk	.
 48GG] 48BB] 48D] 48F]	48ddd	.
-[96GG 96BB 96D [96FJJJk	96bbJJJk	.
-32GG_ [32BB [32D 32FLLL_	48ggLLL	.
+[96GG [96BB [96D [96FJJJk	96bbJJJk	.
+32GG_ 32BB_ 32D_ 32FLLL_	48ggLLL	.
 .	96ffk	.
 48GG] 48BB] 48D] 48F]	48aa	.
 [96GG [96BB [96D [96Fk	96ffk	.
-32GG_ 32BB_ 32D_ 32F]	48ee	.
+32GG_ 32BB_ 32D_ 32F_	48ee	.
 .	96ddk	.
-48GG] 48BB] 48D] 48F	48ff	.
+48GG] 48BB] 48D] 48F]	48ff	.
 96GG 96BB 96D 96FJJJk	96ddJJJk)	.
 =69	=69	=69
 *	*^	*
-(48CCLLL	8r	[32g [32cc [32eeLLL	.
+(48CCLLL	8ryy	[32g [>32cc [>32eeLLL	.
 96EEk	.	.	.
 48GG	.	48g] 48cc] 48ee]	.
-96BBk	.	[96g 96cc [96eek	.
-48C	.	32g_ [32cc 32ee_	.
+96BBk	.	[96g 96cc [>96eek	.
+48C	.	32g_ [>32cc 32ee_>	.
 96Ek	.	.	.
 48G	.	48g] 48cc] 48ee]	.
-96BJJJk)	.	[96g 96cc [96eeJJJk	.
-(48cLLL	48g] 48cc 48eeLLL]	16r	.
+96BJJJk)	.	[96g 96cc [>96eeJJJk	.
+(48cLLL	48g] 48cc 48eeLLL>]	16ryy	.
 96fk	96g 96bk	.	.
 48e	48a 48cc	.	.
 96dJJJk)	96b 96ddJJJk	.	.
-48cLLL	[16ee	48gLLL	.
-(96CCk	.	96ek	.
-48DD	.	48f	.
-96EEJJJk	.	96gJJJk	.
-48FFLLL)	(48eeLLL]	[16a	.
+48c\LLL	[16eez>	(48gLLL	.
+(<96CC/k	.	96ek	.
+48DD/	.	48f	.
+96EE/JJJk	.	96gJJJk)	.
+!LO:DY:rj	!	!	!
+48FFLLL<z)	(48eeLLL]	[16a	.
 (96Gk	96cc#k	.	.
 48F	48dd	.	.
 96EJJJk)	96eeJk	.	.
-48DLLL	[16ffJJ)	48aLLL]	.
+48DLLL	[16ffzJJ)	(>48aLLL]	.
 (96DDk	.	96fk	.
 48EE	.	48g	.
-96FFJJJk)	.	96aJJJk	.
+96FFJJJk)	.	96aJJJk)	.
 !!LO:LB:g=original
 =70	=70	=70	=70
-16GG	8r	48b (48ffLLL]	.
+16GGz	8ryy	48b (48ffLLL]	.
 .	.	96a# 96cc#k	.
 .	.	48b 48dd	.
 .	.	96ccn 96eeJk)	.
-(48GLLL	.	(16b [16ddJJ	.
+(48GLLL	.	(<16b [>16ddz>JJ	.
 96F#k	.	.	.
 48G	.	.	.
 96AJJJk)	.	.	.
-[16B	48ddLLL]	[16g)	.
+[16Bz	48ddLLL]	[16g)	.
 .	96cc#k	.	.
 .	48dd	.	.
-.	(96eeJk)	.	.
-(48BLLL]	[16ddJJ	48gLLL]	.
+.	(96eeJk	.	.
+(48BLLL]	[16ddz>JJ	48gLLL]	.
 96ck	.	96ank	.
 48d	.	48b	.
 96eJJJk	.	96ccnJJJk	.
 48fLLL	(48ddLLL]	16b	.
 96ek	96eek	.	.
 48d	48ff	.	.
-96cJJJk	96ff#Jk	.	.
-48BLLL	[16ggJJ)	48r	.
+96cJJJk	96ff#Jk)	.	.
+48BLLL	[16ggzJJ	48r	.
 96ck	.	96eeLLLK	.
 48B	.	48dd	.
 96AJJJk)	.	96ccJJJk	.
@@ -1052,16 +1054,16 @@
 48BLLL]	48gg	48ddLLL]	.
 (96Bk	96dd 96ffnk	[96gJJJk	.
 48c	48cc 48ee	48gLLL]	.
-96BJJJk	96dd 96ffJJJk	[96gJJJk	.
-48cLLL)	48g] 48cc 48eeLLL	8r	.
+96BJJJk)	96dd 96ffJJJk	[96gJJJk	.
+(48cLLL	48g] 48cc 48eeLLL>	8ryy	.
 96Bk	96g 96dd 96ffk	.	.
 48c	48g 48cc 48ee	.	.
 96dk	(96ddk	.	.
 48e	48cc	.	.
 96dk	96bk	.	.
 48e	48cc	.	.
-96cJJJk	96eeJJJk)	.	.
-32r	(48eLLL	8r	.
+96cJJJk)	96eeJJJk)	.	.
+32r	(48eLLL	8ryy	.
 .	96cc 96eek	.	.
 48r	48e	.	.
 [96EE	96b 96ddJJJk	.	.
@@ -1083,31 +1085,37 @@
 48c	48cc 48ee	48g]	.
 96BJJJk	96dd 96ffJJJk	[96gJJJk	.
 48cLLL)	48cc 48eeLLL	32g]	.
-96AAk	(96c 96fk	.	>
-(48GG	48B 48e	32r	.
+(96AAk	(<96c 96fk	.	>
+48GG	48B 48e	32ryy	.
 96FFJJJk	96A 96dJJJk	.	.
 *	*v	*v	*
 *	*clefF4	*
 *	*^	*
-48EELLL	16c	48GLLL	.
+48EELLL<	16c	48GLLL	.
 96FFk	.	96Ak	.
 48EE	.	48G	.
-96DDJJJk)	.	96FJJJk)	.
+96DDJJJk)	.	96FJJJk)	]
 *	*v	*v	*
-=73	=73	=73
+=73||	=73||	=73||
 *>I	*>I	*>I
 *M9/16	*M9/16	*
 *MM40	*MM40	*
+*tuplet	*	*
+*Xbrackettup	*	*
+!LO:TUP:r=16	!	!
 48CCLLL	16E 16cLL	pp
 48GG	.	.
 48CC	.	.
+!LO:TUP:r=16	!	!
 48GG	[16E [16G [16c	.
 48CC	.	.
 48GG	.	.
+!LO:TUP:r=16	!	!
 48CC	16E] 16G] 16cJJ]	.
 48GG	.	.
 48CCJJJ	.	.
 =74	=74	=74
+*Xtuplet	*	*
 48GGLLL	16r	.
 48CC	.	.
 48GG	.	.
@@ -1137,13 +1145,14 @@
 48GGJJJ	.	.
 !!LO:LB:g=original
 =75	=75	=75
-48CCLLL	16r	.
+!	!	!LO:DY:t=sempre %s
+48CCLLL	16r	pp
 48GG	.	.
 48CC	.	.
-48GG	16D 16F [16GLL	pp
+48GG	(<16D 16F [16GLL	.
 48CC	.	.
 48GG	.	.
-48CC	16C 16E 16GJJ]	.
+48CC	16C 16E 16GJJ])	.
 48GG	.	.
 48CCJJJ	.	.
 48GGLLL	16r	.
@@ -1168,10 +1177,10 @@
 48GGLLL	16r	.
 48CC	.	.
 48GG	.	.
-48CC	16D# 16F# [16GLL	.
+48CC	(<16D# 16F# [16GLL	.
 48GG	.	.
 48CC	.	.
-48GG	16E 16GJJ]	.
+48GG	16E 16GJJ])	.
 48CC	.	.
 48GGJJJ	.	.
 48CCLLL	16r	.
@@ -1186,7 +1195,7 @@
 48GGLLL	16r	.
 48CC	.	.
 48GG	.	.
-48CC	[16E- [16F# [16A [16cLL	.
+48CC	[16E- [16F#X [16A [16cLL	.
 48GG	.	.
 48CC	.	.
 48GG	16E-] 16F#] 16A] 16cJJ]	.
@@ -1225,10 +1234,10 @@
 48GGLLL	16r	.
 48CC	.	.
 48GG	.	.
-48CC	16D# 16F# [16cLL	.
+48CC	(<16D# 16F# [16cLL	.
 48GG	.	.
 48CC	.	.
-48GG	16E 16G 16cJJ]	.
+48GG	16E 16G 16cJJ])	.
 48CC	.	.
 48GGJJJ	.	.
 48CCLLL	16r	.
@@ -1287,7 +1296,7 @@
 48CC	16F 16A- ([16BnLL	.
 48D	.	.
 48CC	.	.
-48D	16F (16G) 16BJJ])	.
+48D	16F (16G) 16BJJ]	.
 48CC	.	.
 48DJJJ	.	.
 48CCLLL	16r	.
@@ -1302,17 +1311,18 @@
 48BBLLL	16r	.
 48CC	.	.
 48BB	.	.
-48CC	[16F [16G 16dLL	.
+48CC	([16F [16G 16dLL	.
 48BB	.	.
 48CC	.	.
-48BB	16D 16F] 16GJJ]	.
+48BB	16D 16F] 16GJJ])	.
 48CC	.	.
 48BBJJJ	.	.
 *	*clefG2	*
 !!LO:LB:g=original
 =81	=81	=81
-48BBLLL	48GLLL	<
-48C	48A	.
+!	!LO:TX:a:i:t=leggiero	!
+48BBLLL	48GLLL	.
+48C	48A	<
 48D	48B	.
 48E	48c	.
 48F	48d	.
@@ -1330,6 +1340,7 @@
 48cc	48aa	.
 48ee	48gg	.
 48ddJJJ	48bbJJJ	.
+!	!	!LO:DY:t=sempre %s
 16ee'LL	48cccLLL	pp
 .	48ddd	.
 .	48ccc	.
@@ -1558,13 +1569,14 @@
 16b' 16dd'JJ	48aa	.
 .	48gg#	.
 .	48eeeJJJ	.
-16a' 16cc'LL	48bbLLL	.
+16a'> 16cc'>LL	48bbLLL	.
 .	48aa	.
 .	48eee	.
-16g#' 16b'JJ	48ccc	.
+16g#'> 16b'>JJ	48ccc	.
 .	48bb	.
 .	48eeeJJJ	.
 *clefF4	*	*
+!	!	!LO:DY:b=2:rj
 48ELLL	16r	pp
 48EE	.	.
 48EJJJ	.	.
@@ -1573,6 +1585,7 @@
 48E	.	.
 48EE	.	.
 *	*clefF4	*
+!	!	!LO:DY:rj
 48E	(16B [16cLL	pp
 48EE	.	.
 48E	.	.
@@ -1737,7 +1750,7 @@
 48GGG	16A- ([16B 16d [16fLL	.
 48GG	.	.
 48GGG	.	.
-48GG	(16G) 16B] 16d) 16fJJ]	.
+48GG	(16G) 16B] 16d 16fJJ]	.
 48GGG	.	.
 48GGJJJ	.	.
 =96	=96	=96
@@ -1766,7 +1779,7 @@
 48GG	(16c 16d [16gLL	.
 48GGG	.	.
 48GG	.	.
-48GGG	(16B) 16d) 16gJJ]	.
+48GGG	(16B) 16d 16gJJ]	.
 48GG	.	.
 48GGGJJJ	.	.
 !!LO:LB:g=original
@@ -1778,7 +1791,7 @@
 48GGG	16BB 16D (16GLL	.
 48GG	.	.
 48GGG	.	.
-48GG	(16C) 16EJJ)	.
+48GG	16C) 16EJJ	.
 48CC	.	.
 48GGJJJ	.	.
 48CCLLL	16r	.
@@ -1803,6 +1816,7 @@
 =98	=98	=98
 16AAA' 16AA'	16e' 16cc' 16ee'	.
 *clefG2	*	*
+!	!	!LO:DY:t=%s leggiermente
 16ee'LL	48cccLLL	pp
 .	48ddd	.
 .	48bb	.
@@ -1857,6 +1871,7 @@
 .	48bb	.
 .	48eeeJJJ	.
 =100	=100	=100
+!	!	!LO:DY:t=sempre %s
 16ee'LL	48aaLLL	pp
 .	48gg#	.
 .	48eee	.
@@ -1938,14 +1953,14 @@
 16gg'	48fff	.
 .	48ddd	.
 .	48eee	.
-16gg'JJ	48ddd	.
+16gg'JJ	48ddd#	.
 .	48fff	.
-.	48dddJJJ	.
+.	48ddd#JJJ	.
 !!LO:LB:g=original
 =103	=103	=103
 16gg'LL	48eeeLLL	.
 .	48fff	.
-.	48ddd	.
+.	48ddd#	.
 16gg'	48eee#	.
 .	48ccc#	.
 .	48dddn	.
@@ -2003,7 +2018,7 @@
 16bbLL	48gggLLL	.
 .	48ddd	.
 .	48ggg	.
-16gg 16bb	48fff	.
+16gg 16bb	48fffn	.
 .	48ggg	.
 .	48ddd	.
 16cccJJ	48fff	.
@@ -2181,7 +2196,7 @@
 48E	.	.
 48G	.	.
 48cJJJ	.	.
-48GGLLL	8.ff 8.ddd 8.fff	>
+48GGLLL	8.ff 8.ddd 8.fff	sf >
 48G	.	.
 48B	.	.
 48BB	.	.
@@ -2190,7 +2205,7 @@
 48D	.	.
 48G	.	.
 48BJJJ	.	.
-48GGLLL	8dd 8bb 8dddJ	.
+48GGLLL<	8dd 8bb 8dddJ	]
 48D	.	.
 48G	.	.
 48GG	.	.
@@ -2201,6 +2216,7 @@
 48AA	48AAA	.
 48BBJJJ	48BBBJJJ	.
 =112	=112	=112
+*ped	*	*
 16r	48CCLLL	.
 .	48EE	.
 .	48GGJJJ	<
@@ -2218,6 +2234,7 @@
 .	48gg	.
 .	48cccJ	.
 .	[16eeeJJ	.
+*Xped	*	*
 8.r	48eeeLLL]	.
 .	48bb	.
 .	48ccc	.
@@ -2229,6 +2246,7 @@
 .	48cccJJJ	.
 !!LO:LB:g=original
 =113	=113	=113
+*ped	*	*
 48AAALLL	16r	.
 48CC	.	.
 48EEJJJ	.	.
@@ -2249,7 +2267,8 @@
 .	64eeL	.
 .	64aa	.
 .	64ccc	.
-.	[64eeeJJJJ	.
+.	[64eeezJJJJ	.
+*Xped	*	*
 8.r	48eeeLLL]	.
 .	48bb	.
 .	48ccc	.
@@ -2260,6 +2279,7 @@
 .	48bb	.
 .	48cccJJJ	.
 =114	=114	=114
+*ped	*	*
 48GGGLLL	16r	.
 48CC	.	.
 48EE	.	.
@@ -2268,7 +2288,9 @@
 48EJ	48ee	.
 16GJJ	48eee	.
 .	48ccc#	.
+*Xped	*	*
 .	48eeJJJ	.
+*ped	*	*
 48GGGLLL	16r	.
 48BBB	.	.
 48DD	.	.
@@ -2277,6 +2299,7 @@
 48DJ	48ff	.
 16GJJ	48fff	.
 .	48ddd	.
+*Xped	*	*
 .	48ffJJJ	.
 8.r	48eeeLLL	.
 .	48ccc#	.
@@ -2289,22 +2312,24 @@
 .	48ddJJJ	.
 !!LO:LB:g=original
 =115	=115	=115
-4.r	[4.dd	f
-(8CC 8CL	8.dd_	f
+.	(8qcc#	.
+4.r	[<4.ddTT<)	f
+!	!	!LO:DY:b=2:rj
+(8CC 8CL	8.dd_<TTT	f
 16GGG) 16GGJk	.	.
 =116	=116	=116
 *	*^	*
-4.GGG 4.GG	4.r	4.dd_	.
+4.GGG 4.GG	4.ryy	4.dd_<TT	.
 *clefG2	*	*	*
-(8ccL	(8aaL	8.dd_	p
+(8ccL	(8aaL	8.dd_TTT	p
 16bJk)	16ggJk)	.	.
 =117	=117	=117	=117
-4.b	4.gg	8.dd]	.
-.	.	[4.dd	.
+4.b	4.gg	8.ddTTT]	.
+.	.	[4.ddtt	.
 (8ccL	(8aa-L	.	.
 16bJk)	16ggJk)	.	.
 =118	=118	=118	=118
-8.bL	8.ggL	4.dd_	.
+8.bL	8.ggL	4.dd_ttt	.
 8.b	8.gg	.	.
 8.bJ	8.ggJ	8.dd_	.
 =119	=119	=119	=119
@@ -2395,7 +2420,7 @@
 .	.	16f 16gJJ	.
 8.r	16r	16f 16gLL	.
 .	16ddLL	16f 16g	.
-.	16gJJ	(16fJJ)	.
+.	16gJJ	(16fJJ	.
 =132	=132	=132	=132
 16r	8g	16e-LL	pp
 8CC 8C	.	16e-	.
