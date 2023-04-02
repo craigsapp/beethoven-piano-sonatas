@@ -3,7 +3,7 @@
 !!!OTL: Piano Sonata no. 28 in A major
 !!!OPS: 101
 !!!OMV: 3
-!!!OMD: Adagio ma non troppo con affetto
+!!!OMD: Adagio ma non troppo con affetto. [eighth]=58
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
@@ -11,320 +11,388 @@
 *k[]	*k[]	*
 *a:	*a:	*
 *M2/4	*M2/4	*
-*MM60	*MM60	*
+*MM29	*MM29	*
 =1-	=1-	=1-
 *	*^	*
-(8GGG#/ 8GG#/L	4e/	(8B\L	pp
-8BBB/ 8BB/J	.	8d\J	.
-4AAA/) 4AA/	16e/LL	(4c\)	.
-.	48f/L	.	.
-.	48e/	.	.
-.	48d#/J)	.	.
-.	16e/	.	.
-.	&(16cc/JJ&)	.	.
+!!LO:TX:b:i:t=una corda
+!	!	!	!LO:DY:rj
+(8GGG# 8GG#L	4e	(8BL	pp
+8BBB 8BBJ	.	8dJ	.
+4AAA) 4AA	(16eLL	4c)	.
+!	!LO:TUP:b	!	!
+.	48fL	.	.
+.	48e	.	.
+.	48d#J	.	.
+.	16e	.	.
+.	16ccJJ)	.	.
 =2	=2	=2	=2
-(8BBB/ 8BB/L	(8.g#/L	4e\	.
-8DD/ 8D/	.	.	.
-.	32b/LL	.	.
-.	32a/JJJ)	.	.
-8CC/ 8C/	(8a/L	8e\L	.
-8AAA/) 8AA/J	8cc/ 8ee/J)	8e\J	.
+(8BBB 8BBL	(8.g#L	4e	.
+8DD 8D	.	.	.
+.	32bLL	.	.
+.	32aJJJ)	.	.
+8CC 8C	(8aL	8eL	.
+8AAA) 8AAJ	8cc 8eeJ)	8eJ	.
 =3	=3	=3	=3
-(8.FF/ 8.F/L	(8ee/L	8e\ [8a\L	.
-.	16dd/L	16d\ 16a\L]	.
-16EE/ 16E/Jk	16cc#/ 16ee/JJ	16e\ 16g\JJ	.
-8.DD/ 8.D/L	8f/ 8a/ 8dd/ 8ff/L	4r	.
-.	16B-/ 16f/ 16b-/L	.	.
-16CC/) 16C/Jk	16cn/ 16e/ 16a/JJ)	.	.
+(8.FF 8.FL	(8eeL	8e [8aL	.
+.	16ddL	16d 16aL]	.
+16EE 16EJk	16cc# 16eeJJ	16e 16gJJ	.
+8.DD 8.DL	8f 8a 8dd 8ffL	4ryy	.
+.	16B- 16f 16b-L	.	.
+16CC) 16CJk	16cn 16e 16aJJ)	.	.
 =4	=4	=4	=4
 *^	*	*	*
-(8BBB/ 8BB/L	4r	(8g#/L	8d\ 8e\L	.
-8AAA/) 8AA/J	.	16a/L	8c\ 8e\J	.
-.	.	16cc/JJ	.	.
-4EE/	4EEE\	16ee/LL	32cc\LLL	.
-.	.	.	32e\J	.
-.	.	16cc/J	16a\	.
-.	.	8bn/J)	16g#\	.
-.	.	.	16gn\JJ	.
+(8BBB 8BBL	4ryy	(8g#L	8d 8eL	.
+8AAA) 8AAJ	.	16aL	8c 8eJ	.
+.	.	16ccJJ	.	.
+4EE	4EEE	16eeLL	32ccLLL	.
+.	.	.	32eJ	.
+.	.	16ccJ	16a	.
+.	.	8bnJ)	16g#X	.
+.	.	.	16gnJJ	.
 *v	*v	*	*	*
 *	*v	*v	*
 !!LO:LB:g=original
 =5	=5	=5
-(8EE/ 8E/L	8e\ 8g\ (8b\L	<
-8DD/ 8D/	8f\ 8b\ 8gg\	.
-8CC/ 8C/	8g\ 8cc\ 8ee\ 8gg\	.
-8BBB-/ 8BB-/J	8cc\ 8ee\ 8gg\ 8ccc\J)	.
+(8EE 8EL	8e 8g (8bL	<
+8DD 8D	8f 8b 8gg	.
+8CC 8C	8g 8cc 8ee 8gg	.
+8BBB- 8BB-J	8cc 8ee 8gg 8cccJ)	.
 =6	=6	=6
-8AAA/ 8AA/L	8cc\ 8ff\ 8ccc\L	.
-8AAA-/ 8AA-/J	8ff\ 8ccc\ &(8fff\J&)	.
-4GGG/) 4GG/	8.ff\ 8.bb\ 8.ddd\ 8.fff\	.
-.	16D/ 16F/ 16B/	pp
+8AAA 8AAL	((8cc 8ff 8cccL	.
+8AAA- 8AA-J	8ff 8ccc 8fffJ))	[
+4GGG/) 4GG/	8.ff 8.bb 8.ddd 8.fff	.
+.	16D< 16F< 16B<	pp
 =7	=7	=7
-*^	*	*
-8D/ 8F/ (8B/L	4.GGG\ 4.GG\	2r	.
-8E/ 8G/ 8c#/	.	.	.
-8F/ 8A/ 8d/	.	.	.
-16G/ 16cn/L	16GG\ 16E\LL	.	.
-16G/ 16B/JJ)	16FF\ 16D\JJ	.	.
-=8	=8	=8	=8
-*	*	*^	*
-8E/L	8EE\L	8G/ 8c/ (8g/L	8r	.
-8D/J	16DD\L	16.A/ 16.a/L	8f\	.
-.	16GG\JJ	.	.	.
-.	.	32B/ 32b/JJk)	.	.
-(8GG/ 8D/L	4r	8B/ 8f/ (8b/L	4r	.
-16CC/) 16C/Jk	.	&(16c/&) 16e/ 16cc/Jk)	.	.
+4.GGG 4.GG	8D< 8F< (8B<L	.
+.	8E< 8G< 8c#<	.
+.	8F< 8A< 8d<	.
+16GG 16ELL	16G< 16cn<L	.
+16FF 16DJJ	16G< 16B<JJ)	.
+=8	=8	=8
+*^	*^	*
+8EL	8EEL	8G 8c (>8gL	8ryy	.
+8DJ	16DDL	16.A 16.aL	8f	.
+.	16GGJJ	.	.	.
+.	.	32B 32bJJk)	.	.
+(8GG 8DL	4ryy	8B 8f ((8bL	4ryy	.
+16CC) 16CJk	.	16c 16e 16ccJk))	.	.
 16r	.	16r	.	.
 *v	*v	*	*	*
 *	*v	*v	*
 =9	=9	=9
-4GG/	2r	.
-(16GG/LL	.	.
-48AA/L	.	.
-48GG/	.	.
-&(48FF#/J&)	.	.
-16GG/	.	.
-16E/JJ)	.	.
+4GG	2r	.
+(>16GGLL	.	.
+!LO:TUP:b	!	!
+48AAL	.	.
+48GG	.	.
+48FF#J	.	.
+16GG	.	.
+16EJJ)	.	.
 !!LO:LB:g=original
 =10	=10	=10
 *^	*^	*
-4G/	8BB\L	4g/	(8d\L	.
-.	&(8D\J&)	.	8f\J)	.
-4r	4C\ 4G\	(16g/LL	8e\	.
-.	.	48a/L	.	.
-.	.	48g/	.	.
-.	.	&(48f#/JJJ&)	.	.
-.	.	16g/)	8r	.
-.	.	16ee\ 16gg\ (16eee\	.	.
+4G	(8BBL	4g	(8dL	.
+.	8DJ)	.	8fJ)	.
+4ryy	4C 4G	(16gLL	8e	.
+!	!	!LO:TUP:b	!	!
+.	.	48aL	.	.
+.	.	48g	.	.
+.	.	48f#JJJ)	.	.
+.	.	16g	8ryy	.
+.	.	16ee 16gg (16eee	.	.
 *v	*v	*	*	*
 *	*v	*v	*
 =11	=11	=11
-4G\	8b\ 8dd\ 8bb\L	.
-.	8dd\ 8ff\ 8ddd\	.
-(16G\LL	8cc\ 8ee\ 8ccc\J)	.
-48A\L	.	.
-48G\	.	.
-&(48F#\J&)	.	.
-16G\	8r	.
-16e\JJ)	.	.
+4G	8b 8dd 8bbL	.
+.	8dd 8ff 8ddd	.
+(16GLL	8cc 8ee 8cccJ)	.
+!LO:TUP:a	!	!
+48AL	.	.
+48G	.	.
+48F#J	.	.
+16G	8r	.
+16eJJ)	.	.
 =12	=12	=12
-4e\	(16gg\LL	.
-.	48aa\L	.
-.	48gg\	.
-.	&(48ff#\J&)	.
-.	16gg\	.
-.	16eee\JJ)	.
-(16G\LL	4eee\	.
-48A\L	.	.
-48G\	.	.
-&(48F#\J&)	.	.
-16G\	.	.
-16e\JJ)	.	.
+(8qC	.	.
+*ped	*	*
+4e)	(16ggLL	.
+!	!LO:TUP:a	!
+.	48aaL	.
+.	48gg	.
+.	48ff#J	.
+.	16gg	.
+*Xped	*	*
+.	16eeeJJ)	.
+(16GLL	4eee	.
+!LO:TUP:a	!	!
+48AL	.	.
+48G	.	.
+48F#J	.	.
+16G	.	.
+16eJJ)	.	.
 !!LO:LB:g=original
 =13	=13	=13
-(BBq/	.	.
-4e\)	(16gg\LL	.
-.	48aa\L	.
-.	48gg\	.
-.	&(48ff#\J&)	.
-.	16gg\	.
-.	16eee\JJ)	.
-(16G\LL	8.eee\L	.
-48A\L	.	.
-48G\	.	.
-&(48F#\J&)	.	.
-16G\	.	.
-16e\JJ)	16gg\Jk	.
+(BB8q	.	.
+*ped	*	*
+4e)	(16ggLL	.
+!	!LO:TUP:a	!
+.	48aaL	.
+.	48gg	.
+.	48ff#J	.
+.	16gg	.
+*Xped	*	*
+.	16eeeJJ)	.
+(16GLL	8.eeeL	.
+!LO:TUP:a	!	!
+48AL	.	.
+48G	.	.
+48F#J	.	.
+16G	.	.
+16eJJ)	16ggJk	.
 =14	=14	=14
 *^	*	*
-(16e\LL	4r	[8gg\	.
-16c#\	.	.	.
-16A#\	.	32gg\LLL]	.
-.	.	(96aa\L	.
-.	.	96gg\	.
-.	.	&(96ff#\J&)	.
-16G\JJ)	.	32gg\	.
-.	.	32eee\JJJ)	.
-8AAn\	(16F#/LL	(16eee\LL	.
-.	16An/	16ff#\ 16ccc\ 16ddd#\JJ)	.
-8r	16cn/	16f#/ 16a/ 16dd#/	.
-.	16d#/JJ)	16r	.
+(8qAA#	.	.	.
+*ped	*	*	*
+(16eLL)	4ryy	[8gg	.
+16c#	.	.	.
+16A#	.	32ggLLL]	.
+!	!	!LO:TUP:a	!
+.	.	(96aaL	.
+.	.	96gg	.
+.	.	96ff#J	.
+16GJJ)	.	32gg	.
+*Xped	*	*	*
+.	.	32eeeJJJ)	.
+*ped	*	*	*
+(16F#LL	8AAn	(16eeeLL	.
+16An	.	16ff#X 16ccc 16ddd#JJ)	.
+16cn	8ryy	16f# 16a 16dd#	.
+*Xped	*	*	*
+16d#JJ)	.	16r	.
 =15	=15	=15	=15
-.	.	(fnq/LL	.
-.	.	bq/	.
-.	.	ddnq/JJ	.
-(16dn\LL	4r	[8ff\)	.
-16B\	.	.	.
-16G#\	.	32ff\LLL]	.
-.	.	(96gg\L	.
-.	.	96ff\	.
-.	.	96ee\J	.
-16Fn\JJ)	.	32ff\)	.
-.	.	&(32ddd\JJJ&)	.
-8GGn\	(16En/LL	(16ddd\LL	.
-.	16Gn/	16ee\ 16bb-\ 16ccc#\JJ)	.
-8r	16B-/	16e/ 16g/ 16cc#/	.
-.	16c#/JJ)	16r	.
+.	.	(fn32qLL	.
+.	.	b32q	.
+(8qGG#	.	ddn32qJJ	.
+*ped	*	*	*
+(16dnLL)	4ryy	[8ff)	.
+16B	.	.	.
+16G#	.	32ffLLL]	.
+!	!	!LO:TUP:a	!
+.	.	(96ggL	.
+.	.	96ff	.
+.	.	96eeJ	.
+*Xped	*	*	*
+16FnJJ)	.	32ff	.
+.	.	32dddJJJ)	.
+*ped	*	*	*
+(16EnLL	8GGn	(16dddLL	.
+16Gn	.	16ee 16bb- 16ccc#JJ)	.
+16B-	8ryy	16e 16g 16cc#	.
+*Xped	*	*	*
+16c#JJ)	.	16r	.
 !!LO:LB:g=original
 =16	=16	=16	=16
-(16cn\LL	4r	[8dd#\	.
-16A\	.	.	.
-16F#\	.	32dd#\LLL]	.
-.	.	(96bb\L	.
-.	.	96aa\	.
-.	.	96gg#\JJJJ	.
-16D#\JJ)	.	(48aa\LLL)	.
-.	.	48cc\	.
-.	.	48ccc\JJJ)	.
-8FFn\	(16Dn/LL	(16ccc\LL	.
-.	16Fn/	16ddn\ 16gg#\ 16bb\JJ)	.
-8r	16G#/	16d/ 16fn/ 16b/	.
-.	16B/JJ)	16r	.
+(8qFF#	.	(8qd#	.
+*ped	*	*	*
+(16cnLL)	4ryy	[8dd#)	.
+16A	.	.	.
+16F#	.	32dd#LLL]	.
+!	!	!LO:TUP:a	!
+.	.	96bbL	.
+.	.	96aa	.
+.	.	96gg#JJJJ	.
+!	!	!LO:TUP:a	!
+16D#JJ)	.	48aaLLL	.
+*Xped	*	*	*
+.	.	48cc	.
+.	.	48cccJJJ	.
+*ped	*	*	*
+(16DnLL	8FFn	(16cccLL	.
+16Fn	.	16ddn 16gg#X 16bbJJ)	.
+16G#	8ryy	16d#y 16fn 16b	.
+*Xped	*	*	*
+16BJJ)	.	16r	.
 =17	=17	=17	=17
-(16D/LL	8EE\	8b\ 8gg#\ 8bb\L	.
-16E/	.	.	.
-16G#/	8r	[8b\ [8dd\ [8bb\J	.
-16B/JJ)	.	.	.
-(16C/LL	8EE\	16b\] 16dd\] 16bb\LL]	.
-16E/	.	16a\ 16cc\ 16aa\	.
-16G#/	8r	16e'\ 16cc'\ (16ee'\	.
-16A/JJ)	.	16e'\ 16cc'\ 16ee'\JJ)	.
+*ped	*	*	*
+(16DLL	8EE	8b 8gg# 8bbL	.
+16E	.	.	.
+16G#	8ryy	[8b [8dd [8bbJ	.
+*Xped	*	*	*
+16BJJ)	.	.	.
+(16CLL	8EE	16b] 16dd] 16bbLL]	.
+16E	.	16a 16cc 16aa	.
+16G#	8ryy	16e' 16cc' (16ee'	.
+16AJJ)	.	16e' 16cc' 16ee'JJ)	.
 =18	=18	=18	=18
-16BB/LL	8EE\	8e/ 8cc/ 8ee/L	.
-16D/	.	.	.
-16E/	8r	[8d/ [8b/ [8dd/J	.
-16G#/JJ	.	.	.
-16AA/LL	8EE\	16d/] 16b/] 16dd/LK]	.
-16C/	.	8c/ 8a/ 8cc/	.
-16D#/	8r	.	.
-16E/JJ	.	16c/ 16a/ 16cc/Jk	.
+!	!	!LO:TX:i:b:t=legato	!
+16BBLL	8EE	8e 8cc 8eeL	.
+16D	.	.	.
+16E	8ryy	[8d [8b [8ddJ	.
+16G#JJ	.	.	.
+16AALL	8EE	16d] 16b] 16ddLK]	.
+16C	.	8c 8a 8cc	.
+16D#	8ryy	.	.
+16EJJ	.	16c 16a 16ccJk	.
 =19	=19	=19	=19
-16FF#/LL	[4EE\	[4c/ [4d#/ [4f#/ [4a/ [4cc/	.
-16AA/	.	.	.
-16C/	.	.	.
-16D#/JJ	.	.	.
-16F#/LL	8.EE\L]	16c/] 16d#/] 16f#/] 16a/] 16cc/LL]	.
-16A/	.	16c/ 16d#/ 16f#/ 16a/ 16cc/	.
-16c/	.	16d#/ 16f#/ 16a/	.
-16B/JJ	16EE\ 16GG#\ 16BB\ 16E\Jk	16e/ 16g#/JJ	.
+*ped	*	*	*
+16FF#LL	[4EE	[4c [4d# [4f# [4a [4cc	.
+!	!	!	!LO:HP:a
+16AA	.	.	<
+16C	.	.	.
+16D#JJ	.	.	.
+16F#LL	8.EEL]	16c] 16d#] 16f#] 16a] 16ccLL]	.
+16A	.	16c 16d# 16f# 16a 16cc	.
+*Xped	*	*	*
+16c	.	16d# 16f# 16a	.
+16BJJ	16EE 16GG# 16BB 16EJk	16e 16g#JJ	.
 *v	*v	*	*
 !!LO:LB:g=original
 =20	=20	=20
-4EE\ 4GG#\ 4BB\ 4E\	4E/ 4G#/ 4B/ 4e/ 4g#/	p
-=21	=21	=21
+*	*	*^
+!	!	!LO:DY:cj	!LO:DY:rj
+*ped	*	*	*
+4EE 4GG# 4BB 4E	4E< 4G#< 4B< 4e [4g#	p	p
+*	*	*v	*v
+*Xped	*	*
+*MM100	*MM100	*
+*	*cue	*
+!!LO:TX:a:B:t=non presto
+!	!LO:TUP:b	!
+2ryy	(10g#L]	.
+.	10e	.
+.	10d#	.
+.	10e	.
+.	10g#J)	.
+*	*Xtuplet	*
+2ryy	(10bL	.
+.	10g#	.
+.	10f##	.
+.	10g#	.
+.	10bJ)	.
+2ryy	(10eeL<	.
+.	10b	.
+.	10a#	.
+.	10b	.
+.	10eeJ)	.
+2ryy	(10gg#L<	.
+.	10ee	.
+.	10dd#	.
+.	10ee	.
+.	10gg#J)	.
+2ryy	(10bb\L	<
+.	10ff##	.
+.	10gg#	.
+.	10bb	.
+.	10dd#X	.
+2ryy	10ee	.
+.	10gg#	.
+.	10a#X	.
+.	10b	[
+.	10ee	>
+2ryy	10f##X	.
+.	10g#	.
+.	10b	]
+.	10d#X	.
+.	10e	.
+2ryy	10g#	.
+.	10e	.
+*ped	*	*
+.	10B<	<
+.	10G#<	.
+.	10E<J)	.
+4.ryy	16BB<LL	.
+.	16GG#y<	.
+.	16EE<	.
+.	16GG#y<	.
+.	16BB<	.
+.	16E<JJ	.
+*Xped	*	*
+8.ryy	16G#<LL	.
+.	16B<	.
+.	16eJJ	.
+*	*Xcue	*
+!!LO:TX:a:rj:t=poco a poco tutte le corde
+!!LO:LB:g=original
+=21||	=21||	=21||
+*MM29	*MM29	*
 *k[f#c#g#]	*k[f#c#g#]	*
 *M6/8	*M6/8	*
-*^	*	*
-.	.	g#q/L	.
-.	.	eq/	.
-.	.	d#q/	.
-.	.	eq/	.
-.	.	g#q/J	.
-.	.	bq/L	.
-.	.	g#q/	.
-.	.	f##q/	.
-.	.	g#q/	.
-.	.	bq/J	.
-.	.	eeq\L	.
-.	.	bq\	.
-.	.	a#q\	.
-.	.	bq\	.
-.	.	eeq\J	.
-.	.	gg#q\L	.
-.	.	eeq\	.
-.	.	dd#q\	.
-.	.	eeq\	.
-.	.	gg#q\J	.
-.	.	bbq\L	.
-.	.	ff##q\	.
-.	.	gg#q\	.
-.	.	bbq\	.
-.	.	dd#q\	.
-.	.	eeq\	.
-.	.	gg#q\	.
-.	.	a#q\	.
-.	.	bq\	.
-.	.	eeq\	.
-.	.	f##q\	.
-.	.	g#q\	.
-.	.	bq\	.
-.	.	d#q\	.
-.	.	eq\	.
-.	.	g#q\	.
-.	.	eq\	.
-.	.	Bq\	.
-.	.	G#q\	.
-.	.	Eq\J	.
-.	.	G#q/LL	.
-.	.	Bq/	.
-.	.	eq/JJ	.
-*	*	*^	*
-4E/	[2.EE\	(4g#/	8e\L	p
-.	.	.	8B\	.
-8D#/	.	8a/	8f#\J	.
-4Dn/	.	4b/	8g#\L	p
-.	.	.	8e\	.
-&(8C#/&)	.	8cc#/	[8a\J	p
-!!LO:LB:g=original
+*^	*^	*
+!!LO:TX:a:t=Tutte le corde ma piano
+!!LO:TX:a:B:t=Tempo del primo pezzo
+!	!	!	!	!LO:DY:t=%s dolce e legato
+(4E	[2.EE	(4g#	8eL	p
+.	.	.	8B	.
+8D#	.	8a	8f#J	.
+4Dn	.	4b	8g#L	.
+.	.	.	8e	.
+8C#)	.	8cc#	[8aJ	.
 =22	=22	=22	=22	=22
-4.BB/	4.EE\_	4ee/	8a\L]	.
-.	.	.	8f#\	.
-.	.	8dd/	8b\J	.
-&(8E/&)	8EE\]	8b/)	8g#\	.
-8r	8r	8r	8r	.
-8r	8r	8a/	([8a\	.
+4.BB	4.EE_	4ee	8aL]	.
+.	.	.	8f#	.
+.	.	8dd	8bJ	.
+8E	8EE]	8b)	8g#	.
+8r;	8r	8r;	8r	.
+8r	8r	(8a	[8a	.
 =23	=23	=23	=23	=23
-4f#/	4r	4aa/	8a\]	.
-.	.	.	[4a\	.
-8e/	8r	8gg#/	.	.
-4d/	4.A\	4ff#/	8a\]	.
-.	.	.	[4a\	.
-&(8c#/&)	.	8ee/	.	.
+(4f#	4r	4aa	8a]	.
+.	.	.	[4a	.
+8e	8r	8gg#	.	.
+4d	4.A	4ff#	8a]	.
+.	.	.	[4a	.
+8c#)	.	8ee	.	.
 =24	=24	=24	=24	=24
-[4.c#/	4C#\	4ff#/	8a\]	.
-.	.	.	[4a\	.
-.	8D\	[8ee/)	.	.
-(8c#/L]	4.E\	(8ee/L]	8a\L]	.
-8A/	.	8cc#/	8e\	.
-8G#/J)	.	8b/J)	8e\J	.
+[4.c#	4C#	4ff#	8a]	.
+.	.	.	[4a	.
+.	8D	[8ee)	.	.
+(8c#L]	4.E	(8eeL]	8aL]	.
+8A	.	8cc#	8e	.
+8G#J)	.	8bJ)	8eJ	.
+!!LO:LB:g=original
 =25	=25	=25	=25	=25
-4r	4.r	4r	4.r	.
+4r;	4.ryy	4r;>	4.r;yy	.
 [8c#/	.	[8ee/	.	.
-(8c#/L]	4.E\	(8ee/L]	4.e\	.
-8A/	.	8cc#/	.	.
-8G#/J)	.	8b/J)	.	.
+(8c#L]	4.E	(8eeL]	4.e	.
+8A	.	8cc#	.	.
+8G#J)	.	8bJ)	.	.
 *v	*v	*	*	*
 *	*v	*v	*
 =26	=26	=26
 4r	4r	.
-[8d\	[8ff#\	.
-(8d\L]	8f#\ (8ff#\L]	.
-8B\	8dd\	.
-8A\J)	8cc#\J)	.
+!!LO:TX:a:B:t=Stringendo
+[8d	[8ff#	<
+(8dL]	8f# (8ff#L]	.
+8B	8dd	.
+8AJ)	8cc#J)	.
 *clefG2	*	*
 =27	=27	=27
-(8f#/L	8a\ (8aa\L	.
-8d/	8ff#\	.
-8c#/J)	8ee\J)	.
-(8a/L	8cc#\ (8ccc#\L	.
-8f#/	8aa\	.
-8e/J)	8gg#\J)	.
+(8f#L	8a (8aaL	.
+8d	8ff#	.
+8c#J)	8eeJ)	.
+(8aL	8cc# (8ccc#L	.
+8f#	8aa	.
+8eJ)	8gg#J)	.
 =28	=28	=28
-*M7/4	*M7/4	*
-4e/ 4g#/ 4b/ 4dd/	36ee\ 36eee\LLL	f
-.	36ddd#\	.
-.	36dddn\	.
-.	36ccc#\	.
-.	36bb\	.
-.	36aa\	.
-.	36gg#\	.
-.	36ff#\	.
-.	36ee\JJJ	.
-2r;	2ddn;\	p
-2r;	2dd#;\	.
-2r;	2ee;\	.
-=	=	=
+!!LO:TX:a:B:t=Presto
+4e 4g# 4b 4dd	36ee 36eeeLLL	f >
+.	36ddd#	.
+.	36dddn	.
+.	36ccc#	.
+.	36bb	.
+.	36aa	.
+.	36gg#	.
+.	36ff#	.
+.	36eeJJJ	]
+4r;	2ddnT;	p
+4ryy	.	.
+2r;yy	2dd#t;	.
+!	!	!LO:HP:b
+.	(8qdd	<
+2r;yy	[2eeT);	.
+=||	=||	=||
 *-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
 !!!verovio: beamFrenchStyle
 !!!LOR: Durand 1915, plates 9327/9328, Paul Dukas, ed.
 !!!PED: Dukas, Paul
@@ -332,3 +400,5 @@
 !!!URL-pdf: https://github.com/craigsapp/beethoven-piano-sonatas/blob/master/reference-edition/sonata28-3.pdf
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/11/04
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2023/04/03
