@@ -550,16 +550,18 @@
 8G 8AJ	16e	.
 .	16c#JJ)	.
 =45	=45	=45
-4D 4F# 4A	(8dSL	p
+!	!LO:TURN:lacc=none	!
+4D 4F# 4A	(8dSSsL	p
 .	8c#	.
 4r	8d	.
 .	8eJ	.
-2r	8f#SL	.
+2r	8f#SsSL	.
 .	8e	.
 .	8f#)	.
 .	8gJ	.
 =46	=46	=46
-1r	(8aSSSL<	.
+!	!LO:TURN:lacc=none	!
+1r	(8aSSsL<	.
 .	8g#	.
 .	8a	.
 .	8bJ	.
@@ -2931,5 +2933,5 @@ ccq8	cccq8	.
 !!!ENC: Craig Stuart Sapp
 !!!END: 2006/07/26
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2023/04/15
+!!!EEV: 2023/18/06
 !!!ONB: mm223-232 needs extra voices for tied notes.
