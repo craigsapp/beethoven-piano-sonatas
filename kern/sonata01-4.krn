@@ -2206,10 +2206,11 @@
 !!!verovio: beamFrenchStyle
 !!!LOR: Durand 1915, plates 9327/9328, Paul Dukas, ed.
 !!!PED: Dukas, Paul
+!!!URL-github: https://github.com/craigsapp/beethoven-piano-sonatas/blob/main/kern/sonata01-4.krn
 !!!URL-vhv: https://verovio.humdrum.org/?file=beethoven/sonatas/sonata01-4.krn
 !!!URL-pdf: https://github.com/craigsapp/beethoven-piano-sonatas/blob/master/reference-edition/sonata01-4.pdf
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/04/05
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2023/06/18
-!!!filter-hands: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I'" 
+!!!filter-hands: shed -ke "s/^LH$/coloR:dodgerblue/I; s/^RH$/coloR:crimson/I'" 
