@@ -72,7 +72,7 @@
 4BBB- 4BB-	4A- 4dn 4f	.
 =8	=8	=8
 *	*^	*
-4.CC- 4.C-	4.ryy	4.G-) 4.e-	.
+4.CC- 4.C-	4.G-) 4.e-	4.ryy	.
 8C- 8G-	16.g-LL	8e-	.
 .	32cc-JJk	.	.
 =9	=9	=9	=9
@@ -470,13 +470,13 @@
 .	.	.	8fJ	.
 =55	=55	=55	=55	=55
 *	*^	*	*	*
-4rA	4rA	1BB-	1cc	8ccL	.
+4rA	1BB-	4rA	1cc	8ccL	.
 .	.	.	.	8e-	.
-2.An	(2G-	.	.	8f	.
+2.An	.	(2G-\	.	8f	.
 .	.	.	.	8e-J	.
 .	.	.	.	8fL	.
 .	.	.	.	8e-	.
-.	4F)	.	.	8f	.
+.	.	4F\)	.	8f	.
 .	.	.	.	8e-J	.
 *	*v	*v	*	*	*
 =56	=56	=56	=56	=56
@@ -513,7 +513,7 @@
 .	[8B-J	.	.
 =59	=59	=59	=59
 *^	*	*	*
-4ryy	4FFF)	8B-L]	2F	.
+4FFF)	4ryy	8B-L]	2F	.
 .	.	8B-	.	.
 8E-L	4ryy	8An	.	.
 8DJ	.	8B-J	.	.
@@ -533,10 +533,10 @@
 4BB-	8d	.	.
 .	[8b-J	.	.
 =61	=61	=61	=61
-4FF)	2f\	8b-L>]	.
-.	.	8b-	.
-8e-L	.	8an	.
-8dJ	.	8b-J	.
+4FF)	8b-L>]	2f\	.
+.	8b-	.	.
+8e-L	8an	.	.
+8dJ	8b-J	.	.
 8cL	8ccL	2ryy	.
 8B-	8dd	.	.
 8F 8An	8ee-	.	.
@@ -616,8 +616,8 @@
 =74	=74	=74
 *	*^	*
 4G 4c	4e-'\ 4ee-'\	4ryy	.
-4F# 4c	4ryy	(8aL	.
-.	.	8ddJ)	.
+4F# 4c	(8aL	4ryy	.
+.	8ddJ)	.	.
 4Fn 4G 4Bn	4d' 4g' 4dd'	4ryy	.
 4E- 4G 4c	(<8ggL	4cc	.
 .	8cccJ)	.	.
@@ -724,7 +724,7 @@
 (4A-X 4d-X	(8ffL	4cc-	.
 .	8ccc-J)	.	.
 4F 4d-	4cc- 4aa- (4ccc-	4ryy	.
-4G- 4d-	4ryy	4b- 4gg- 4bb-	.
+4ryy4G- 4d-	4b- 4gg- 4bb-	4ryy	.
 *	*v	*v	*
 =95	=95	=95
 4c- 4e-	4a- 4aa-	p
@@ -1100,7 +1100,7 @@
 8a-J	.	.	.
 *	*8va	*	*
 4b-/)	4ddd 4fff)	4ryy	.
-(8ccL	4ryy	[4fff (>[>4aaa-	.
+(8ccL	[4fff (>[>4aaa-	4ryy	.
 8ddJ	.	.	.
 =142	=142	=142	=142
 8ee-L	4fff] 4aaa-]	2.bb-	.
@@ -1131,13 +1131,13 @@
 =145	=145	=145	=145
 *^	*	*	*
 *	*^	*	*	*
-4ryy	4e-/	1e-	1ff 1fff	8ffL	.
+4e-/	1e-	4ryy	1ff 1fff	8ffL	.
 .	.	.	.	8aa-	.
-2.ddn	(2cc-	.	.	8bb-	.
+2.ddn	.	(2cc-\	.	8bb-	.
 .	.	.	.	8aa-J	.
 .	.	.	.	8bb-L	.
 .	.	.	.	8aa-	.
-.	4b-)	.	.	8bb-	.
+.	.	4b-\)	.	8bb-	.
 .	.	.	.	8aa-J	.
 *	*v	*v	*	*	*
 =146	=146	=146	=146	=146
@@ -1174,13 +1174,13 @@
 !!LO:LB:g=original
 =149	=149	=149	=149	=149
 *	*^	*	*	*
-4re	4re	1E-	1f 1ff	8fL	.
+4re	1E-	4re	1f 1ff	8fL	.
 .	.	.	.	8a-	.
-2.dn	(2c-	.	.	8b-	.
+2.dn	.	(2c-\	.	8b-	.
 .	.	.	.	8a-J	.
 .	.	.	.	8b-L	.
 .	.	.	.	8a-	.
-.	4B-)	.	.	8b-	.
+.	.	4B-\)	.	8b-	.
 .	.	.	.	8a-J	.
 *	*v	*v	*	*	*
 *v	*v	*	*	*
@@ -1213,14 +1213,14 @@
 .	[8e-J	.	.
 =153	=153	=153	=153
 *^	*	*	*
-4ryy	4BBB-	8e-L]	2B-	.
+4BBB-	4ryy	8e-L]	2B-	.
 .	.	8e-	.	.
 8A-L	4ryy	8d	.	.
 8GJ	.	8e-J	.	.
 8FL	4ryy	8fL	2ryy	.
 8E-J	.	8g	.	.
-4BB-\	8DL>	8a-	.	.
-.	8B-J	8fJ	.	.
+8DL>	4BB-\	8a-	.	.
+8B-J	.	8fJ	.	.
 *v	*v	*	*	*
 !!LO:LB:g=original
 =154	=154	=154	=154
@@ -1234,11 +1234,11 @@
 .	[8ee-J	.	.
 =155	=155	=155	=155
 *^	*	*	*
-4BB-	4ryy	2b-\	8ee-L>]	.
-.	.	.	8ee-	.
+4BB-	4ryy	8ee-L>]	2b-\	.
+.	.	8ee-	.	.
 *clefG2	*clefG2	*	*	*
-8a-L	4ryy	.	8dd	.
-8gJ	.	.	8ee-J	.
+8a-L	4ryy	8dd	.	.
+8gJ	.	8ee-J	.	.
 8fL	4ryy	8ffL	2ryy	.
 8e-	.	8gg	.	.
 8d	4B-	8aa-	.	.
@@ -1960,4 +1960,4 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/08/30
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2020/08/23
+!!!EEV: 2025/02/28
