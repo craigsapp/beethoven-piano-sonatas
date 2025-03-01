@@ -47,11 +47,11 @@
 .	[8.bnJ)	.	.
 8GG 8GL<	.	8Bn 8dL	.
 8GG 8GJ	8b]	8B 8dJ	.
-.	.	(cc32qLLL	.
-.	.	b32q	.
-.	.	a32qJJJ	.
-8r	8ryy	(16bLL)	.
-.	.	16ccJJ)	.
+.	(cc32qLLL	.	.
+.	b32q	.	.
+.	a32qJJJ	.	.
+8r	(16bLL)	8ryy	.
+.	16ccJJ)	.	.
 !!LO:LB:g=original
 =5	=5	=5	=5
 *^	*	*	*
@@ -119,7 +119,7 @@
 8FF#	.	4an)	.	.
 8AAnJ	.	.	.	.
 !	!	!	!	!LO:DY:rj
-8ryy	8BB- 8D 8B-	(16.aLL	8d	sfp
+8BB- 8D 8B-	8ryy	(16.aLL	8d	sfp
 .	.	32gJJk)	.	.
 *v	*v	*	*	*
 =12	=12	=12	=12
@@ -611,4 +611,4 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/10/28
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2020/08/23
+!!!EEV: 2025/02/28
